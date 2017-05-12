@@ -19,7 +19,12 @@ A collection of awesome resources, tools, books, articles etc for Drupal CMS.
 - [Pantheon.io](https://pantheon.io/)
 - [Acquia.com](https://www.acquia.com/)
 - [Platform.sh](https://platform.sh/)
-- [Aberdeencloud.com](http://www.aberdeencloud.com/)
+- [Amazee.io](https://www.amazee.io/)
+
+## Aegir Hosting
+- [Omega8.cc](https://omega8.cc/)
+- [Koumbit.org](https://www.koumbit.org/en/services/AegirVPS)
+- [Praxis.coop](https://praxis.coop/en/aegirvps-pricing-and-options)
 
 ## Drupal Decoupled examples
 - [Decoupled Drupal with GraphQL and React](https://github.com/fubhy/drupal-decoupled-app)
