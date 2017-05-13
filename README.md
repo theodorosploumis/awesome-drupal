@@ -1,6 +1,25 @@
 # Awesome Drupal
 
-A collection of awesome resources, tools, books, articles etc for Drupal CMS.
+> A collection of awesome(\*) resources, tools, books, examples etc for Drupal CMS. Mainly focused on 8.x version.
+
+This list aims to offer several resources that are, mostly, **not hosted on Drupal.org**. Unless other software and frameworks Drupal.org (D.O.) is a totally completed platform and has so much content on it, most of the times well organized and sctructured.
+
+So, this guide is not a replacement for D.O. Consider this as a mini guide focused on advanced Drupal developers that already know how to use D.O. Resources are hand picked by me but any contribution will be appreciated.
+
+## Books
+- [Enterprise Drupal 8 Development](http://www.apress.com/gp/book/9781484202548)
+- [Drupal 8 Development Cookbook](https://www.packtpub.com/web-development/drupal-8-development-cookbook)
+- [Programmer"s Guide to Drupal, 2nd Edition](http://shop.oreilly.com/product/0636920034612.do)
+- [High Performance Drupal](http://shop.oreilly.com/product/0636920012269.do)
+- [Drupal Watchdog magazine](https://drupalwatchdog.com/)
+
+## Chatting channels
+- [IRC](https://www.drupal.org/irc)
+
+## Cheatsheets
+- [Drupal 8 entity API](http://wizzlern.nl/sites/wizzlern.nl/files/artikel/drupal-content-entity-8.0.pdf)
+- [Drupal 7 to 8](http://nuvole.org/sites/default/files/Drupal-7-to-Drupal-8-Cheatsheet.pdf)
+- [Drupal 8 Configuration schema](http://hojtsy.hu/files/ConfigSchemaCheatSheet1.5.pdf)
 
 ## Drupal.org
 - [Core](https://www.drupal.org/project/drupal)
@@ -8,25 +27,14 @@ A collection of awesome resources, tools, books, articles etc for Drupal CMS.
 - [Themes](https://www.drupal.org/project/project_theme?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=drupal_core%3A7234&f%5B3%5D=sm_field_project_type%3Afull&text=&solrsort=iss_project_release_usage+desc&op=Search)
 - [Distributions](https://www.drupal.org/project/project_distribution?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=drupal_core%3A7234&f%5B3%5D=sm_field_project_type%3Afull&text=&solrsort=iss_project_release_usage+desc&op=Search)
 - [Security advisories](https://www.drupal.org/security)
+- [Core API](https://api.drupal.org/api/drupal)
+- [Documentation](https://www.drupal.org/documentation)
 
-## Documentation
- - [Drupal Documentation - main page](https://www.drupal.org/documentation)
+## Events
+- [Drupal Events](https://groups.drupal.org/events)
+- [Drupical.com](http://www.drupical.com)
 
-## Tools
-- [Drupal related Tools](https://drupaltools.github.io/)
-
-## Drupal PaaS
-- [Pantheon.io](https://pantheon.io/)
-- [Acquia.com](https://www.acquia.com/)
-- [Platform.sh](https://platform.sh/)
-- [Amazee.io](https://www.amazee.io/)
-
-## Aegir Hosting
-- [Omega8.cc](https://omega8.cc/)
-- [Koumbit.org](https://www.koumbit.org/en/services/AegirVPS)
-- [Praxis.coop](https://praxis.coop/en/aegirvps-pricing-and-options)
-
-## Drupal Decoupled examples
+## Decoupled examples
 - [Decoupled Drupal with GraphQL and React](https://github.com/fubhy/drupal-decoupled-app)
 - [Elm web app with Headless Drupal backend](https://github.com/Gizra/elm-hedley)
 - [Headless Drupal 8.x with Vue.js](https://github.com/isramv/headless-vue-drupal-8)
@@ -50,7 +58,22 @@ A collection of awesome resources, tools, books, articles etc for Drupal CMS.
 - [Headless Drupal Framework](https://github.com/fourkitchens/headless-framework)
 - [Headless Drupal using blessed](https://github.com/amitaibu/restful-blessed)
 
-## Drupal Scafolding Tools
+## Hosting - PaaS
+- [Pantheon.io](https://pantheon.io/)
+- [Acquia.com](https://www.acquia.com/)
+- [Platform.sh](https://platform.sh/)
+- [Amazee.io](https://www.amazee.io/)
+
+## Hosting - Aegir
+- [Omega8.cc](https://omega8.cc/)
+- [Koumbit.org](https://www.koumbit.org/en/services/AegirVPS)
+- [Praxis.coop](https://praxis.coop/en/aegirvps-pricing-and-options)
+
+## News
+- [Drupal Planet](https://www.drupal.org/planet)
+- [Theweeklydrop.com](http://www.theweeklydrop.com)
+
+## Scafolding Tools
  - [Composer Plugin for updating the Drupal scaffold files when using drupal/core](https://github.com/drupal-composer/drupal-scaffold)
  - [A Drupal 7/8 websites scaffolder built on composer](https://github.com/kgaut/drupal-site-scaffolder)
  - [Yeoman MarionetteJS + Drupal generator](https://github.com/enzolutions/generator-marionette-drupal)
@@ -69,21 +92,16 @@ A collection of awesome resources, tools, books, articles etc for Drupal CMS.
  - [A Yeoman generator for generating a Drupal VM stack](https://github.com/kevinquillen/generator-drupalvm)
  - [Yeoman generator for the Prototype Drupal theme](https://github.com/AtenDesignGroup/generator-center-subtheme)
 
-## Drupal news
-- [Drupal Planet](https://www.drupal.org/planet)
-- [Theweeklydrop.com](http://www.theweeklydrop.com/)
+## Tools
+- [Drupal related Tools](https://drupaltools.github.io/)
 
 ## Tutorials
-
-## Articles
-
-## Events
- - [Drupal Events](https://groups.drupal.org/events)
- - [Drupical.com](http://www.drupical.com/)
+- [Drupalize.me](https://drupalize.me)
+- [BuildAModule](https://buildamodule.com)
+- [KPN University](https://knpuniversity.com/tracks/drupal)
+- [WDTutorials](http://www.wdtutorials.com/drupal)
+- [OSTraining](https://www.ostraining.com/drupal-training)
 
 ## Social media
 - [Twitter](https://twitter.com/drupal)
-- [Facebook](https://www.facebook.com/Drupal-8427738891/)
-
-## Other...
-- [IRC](https://www.drupal.org/irc)
+- [Facebook](https://www.facebook.com/Drupal-8427738891)
