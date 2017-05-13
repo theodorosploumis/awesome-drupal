@@ -119,7 +119,7 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 ## Tutorials
 - [Drupalize.me](https://drupalize.me)
 - [BuildAModule](https://buildamodule.com)
-- [KPN University](https://knpuniversity.com/tracks/drupal)
+- [KNP University](https://knpuniversity.com/tracks/drupal)
 - [WDTutorials](http://www.wdtutorials.com/drupal)
 - [OSTraining](https://www.ostraining.com/drupal-training)
 
