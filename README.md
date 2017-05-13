@@ -6,6 +6,23 @@ This list aims to offer several resources that are, mostly, **not hosted on Drup
 
 So, this guide is not a replacement for D.O. Consider this as a mini guide focused on advanced Drupal developers that already know how to use D.O. Resources are hand picked by me but any contribution will be appreciated.
 
+Table of Contents
+=================
+  - [Books](#books)
+  - [Chatting channels](#chatting-channels)
+  - [Cheatsheets](#cheatsheets)
+  - [Drupal.org](#drupalorg)
+  - [Events](#events)
+  - [Decoupled examples](#decoupled-examples)
+  - [Hosting - PaaS](#hosting---paas)
+  - [Hosting - Aegir](#hosting---aegir)
+  - [News](#news)
+  - [Scafolding Tools](#scafolding-tools)
+  - [Tools](#tools)
+  - [Tutorials](#tutorials)
+  - [Social media](#social-media)
+
+
 ## Books
 - [Enterprise Drupal 8 Development](http://www.apress.com/gp/book/9781484202548)
 - [Drupal 8 Development Cookbook](https://www.packtpub.com/web-development/drupal-8-development-cookbook)
