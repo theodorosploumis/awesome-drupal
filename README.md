@@ -113,6 +113,7 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 
 ## Tools
 - [Drupal related Tools](https://drupaltools.github.io/)
+- [Drupal Integrations](https://drupalintegration.com/)
 
 ## Tutorials
 - [Drupalize.me](https://drupalize.me)
