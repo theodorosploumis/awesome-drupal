@@ -126,3 +126,8 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 ## Social media
 - [Twitter](https://twitter.com/drupal)
 - [Facebook](https://www.facebook.com/Drupal-8427738891)
+
+---
+
+Similar projects:
+- [mrsinguyen/awesome-drupal](https://github.com/mrsinguyen/awesome-drupal)
