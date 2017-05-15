@@ -148,7 +148,7 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 ---
 
 ## License
-![cc0 logo](logocc0.svg)
+![cc0 logo](/logocc0.svg)
 
 ## Similar projects
 - [mrsinguyen/awesome-drupal](https://github.com/mrsinguyen/awesome-drupal)
