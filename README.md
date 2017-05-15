@@ -1,3 +1,5 @@
+<img style="float:right;max-width:400px;height:auto;" src="https://www.drupal.org/files/drupal%208%20logo%20inline%20CMYK%2072.png" alt="Drupal 8 logo">
+
 # Awesome Drupal
 
 > A collection of awesome(\*) resources, tools, books, examples etc for Drupal CMS. Mainly focused on 8.x version.
@@ -149,6 +151,9 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 
 ## License
 ![cc0 logo](https://raw.githubusercontent.com/theodorosploumis/awesome-drupal/master/logocc0.svg)
+_(Logo used on top is a trademark and so not under CC0 license)_
+
+Drupal is a [registered trademark](http://drupal.com/trademark) of [Dries Buytaert](http://buytaert.net/).
 
 ## Similar projects
 - [mrsinguyen/awesome-drupal](https://github.com/mrsinguyen/awesome-drupal)
