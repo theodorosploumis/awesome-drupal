@@ -37,19 +37,19 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 - [High Performance Drupal](http://shop.oreilly.com/product/0636920012269.do)
 - [Drupal Watchdog magazine](https://drupalwatchdog.com/)
 
-<small align="right">Go to <a href="#contents">TOC</a></small>
+<p align="right">Go to <a href="#contents">TOC</a></p>
 
 ## Chatting channels
 - [IRC](https://www.drupal.org/irc)
 
-<small align="right">Go to <a href="#contents">TOC</a></small>
+<p align="right">Go to <a href="#contents">TOC</a></p>
 
 ## Cheatsheets
 - [Drupal 8 entity API](http://wizzlern.nl/sites/wizzlern.nl/files/artikel/drupal-content-entity-8.0.pdf)
 - [Drupal 7 to 8](http://nuvole.org/sites/default/files/Drupal-7-to-Drupal-8-Cheatsheet.pdf)
 - [Drupal 8 Configuration schema](http://hojtsy.hu/files/ConfigSchemaCheatSheet1.5.pdf)
 
-<small align="right">Go to <a href="#contents">TOC</a></small>
+<p align="right">Go to <a href="#contents">TOC</a></p>
 
 ## Community
 - [Drupal.org Groups](https://groups.drupal.org)
@@ -58,7 +58,7 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 - [Reddit Drupal](https://www.reddit.com/r/drupal)
 - [Drupal on Meetup.com](https://www.meetup.com/topics/drupal)
 
-<small align="right">Go to <a href="#contents">TOC</a></small>
+<p align="right">Go to <a href="#contents">TOC</a></p>
 
 ## Drupal.org
 - [Core](https://www.drupal.org/project/drupal)
@@ -69,13 +69,13 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 - [Core API](https://api.drupal.org/api/drupal)
 - [Documentation](https://www.drupal.org/documentation)
 
-<small align="right">Go to <a href="#contents">TOC</a></small>
+<p align="right">Go to <a href="#contents">TOC</a></p>
 
 ## Events
 - [Drupal Events](https://groups.drupal.org/events)
 - [Drupical.com](http://www.drupical.com)
 
-<small align="right">Go to <a href="#contents">TOC</a></small>
+<p align="right">Go to <a href="#contents">TOC</a></p>
 
 ## Decoupled examples
 - [Decoupled Drupal with GraphQL and React](https://github.com/fubhy/drupal-decoupled-app)
@@ -101,7 +101,7 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 - [Headless Drupal Framework](https://github.com/fourkitchens/headless-framework)
 - [Headless Drupal using blessed](https://github.com/amitaibu/restful-blessed)
 
-<small align="right">Go to <a href="#contents">TOC</a></small>
+<p align="right">Go to <a href="#contents">TOC</a></p>
 
 ## Hosting - PaaS
 - [Pantheon.io](https://pantheon.io/)
@@ -109,20 +109,20 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 - [Platform.sh](https://platform.sh/)
 - [Amazee.io](https://www.amazee.io/)
 
-<small align="right">Go to <a href="#contents">TOC</a></small>
+<p align="right">Go to <a href="#contents">TOC</a></p>
 
 ## Hosting - Aegir
 - [Omega8.cc](https://omega8.cc/)
 - [Koumbit.org](https://www.koumbit.org/en/services/AegirVPS)
 - [Praxis.coop](https://praxis.coop/en/aegirvps-pricing-and-options)
 
-<small align="right">Go to <a href="#contents">TOC</a></small>
+<p align="right">Go to <a href="#contents">TOC</a></p>
 
 ## News
 - [Drupal Planet](https://www.drupal.org/planet)
 - [Theweeklydrop.com](http://www.theweeklydrop.com)
 
-<small align="right">Go to <a href="#contents">TOC</a></small>
+<p align="right">Go to <a href="#contents">TOC</a></p>
 
 ## Podcasts
 - [Talking Drupal](http://www.talkingdrupal.com)
@@ -130,7 +130,7 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 - [Acquia Podcasts](https://dev.acquia.com/learn?type_1=podcast)
 - [DrupalEasy Podcast](https://www.drupaleasy.com/podcast)
 
-<small align="right">Go to <a href="#contents">TOC</a></small>
+<p align="right">Go to <a href="#contents">TOC</a></p>
 
 ## Scafolding Tools
  - [Composer Plugin for updating the Drupal scaffold files when using drupal/core](https://github.com/drupal-composer/drupal-scaffold)
@@ -151,13 +151,13 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
  - [A Yeoman generator for generating a Drupal VM stack](https://github.com/kevinquillen/generator-drupalvm)
  - [Yeoman generator for the Prototype Drupal theme](https://github.com/AtenDesignGroup/generator-center-subtheme)
 
-<small align="right">Go to <a href="#contents">TOC</a></small>
+<p align="right">Go to <a href="#contents">TOC</a></p>
 
 ## Tools
 - [Drupal related Tools](https://drupaltools.github.io/)
 - [Drupal Integrations](https://drupalintegration.com/)
 
-<small align="right">Go to <a href="#contents">TOC</a></small>
+<p align="right">Go to <a href="#contents">TOC</a></p>
 
 ## Tutorials
 - [Drupalize.me](https://drupalize.me)
@@ -166,18 +166,18 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 - [WDTutorials](http://www.wdtutorials.com/drupal)
 - [OSTraining](https://www.ostraining.com/drupal-training)
 
-<small align="right">Go to <a href="#contents">TOC</a></small>
+<p align="right">Go to <a href="#contents">TOC</a></p>
 
 ## Videos
 - [DrupalCon sessions](https://www.youtube.com/user/DrupalAssociation/videos)
 
-<small align="right">Go to <a href="#contents">TOC</a></small>
+<p align="right">Go to <a href="#contents">TOC</a></p>
 
 ## Social media
 - [Twitter](https://twitter.com/drupal)
 - [Facebook](https://www.facebook.com/Drupal-8427738891)
 
-<small align="right">Go to <a href="#contents">TOC</a></small>
+<p align="right">Go to <a href="#contents">TOC</a></p>
 
 ---
 
@@ -192,4 +192,4 @@ Drupal is a [registered trademark](http://drupal.com/trademark) of [Dries Buytae
 - [mrsinguyen/awesome-drupal](https://github.com/mrsinguyen/awesome-drupal)
 - [nirgn975/awesome-drupal](https://github.com/nirgn975/awesome-drupal)
 
-<small align="right">Go to <a href="#contents">TOC</a></small>
+<p align="right">Go to <a href="#contents">TOC</a></p>
