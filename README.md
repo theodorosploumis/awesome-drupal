@@ -6,9 +6,8 @@ This list aims to offer several resources that are, mostly, **not hosted on Drup
 
 So, this guide is not a replacement for D.O. Consider this as a mini guide focused on advanced Drupal developers that already know how to use D.O. Resources are hand picked by me but any contribution will be appreciated.
 
-**Table of Contents**
-
----
+**Contents**
+------------
 
   - [Books](#books)
   - [Chatting channels](#chatting-channels)
@@ -148,6 +147,9 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 
 ---
 
-Similar projects:
+## License
+![cc0 logo](logocc0.svg)
+
+## Similar projects
 - [mrsinguyen/awesome-drupal](https://github.com/mrsinguyen/awesome-drupal)
 - [nirgn975/awesome-drupal](https://github.com/nirgn975/awesome-drupal)
