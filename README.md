@@ -13,15 +13,18 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
   - [Books](#books)
   - [Chatting channels](#chatting-channels)
   - [Cheatsheets](#cheatsheets)
+  - [Community](#community)
   - [Drupal.org](#drupalorg)
   - [Events](#events)
   - [Decoupled examples](#decoupled-examples)
   - [Hosting - PaaS](#hosting---paas)
   - [Hosting - Aegir](#hosting---aegir)
   - [News](#news)
+  - [Podcasts](#podcasts)
   - [Scafolding Tools](#scafolding-tools)
   - [Tools](#tools)
   - [Tutorials](#tutorials)
+  - [Videos](#videos)
   - [Social media](#social-media)
 
 ---
@@ -40,6 +43,12 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 - [Drupal 8 entity API](http://wizzlern.nl/sites/wizzlern.nl/files/artikel/drupal-content-entity-8.0.pdf)
 - [Drupal 7 to 8](http://nuvole.org/sites/default/files/Drupal-7-to-Drupal-8-Cheatsheet.pdf)
 - [Drupal 8 Configuration schema](http://hojtsy.hu/files/ConfigSchemaCheatSheet1.5.pdf)
+
+## Community
+- [Drupal Answers](https://drupal.stackexchange.com)
+- [StackOverflow - Drupal topics](http://stackoverflow.com/documentation/drupal/topics)
+- [Reddit Drupal](https://www.reddit.com/r/drupal)
+- []()
 
 ## Drupal.org
 - [Core](https://www.drupal.org/project/drupal)
@@ -93,6 +102,12 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 - [Drupal Planet](https://www.drupal.org/planet)
 - [Theweeklydrop.com](http://www.theweeklydrop.com)
 
+## Podcasts
+- [Talking Drupal](http://www.talkingdrupal.com)
+- [Lullabot Podcast](https://www.lullabot.com/podcasts)
+- [Acquia Podcasts](https://dev.acquia.com/learn?type_1=podcast)
+- [DrupalEasy Podcast](https://www.drupaleasy.com/podcast)
+
 ## Scafolding Tools
  - [Composer Plugin for updating the Drupal scaffold files when using drupal/core](https://github.com/drupal-composer/drupal-scaffold)
  - [A Drupal 7/8 websites scaffolder built on composer](https://github.com/kgaut/drupal-site-scaffolder)
@@ -123,6 +138,9 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 - [WDTutorials](http://www.wdtutorials.com/drupal)
 - [OSTraining](https://www.ostraining.com/drupal-training)
 
+## Videos
+- [DrupalCon sessions](https://www.youtube.com/user/DrupalAssociation/videos)
+
 ## Social media
 - [Twitter](https://twitter.com/drupal)
 - [Facebook](https://www.facebook.com/Drupal-8427738891)
@@ -131,3 +149,4 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 
 Similar projects:
 - [mrsinguyen/awesome-drupal](https://github.com/mrsinguyen/awesome-drupal)
+- [nirgn975/awesome-drupal](https://github.com/nirgn975/awesome-drupal)
