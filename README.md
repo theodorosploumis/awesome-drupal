@@ -37,13 +37,19 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 - [High Performance Drupal](http://shop.oreilly.com/product/0636920012269.do)
 - [Drupal Watchdog magazine](https://drupalwatchdog.com/)
 
+_Go to [TOC](#contents)_
+
 ## Chatting channels
 - [IRC](https://www.drupal.org/irc)
+
+_Go to [TOC](#contents)_
 
 ## Cheatsheets
 - [Drupal 8 entity API](http://wizzlern.nl/sites/wizzlern.nl/files/artikel/drupal-content-entity-8.0.pdf)
 - [Drupal 7 to 8](http://nuvole.org/sites/default/files/Drupal-7-to-Drupal-8-Cheatsheet.pdf)
 - [Drupal 8 Configuration schema](http://hojtsy.hu/files/ConfigSchemaCheatSheet1.5.pdf)
+
+_Go to [TOC](#contents)_
 
 ## Community
 - [Drupal.org Groups](https://groups.drupal.org)
@@ -51,6 +57,8 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 - [StackOverflow - Drupal topics](http://stackoverflow.com/documentation/drupal/topics)
 - [Reddit Drupal](https://www.reddit.com/r/drupal)
 - [Drupal on Meetup.com](https://www.meetup.com/topics/drupal)
+
+_Go to [TOC](#contents)_
 
 ## Drupal.org
 - [Core](https://www.drupal.org/project/drupal)
@@ -61,9 +69,13 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 - [Core API](https://api.drupal.org/api/drupal)
 - [Documentation](https://www.drupal.org/documentation)
 
+_Go to [TOC](#contents)_
+
 ## Events
 - [Drupal Events](https://groups.drupal.org/events)
 - [Drupical.com](http://www.drupical.com)
+
+_Go to [TOC](#contents)_
 
 ## Decoupled examples
 - [Decoupled Drupal with GraphQL and React](https://github.com/fubhy/drupal-decoupled-app)
@@ -89,26 +101,36 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 - [Headless Drupal Framework](https://github.com/fourkitchens/headless-framework)
 - [Headless Drupal using blessed](https://github.com/amitaibu/restful-blessed)
 
+_Go to [TOC](#contents)_
+
 ## Hosting - PaaS
 - [Pantheon.io](https://pantheon.io/)
 - [Acquia.com](https://www.acquia.com/)
 - [Platform.sh](https://platform.sh/)
 - [Amazee.io](https://www.amazee.io/)
 
+_Go to [TOC](#contents)_
+
 ## Hosting - Aegir
 - [Omega8.cc](https://omega8.cc/)
 - [Koumbit.org](https://www.koumbit.org/en/services/AegirVPS)
 - [Praxis.coop](https://praxis.coop/en/aegirvps-pricing-and-options)
 
+_Go to [TOC](#contents)_
+
 ## News
 - [Drupal Planet](https://www.drupal.org/planet)
 - [Theweeklydrop.com](http://www.theweeklydrop.com)
+
+_Go to [TOC](#contents)_
 
 ## Podcasts
 - [Talking Drupal](http://www.talkingdrupal.com)
 - [Lullabot Podcast](https://www.lullabot.com/podcasts)
 - [Acquia Podcasts](https://dev.acquia.com/learn?type_1=podcast)
 - [DrupalEasy Podcast](https://www.drupaleasy.com/podcast)
+
+_Go to [TOC](#contents)_
 
 ## Scafolding Tools
  - [Composer Plugin for updating the Drupal scaffold files when using drupal/core](https://github.com/drupal-composer/drupal-scaffold)
@@ -129,9 +151,13 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
  - [A Yeoman generator for generating a Drupal VM stack](https://github.com/kevinquillen/generator-drupalvm)
  - [Yeoman generator for the Prototype Drupal theme](https://github.com/AtenDesignGroup/generator-center-subtheme)
 
+_Go to [TOC](#contents)_
+
 ## Tools
 - [Drupal related Tools](https://drupaltools.github.io/)
 - [Drupal Integrations](https://drupalintegration.com/)
+
+_Go to [TOC](#contents)_
 
 ## Tutorials
 - [Drupalize.me](https://drupalize.me)
@@ -140,12 +166,18 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 - [WDTutorials](http://www.wdtutorials.com/drupal)
 - [OSTraining](https://www.ostraining.com/drupal-training)
 
+_Go to [TOC](#contents)_
+
 ## Videos
 - [DrupalCon sessions](https://www.youtube.com/user/DrupalAssociation/videos)
+
+_Go to [TOC](#contents)_
 
 ## Social media
 - [Twitter](https://twitter.com/drupal)
 - [Facebook](https://www.facebook.com/Drupal-8427738891)
+
+_Go to [TOC](#contents)_
 
 ---
 
@@ -158,3 +190,5 @@ Drupal is a [registered trademark](http://drupal.com/trademark) of [Dries Buytae
 ## Similar projects
 - [mrsinguyen/awesome-drupal](https://github.com/mrsinguyen/awesome-drupal)
 - [nirgn975/awesome-drupal](https://github.com/nirgn975/awesome-drupal)
+
+_Go to [TOC](#contents)_
