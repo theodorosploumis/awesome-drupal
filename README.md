@@ -45,10 +45,11 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 - [Drupal 8 Configuration schema](http://hojtsy.hu/files/ConfigSchemaCheatSheet1.5.pdf)
 
 ## Community
+- [Drupal.org Groups](https://groups.drupal.org)
 - [Drupal Answers](https://drupal.stackexchange.com)
 - [StackOverflow - Drupal topics](http://stackoverflow.com/documentation/drupal/topics)
 - [Reddit Drupal](https://www.reddit.com/r/drupal)
-- []()
+- [Drupal on Meetup.com](https://www.meetup.com/topics/drupal)
 
 ## Drupal.org
 - [Core](https://www.drupal.org/project/drupal)
