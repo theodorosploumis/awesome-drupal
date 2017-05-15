@@ -182,8 +182,9 @@ _Go to [TOC](#contents)_
 ---
 
 ## License
-![cc0 logo](https://raw.githubusercontent.com/theodorosploumis/awesome-drupal/master/logocc0.svg)
-_(Logo used on top is a trademark and so not under CC0 license)_
+![cc0 logo](https://raw.githubusercontent.com/theodorosploumis/awesome-drupal/master/cc0logo.png)
+
+_(Logo used on top is a Drupal trademark and so it's not under CC0 license)_
 
 Drupal is a [registered trademark](http://drupal.com/trademark) of [Dries Buytaert](http://buytaert.net/).
 
