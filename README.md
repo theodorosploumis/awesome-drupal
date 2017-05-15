@@ -4,7 +4,7 @@
 
 > A collection of awesome(\*) resources, tools, books, examples etc for Drupal CMS. Mainly focused on 8.x version.
 
-This list aims to offer several resources that are, mostly, **not hosted on Drupal.org**. Unless other software and frameworks Drupal.org (D.O.) is a totally completed platform and has so much content on it, most of the times well organized and sctructured.
+This list aims to offer several resources that are, mostly, **not hosted on Drupal.org**. Unless other software and frameworks Drupal.org (D.O.) is a totally completed platform and has so much content on it, most of the times well organized and structured.
 
 So, this guide is not a replacement for D.O. Consider this as a mini guide focused on advanced Drupal developers that already know how to use D.O. Resources are hand picked by me but any contribution will be appreciated.
 
@@ -37,19 +37,19 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 - [High Performance Drupal](http://shop.oreilly.com/product/0636920012269.do)
 - [Drupal Watchdog magazine](https://drupalwatchdog.com/)
 
-_Go to [TOC](#contents)_
+<small align="right">Go to <a href="#contents">TOC</a></small>
 
 ## Chatting channels
 - [IRC](https://www.drupal.org/irc)
 
-_Go to [TOC](#contents)_
+<small align="right">Go to <a href="#contents">TOC</a></small>
 
 ## Cheatsheets
 - [Drupal 8 entity API](http://wizzlern.nl/sites/wizzlern.nl/files/artikel/drupal-content-entity-8.0.pdf)
 - [Drupal 7 to 8](http://nuvole.org/sites/default/files/Drupal-7-to-Drupal-8-Cheatsheet.pdf)
 - [Drupal 8 Configuration schema](http://hojtsy.hu/files/ConfigSchemaCheatSheet1.5.pdf)
 
-_Go to [TOC](#contents)_
+<small align="right">Go to <a href="#contents">TOC</a></small>
 
 ## Community
 - [Drupal.org Groups](https://groups.drupal.org)
@@ -58,7 +58,7 @@ _Go to [TOC](#contents)_
 - [Reddit Drupal](https://www.reddit.com/r/drupal)
 - [Drupal on Meetup.com](https://www.meetup.com/topics/drupal)
 
-_Go to [TOC](#contents)_
+<small align="right">Go to <a href="#contents">TOC</a></small>
 
 ## Drupal.org
 - [Core](https://www.drupal.org/project/drupal)
@@ -69,13 +69,13 @@ _Go to [TOC](#contents)_
 - [Core API](https://api.drupal.org/api/drupal)
 - [Documentation](https://www.drupal.org/documentation)
 
-_Go to [TOC](#contents)_
+<small align="right">Go to <a href="#contents">TOC</a></small>
 
 ## Events
 - [Drupal Events](https://groups.drupal.org/events)
 - [Drupical.com](http://www.drupical.com)
 
-_Go to [TOC](#contents)_
+<small align="right">Go to <a href="#contents">TOC</a></small>
 
 ## Decoupled examples
 - [Decoupled Drupal with GraphQL and React](https://github.com/fubhy/drupal-decoupled-app)
@@ -101,7 +101,7 @@ _Go to [TOC](#contents)_
 - [Headless Drupal Framework](https://github.com/fourkitchens/headless-framework)
 - [Headless Drupal using blessed](https://github.com/amitaibu/restful-blessed)
 
-_Go to [TOC](#contents)_
+<small align="right">Go to <a href="#contents">TOC</a></small>
 
 ## Hosting - PaaS
 - [Pantheon.io](https://pantheon.io/)
@@ -109,20 +109,20 @@ _Go to [TOC](#contents)_
 - [Platform.sh](https://platform.sh/)
 - [Amazee.io](https://www.amazee.io/)
 
-_Go to [TOC](#contents)_
+<small align="right">Go to <a href="#contents">TOC</a></small>
 
 ## Hosting - Aegir
 - [Omega8.cc](https://omega8.cc/)
 - [Koumbit.org](https://www.koumbit.org/en/services/AegirVPS)
 - [Praxis.coop](https://praxis.coop/en/aegirvps-pricing-and-options)
 
-_Go to [TOC](#contents)_
+<small align="right">Go to <a href="#contents">TOC</a></small>
 
 ## News
 - [Drupal Planet](https://www.drupal.org/planet)
 - [Theweeklydrop.com](http://www.theweeklydrop.com)
 
-_Go to [TOC](#contents)_
+<small align="right">Go to <a href="#contents">TOC</a></small>
 
 ## Podcasts
 - [Talking Drupal](http://www.talkingdrupal.com)
@@ -130,7 +130,7 @@ _Go to [TOC](#contents)_
 - [Acquia Podcasts](https://dev.acquia.com/learn?type_1=podcast)
 - [DrupalEasy Podcast](https://www.drupaleasy.com/podcast)
 
-_Go to [TOC](#contents)_
+<small align="right">Go to <a href="#contents">TOC</a></small>
 
 ## Scafolding Tools
  - [Composer Plugin for updating the Drupal scaffold files when using drupal/core](https://github.com/drupal-composer/drupal-scaffold)
@@ -151,13 +151,13 @@ _Go to [TOC](#contents)_
  - [A Yeoman generator for generating a Drupal VM stack](https://github.com/kevinquillen/generator-drupalvm)
  - [Yeoman generator for the Prototype Drupal theme](https://github.com/AtenDesignGroup/generator-center-subtheme)
 
-_Go to [TOC](#contents)_
+<small align="right">Go to <a href="#contents">TOC</a></small>
 
 ## Tools
 - [Drupal related Tools](https://drupaltools.github.io/)
 - [Drupal Integrations](https://drupalintegration.com/)
 
-_Go to [TOC](#contents)_
+<small align="right">Go to <a href="#contents">TOC</a></small>
 
 ## Tutorials
 - [Drupalize.me](https://drupalize.me)
@@ -166,18 +166,18 @@ _Go to [TOC](#contents)_
 - [WDTutorials](http://www.wdtutorials.com/drupal)
 - [OSTraining](https://www.ostraining.com/drupal-training)
 
-_Go to [TOC](#contents)_
+<small align="right">Go to <a href="#contents">TOC</a></small>
 
 ## Videos
 - [DrupalCon sessions](https://www.youtube.com/user/DrupalAssociation/videos)
 
-_Go to [TOC](#contents)_
+<small align="right">Go to <a href="#contents">TOC</a></small>
 
 ## Social media
 - [Twitter](https://twitter.com/drupal)
 - [Facebook](https://www.facebook.com/Drupal-8427738891)
 
-_Go to [TOC](#contents)_
+<small align="right">Go to <a href="#contents">TOC</a></small>
 
 ---
 
@@ -192,4 +192,4 @@ Drupal is a [registered trademark](http://drupal.com/trademark) of [Dries Buytae
 - [mrsinguyen/awesome-drupal](https://github.com/mrsinguyen/awesome-drupal)
 - [nirgn975/awesome-drupal](https://github.com/nirgn975/awesome-drupal)
 
-_Go to [TOC](#contents)_
+<small align="right">Go to <a href="#contents">TOC</a></small>
