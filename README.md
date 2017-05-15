@@ -1,4 +1,4 @@
-<img style="float:right;max-width:400px;height:auto;" src="https://www.drupal.org/files/drupal%208%20logo%20inline%20CMYK%2072.png" alt="Drupal 8 logo">
+<img align="right" src="https://raw.githubusercontent.com/theodorosploumis/awesome-drupal/master/drupal.png" alt="Drupal 8 logo">
 
 # Awesome Drupal
 
