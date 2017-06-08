@@ -22,6 +22,7 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
   - [Hosting - Aegir](#hosting---aegir)
   - [News](#news)
   - [Podcasts](#podcasts)
+  - [Provision](#provision)
   - [Scafolding Tools](#scafolding-tools)
   - [Tools](#tools)
   - [Tutorials](#tutorials)
@@ -132,6 +133,34 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
+## Provision
+
+### Ansible
+- [Ansible Drupal roles](https://galaxy.ansible.com/list#/roles?autocomplete=drupal)
+
+### Chef
+- [Chef Cookbooks - Drupal](https://supermarket.chef.io/cookbooks?q=drupal)
+
+### Puppet
+- [Puppet Drupal](https://forge.puppet.com/tags/drupal)
+
+### SaltStack
+- [SaltStack Drupal formula](https://github.com/saltstack-formulas/drupal-formula)
+
+### Terraform
+- [Terraform - HAProxy, Drupal and Mysql](https://github.com/enxebre/atlas-terraform-HAProxy-drupal)
+- [neilmillard/terraform-drupal](https://github.com/neilmillard/terraform-drupal)
+- [Terraform setup for drupal nginx , mysql php on AWS](https://github.com/iahmad-khan/terraform-aws-lemp-cvicrm)
+
+### Vagrant
+- [Vagrant Boxes - Drupal](https://atlas.hashicorp.com/boxes/search?q=drupal)
+
+### Other/Several
+- [Provision of drupal lamp stack](https://github.com/ec-europa/infra)
+- [Provisioning a simple PHP/Drupal dev environment](https://gist.github.com/dickolsson/45f06e85f8a8e57eaf23)
+
+<p align="right">Go to <a href="#contents">TOC</a></p>
+
 ## Scafolding Tools
  - [Composer Plugin for updating the Drupal scaffold files when using drupal/core](https://github.com/drupal-composer/drupal-scaffold)
  - [A Drupal 7/8 websites scaffolder built on composer](https://github.com/kgaut/drupal-site-scaffolder)
@@ -156,6 +185,8 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 ## Tools
 - [Drupal related Tools](https://drupaltools.github.io/)
 - [Drupal Integrations](https://drupalintegration.com/)
+- [D.O. - Development tools overview](https://www.drupal.org/docs/develop/development-tools/development-tools-overview)
+- [Dreditor](https://dreditor.org/)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
