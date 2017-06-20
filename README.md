@@ -14,6 +14,7 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
   - [Books](#books)
   - [Chatting channels](#chatting-channels)
   - [Cheatsheets](#cheatsheets)
+  - [CI template examples](#ci-template-examples)
   - [Community](#community)
   - [Drupal.org](#drupalorg)
   - [Events](#events)
@@ -23,7 +24,7 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
   - [News](#news)
   - [Podcasts](#podcasts)
   - [Provision](#provision)
-  - [Scafolding Tools](#scafolding-tools)
+  - [Scaffolding Tools](#scaffolding-tools)
   - [Tools](#tools)
   - [Tutorials](#tutorials)
   - [Videos](#videos)
@@ -49,6 +50,19 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 - [Drupal 8 entity API](http://wizzlern.nl/sites/wizzlern.nl/files/artikel/drupal-content-entity-8.0.pdf)
 - [Drupal 7 to 8](http://nuvole.org/sites/default/files/Drupal-7-to-Drupal-8-Cheatsheet.pdf)
 - [Drupal 8 Configuration schema](http://hojtsy.hu/files/ConfigSchemaCheatSheet1.5.pdf)
+
+<p align="right">Go to <a href="#contents">TOC</a></p>
+
+## CI template examples
+- [drush - .travis.yml](https://github.com/drush-ops/drush/blob/master/.travis.yml)
+- [drush - circle.yml](https://github.com/drush-ops/drush/blob/master/circle.yml)
+- [drupal core - phpcs.xml.dist](https://github.com/drupal/core/blob/8.4.x/phpcs.xml.dist)
+- [DrupalCI: Drupal.org Testing Infrastructure](https://www.drupal.org/project/drupalci)
+- [drupalcommerce/commerce - .travis.yml](https://github.com/drupalcommerce/commerce/blob/8.x-2.x/.travis.yml)
+- [drupalcommerce/commerce - phpcs.xml](https://github.com/drupalcommerce/commerce/blob/8.x-2.x/phpcs.xml)
+- [acquia/blt/- RoboFile.php](https://github.com/acquia/blt/blob/8.x/RoboFile.php)
+- [Jenkins and SonarQube Drupal CI and Static Code Analysis](https://github.com/geerlingguy/drupalci-sonar-jenkins)
+- [drupal_ti - Travis Integration for Drupal modules](https://github.com/LionsAd/drupal_ti)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
@@ -161,7 +175,7 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
-## Scafolding Tools
+## Scaffolding Tools
  - [Composer Plugin for updating the Drupal scaffold files when using drupal/core](https://github.com/drupal-composer/drupal-scaffold)
  - [A Drupal 7/8 websites scaffolder built on composer](https://github.com/kgaut/drupal-site-scaffolder)
  - [Yeoman MarionetteJS + Drupal generator](https://github.com/enzolutions/generator-marionette-drupal)
@@ -222,5 +236,6 @@ Drupal is a [registered trademark](http://drupal.com/trademark) of [Dries Buytae
 ## Similar projects
 - [mrsinguyen/awesome-drupal](https://github.com/mrsinguyen/awesome-drupal)
 - [nirgn975/awesome-drupal](https://github.com/nirgn975/awesome-drupal)
+- [Lullabot/awesome-d8](https://github.com/Lullabot/awesome-d8)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
