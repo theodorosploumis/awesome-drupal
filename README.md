@@ -1,6 +1,7 @@
 <img align="right" src="https://raw.githubusercontent.com/theodorosploumis/awesome-drupal/master/drupal.png" alt="Drupal 8 logo">
 
-# Awesome Drupal [Edit](https://github.com/theodorosploumis/awesome-drupal/edit/master/README.md)
+# Awesome Drupal 
+[Edit](https://github.com/theodorosploumis/awesome-drupal/edit/master/README.md)
 
 > A collection of awesome(\*) resources, tools, books, examples etc for Drupal CMS. Mainly focused on 8.x version.
 
