@@ -56,6 +56,8 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 ## CI template examples
 - [drush - .travis.yml](https://github.com/drush-ops/drush/blob/master/.travis.yml)
 - [drush - circle.yml](https://github.com/drush-ops/drush/blob/master/circle.yml)
+- [drupal-scaffold-docker - .travis.yml](https://github.com/drupal-composer-ext/drupal-scaffold-docker/blob/8.x/template/.travis.yml)
+- [drupal-scaffold-docker - .gitlab-ci.yml](https://github.com/drupal-composer-ext/drupal-scaffold-docker/blob/8.x/template/.gitlab-ci.yml)
 - [drupal core - phpcs.xml.dist](https://github.com/drupal/core/blob/8.4.x/phpcs.xml.dist)
 - [DrupalCI: Drupal.org Testing Infrastructure](https://www.drupal.org/project/drupalci)
 - [drupalcommerce/commerce - .travis.yml](https://github.com/drupalcommerce/commerce/blob/8.x-2.x/.travis.yml)
