@@ -1,6 +1,6 @@
 <img align="right" src="https://raw.githubusercontent.com/theodorosploumis/awesome-drupal/master/drupal.png" alt="Drupal 8 logo">
 
-# Awesome Drupal
+# Awesome Drupal [Edit](https://github.com/theodorosploumis/awesome-drupal/edit/master/README.md)
 
 > A collection of awesome(\*) resources, tools, books, examples etc for Drupal CMS. Mainly focused on 8.x version.
 
@@ -195,6 +195,7 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
  - [Yeoman generator for drupal modules](https://github.com/davidmaneuver/generator-drupalmodule)
  - [A Yeoman generator for generating a Drupal VM stack](https://github.com/kevinquillen/generator-drupalvm)
  - [Yeoman generator for the Prototype Drupal theme](https://github.com/AtenDesignGroup/generator-center-subtheme)
+ - [drupal-scaffold-docker](https://github.com/drupal-composer-ext/drupal-scaffold-docker)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
