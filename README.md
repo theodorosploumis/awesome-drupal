@@ -96,6 +96,7 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
 ## Decoupled examples
+- [Contenta: API-First Drupal 8.x distribution with several examples of decoupled fron-end](https://github.com/contentacms)
 - [Decoupled Drupal with GraphQL and React](https://github.com/fubhy/drupal-decoupled-app)
 - [Elm web app with Headless Drupal backend](https://github.com/Gizra/elm-hedley)
 - [Headless Drupal 8.x with Vue.js](https://github.com/isramv/headless-vue-drupal-8)
