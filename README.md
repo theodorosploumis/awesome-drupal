@@ -99,6 +99,7 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 - [Reservoir is a back end in Drupal 8.x for your front end using JSON API and OAuth2](https://github.com/acquia/reservoir)
 - [Contenta: API-First Drupal 8.x distribution with several examples of decoupled fron-end](https://github.com/contentacms)
 - [Decoupled Drupal with GraphQL and React](https://github.com/fubhy/drupal-decoupled-app)
+- [Drupal 8 Isomorphic SPA With React](https://github.com/tevdi/drupal8-react-spa)
 - [Elm web app with Headless Drupal backend](https://github.com/Gizra/elm-hedley)
 - [Headless Drupal 8.x with Vue.js](https://github.com/isramv/headless-vue-drupal-8)
 - [Decoupled Blocks - 8.x](https://www.drupal.org/project/pdb)
