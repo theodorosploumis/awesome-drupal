@@ -157,9 +157,9 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 
 ### AWS
 - [Amazon marketplace search: Drupal-8](https://aws.amazon.com/marketplace/search/results?searchTerms=drupal-8)
+- [awslabs/eb-php-drupal - Deploying drupal on Elastic Beanstalk](https://github.com/awslabs/eb-php-drupal)
 - [awslabs/aws-refarch-drupal - Running Drupal on AWS](https://github.com/awslabs/aws-refarch-drupal)
 - [soccerties/Drupal-AWS-Ansible - High availability Drupal in AWS using Ansible](https://github.com/soccerties/Drupal-AWS-Ansible)
-- [awslabs/eb-php-drupal - Deploying drupal on Elastic Beanstalk](https://github.com/awslabs/eb-php-drupal)
 - [kaushikkv/aws-drupal - Running Drupal on AWS](https://github.com/kaushikkv/aws-drupal)
 
 ### Ansible
