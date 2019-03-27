@@ -14,7 +14,7 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 
   - [Books](#books)
   - [Chatting channels](#chatting-channels)
-  - [Cheatsheets](#cheatsheets)
+  - [Cheatsheets - Guides](#cheatsheets)
   - [CI template examples](#ci-template-examples)
   - [Community](#community)
   - [Drupal.org](#drupalorg)
@@ -49,6 +49,7 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
 ## Cheatsheets
+- [Drupal best practices](https://github.com/theodorosploumis/drupal-best-practices)
 - [Drupal 8 entity API](http://wizzlern.nl/sites/wizzlern.nl/files/artikel/drupal-content-entity-8.0.pdf)
 - [Drupal 7 to 8](http://nuvole.org/sites/default/files/Drupal-7-to-Drupal-8-Cheatsheet.pdf)
 - [Drupal 8 Configuration schema](http://hojtsy.hu/files/ConfigSchemaCheatSheet1.5.pdf)
