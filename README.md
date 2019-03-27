@@ -43,6 +43,7 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
 ## Chatting channels
+- [Slack](https://www.drupal.org/slack)
 - [IRC](https://www.drupal.org/irc)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
@@ -214,7 +215,6 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 - [Drupal related Tools](https://drupaltools.github.io/)
 - [Drupal Integrations](https://drupalintegration.com/)
 - [D.O. - Development tools overview](https://www.drupal.org/docs/develop/development-tools/development-tools-overview)
-- [Dreditor](https://dreditor.org/)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
