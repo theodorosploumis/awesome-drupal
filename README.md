@@ -213,7 +213,7 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
 ## Tools
-- [Drupal related Tools](https://drupaltools.github.io/)
+- [drupaltools.github.io - All Drupal related tools collection](https://drupaltools.github.io/)
 - [Drupal Integrations](https://drupalintegration.com/)
 - [D.O. - Development tools overview](https://www.drupal.org/docs/develop/development-tools/development-tools-overview)
 
