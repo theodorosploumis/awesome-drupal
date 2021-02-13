@@ -58,6 +58,10 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 - [Drupal 8 entity API](http://wizzlern.nl/sites/wizzlern.nl/files/artikel/drupal-content-entity-8.0.pdf)
 - [Drupal 7 to 8](http://nuvole.org/sites/default/files/Drupal-7-to-Drupal-8-Cheatsheet.pdf)
 - [Drupal 8 Configuration schema](http://hojtsy.hu/files/ConfigSchemaCheatSheet1.5.pdf)
+- [Gist: Drupal 8 Cheatsheet](https://gist.github.com/cesarmiquel/48404d99c8f7d9f274705b7a601c5554)
+- [Gist: Drupal 8 programmatic solutions](https://gist.github.com/bdlangton/e826276a0c78d9a89d8dec23dd0c7683)
+- [Gist: Drupal 8 Twig cheatsheet](https://gist.github.com/raphaellarrinaga/c1d71f69873c967ff74f8ec09cbdf9e1)
+- [Gist: List of all drupal 6.x and 7.x hooks by implementation](https://gist.github.com/webchick/4409685)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
@@ -91,8 +95,11 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 - [Themes](https://www.drupal.org/project/project_theme?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=drupal_core%3A7234&f%5B3%5D=sm_field_project_type%3Afull&text=&solrsort=iss_project_release_usage+desc&op=Search)
 - [Distributions](https://www.drupal.org/project/project_distribution?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=drupal_core%3A7234&f%5B3%5D=sm_field_project_type%3Afull&text=&solrsort=iss_project_release_usage+desc&op=Search)
 - [Security advisories](https://www.drupal.org/security)
-- [Core API](https://api.drupal.org/api/drupal)
 - [Documentation](https://www.drupal.org/documentation)
+- [Core API Reference](https://api.drupal.org/api/drupal)
+- [Drupal 8.x+ APIs](https://www.drupal.org/node/2814041)
+- [Forms API](https://www.drupal.org/docs/drupal-apis/form-api)
+- [7.x Forms API reference](https://api.drupal.org/api/drupal/developer!topics!forms_api_reference.html/7.x)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
@@ -261,6 +268,7 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 - [mrsinguyen/awesome-drupal](https://github.com/mrsinguyen/awesome-drupal)
 - [nirgn975/awesome-drupal](https://github.com/nirgn975/awesome-drupal)
 - [Lullabot/awesome-d8](https://github.com/Lullabot/awesome-d8)
+- [dpacassi/UltimateDrupalReference](https://github.com/dpacassi/UltimateDrupalReference)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
