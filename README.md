@@ -13,6 +13,7 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 ------------
 
   - [Books](#books)
+  - [Certifications](#certifications)
   - [Chatting channels](#chatting-channels)
   - [Cheatsheets - Guides](#cheatsheets)
   - [CI template examples](#ci-template-examples)
@@ -30,17 +31,21 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
   - [Tutorials](#tutorials)
   - [Videos](#videos)
   - [Social media](#social-media)
+  - [Similar projects](similar-projects)
 
 ---
 
 ## Books
-- [Enterprise Drupal 8 Development](http://www.apress.com/gp/book/9781484202548)
-- [Drupal 8 Development Cookbook](https://www.packtpub.com/web-development/drupal-8-development-cookbook)
-- [Programmer"s Guide to Drupal, 2nd Edition](http://shop.oreilly.com/product/0636920034612.do)
-- [High Performance Drupal](http://shop.oreilly.com/product/0636920012269.do)
-- [Drupal Watchdog magazine](https://drupalwatchdog.com/)
+- [Drupal 9 Module Development - Third Edition, 2020](https://www.packtpub.com/product/drupal-9-module-development-third-edition/9781800204621)
+- [Enterprise Drupal 8 Development, 2017](http://www.apress.com/gp/book/9781484202548)
+- [Drupal 8 Development Cookbook, 2017](https://www.packtpub.com/web-development/drupal-8-development-cookbook)
+- [Programmer"s Guide to Drupal, 2nd Edition, 2015](https://www.oreilly.com/library/view/programmers-guide-to/9781491911457)
+- [High Performance Drupal, 2013](https://www.oreilly.com/library/view/high-performance-drupal/9781449358013)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
+
+## Certifications
+- [Acquia Certification](https://www.acquia.com/support/training-certification/acquia-certification)
 
 ## Chatting channels
 - [Slack](https://www.drupal.org/slack)
@@ -141,6 +146,9 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
+## Jobs
+- https://jobs.drupal.org
+
 ## News
 - [Drupal Planet](https://www.drupal.org/planet)
 - [Theweeklydrop.com](http://www.theweeklydrop.com)
@@ -150,7 +158,6 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 ## Podcasts
 - [Talking Drupal](http://www.talkingdrupal.com)
 - [Lullabot Podcast](https://www.lullabot.com/podcasts)
-- [Acquia Podcasts](https://dev.acquia.com/learn?type_1=podcast)
 - [DrupalEasy Podcast](https://www.drupaleasy.com/podcast)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
@@ -215,7 +222,7 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 ## Tools
 - [drupaltools.github.io - All Drupal related tools collection](https://drupaltools.github.io/)
 - [Drupal Integrations](https://drupalintegration.com/)
-- [D.O. - Development tools overview](https://www.drupal.org/docs/develop/development-tools/development-tools-overview)
+- [D.O. - Development tools overview](https://www.drupal.org/node/147789)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
@@ -223,8 +230,8 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 - [Drupalize.me](https://drupalize.me)
 - [BuildAModule](https://buildamodule.com)
 - [KNP University](https://knpuniversity.com/tracks/drupal)
-- [WDTutorials](http://www.wdtutorials.com/drupal)
 - [OSTraining](https://www.ostraining.com/drupal-training)
+- [Tutorialspoint](https://www.tutorialspoint.com/drupal/index.htm)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
@@ -234,8 +241,26 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
 ## Social media
-- [Twitter](https://twitter.com/drupal)
-- [Facebook](https://www.facebook.com/Drupal-8427738891)
+- https://twitter.com/drupal
+- https://twitter.com/drupalassoc
+- https://twitter.com/drupal_org
+- https://twitter.com/drupal_infra
+- https://twitter.com/drupal8modules
+- https://twitter.com/drupalcore
+- https://twitter.com/drupalplanet
+- https://twitter.com/drupaljobs
+- https://twitter.com/drupalsecurity
+- https://twitter.com/DrupalEurope
+- https://twitter.com/DrupalConNA
+- https://twitter.com/DrupalConEur
+- https://www.facebook.com/DrupalOpenSource
+
+<p align="right">Go to <a href="#contents">TOC</a></p>
+
+## Similar projects
+- [mrsinguyen/awesome-drupal](https://github.com/mrsinguyen/awesome-drupal)
+- [nirgn975/awesome-drupal](https://github.com/nirgn975/awesome-drupal)
+- [Lullabot/awesome-d8](https://github.com/Lullabot/awesome-d8)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
@@ -247,10 +272,3 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 _(Logo used on top is a Drupal trademark and so it's not under CC0 license)_
 
 Drupal is a [registered trademark](http://drupal.com/trademark) of [Dries Buytaert](http://buytaert.net/).
-
-## Similar projects
-- [mrsinguyen/awesome-drupal](https://github.com/mrsinguyen/awesome-drupal)
-- [nirgn975/awesome-drupal](https://github.com/nirgn975/awesome-drupal)
-- [Lullabot/awesome-d8](https://github.com/Lullabot/awesome-d8)
-
-<p align="right">Go to <a href="#contents">TOC</a></p>
