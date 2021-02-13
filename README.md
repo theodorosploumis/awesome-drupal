@@ -40,7 +40,8 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 - [Enterprise Drupal 8 Development, 2017](http://www.apress.com/gp/book/9781484202548)
 - [Drupal 8 Development Cookbook, 2017](https://www.packtpub.com/web-development/drupal-8-development-cookbook)
 - [Programmer"s Guide to Drupal, 2nd Edition, 2015](https://www.oreilly.com/library/view/programmers-guide-to/9781491911457)
-- [High Performance Drupal, 2013](https://www.oreilly.com/library/view/high-performance-drupal/9781449358013)
+- [High Performance Drupal, 2013](https://www.oreilly.com/library/view/high-performance-drupal/9781449358013)https://www.drupal.org/books
+- [drupal.org/books](https://www.drupal.org/books)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
@@ -229,7 +230,7 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 ## Tools
 - [drupaltools.github.io - All Drupal related tools collection](https://drupaltools.github.io/)
 - [Drupal Integrations](https://drupalintegration.com/)
-- [D.O. - Development tools overview](https://www.drupal.org/node/147789)
+- [Drupal.org - Development tools overview](https://www.drupal.org/node/147789)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
@@ -238,7 +239,8 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 - [BuildAModule](https://buildamodule.com)
 - [KNP University](https://knpuniversity.com/tracks/drupal)
 - [OSTraining](https://www.ostraining.com/drupal-training)
-- [Tutorialspoint](https://www.tutorialspoint.com/drupal/index.htm)
+- [Tutorialspoint](https://www.tutorialspoint.com/drupal)
+- [Level Up Tutorials](https://www.leveluptutorials.com)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
@@ -265,9 +267,9 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
 ## Similar projects
-- [mrsinguyen/awesome-drupal](https://github.com/mrsinguyen/awesome-drupal)
-- [nirgn975/awesome-drupal](https://github.com/nirgn975/awesome-drupal)
-- [Lullabot/awesome-d8](https://github.com/Lullabot/awesome-d8)
+- [mrsinguyen/awesome-drupal ()](https://github.com/mrsinguyen/awesome-drupal)
+- [nirgn975/awesome-drupal (2018)](https://github.com/nirgn975/awesome-drupal)
+- [Lullabot/awesome-d8 (2015)](https://github.com/Lullabot/awesome-d8)
 - [dpacassi/UltimateDrupalReference](https://github.com/dpacassi/UltimateDrupalReference)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
