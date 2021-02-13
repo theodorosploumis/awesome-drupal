@@ -3,11 +3,14 @@
 # Awesome Drupal 
 [Edit](https://github.com/theodorosploumis/awesome-drupal/edit/master/README.md)
 
-> A collection of awesome(\*) resources, tools, books, examples etc for Drupal CMS. Mainly focused on 8.x version.
+> A collection of awesome(\*) resources, tools, books, examples etc for Drupal CMS. Mainly focused on 8.x+ versions.
 
 This list aims to offer several resources that are, mostly, **not hosted on Drupal.org**. Unless other software and frameworks Drupal.org (D.O.) is a totally completed platform and has so much content on it, most of the times well organized and structured.
 
-So, this guide is not a replacement for D.O. Consider this as a mini guide focused on advanced Drupal developers that already know how to use D.O. Resources are hand picked by me but any contribution will be appreciated.
+It does not contain any modules, themes or distributions suggestions.
+
+Finally, this guide is not a replacement for D.O. Consider this as a mini guide focused on advanced Drupal developers that already know how to use D.O. Resources are hand picked by me and any contribution will be appreciated.
+
 
 **Contents**
 ------------
@@ -20,9 +23,11 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
   - [Community](#community)
   - [Drupal.org](#drupalorg)
   - [Events](#events)
+  - [Graphics](#graphics)
   - [Decoupled examples](#decoupled-examples)
   - [Hosting - PaaS](#hosting---paas)
   - [Hosting - Aegir](#hosting---aegir)
+  - [Marketing](#marketing)
   - [News](#news)
   - [Podcasts](#podcasts)
   - [Provision](#provision)
@@ -35,6 +40,7 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 
 ---
 
+
 ## Books
 - [Drupal 9 Module Development - Third Edition, 2020](https://www.packtpub.com/product/drupal-9-module-development-third-edition/9781800204621)
 - [Enterprise Drupal 8 Development, 2017](http://www.apress.com/gp/book/9781484202548)
@@ -45,14 +51,17 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
+
 ## Certifications
 - [Acquia Certification](https://www.acquia.com/support/training-certification/acquia-certification)
+
 
 ## Chatting channels
 - [Slack](https://www.drupal.org/slack)
 - [IRC](https://www.drupal.org/irc)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
+
 
 ## Cheatsheets
 - [Drupal best practices](https://github.com/theodorosploumis/drupal-best-practices)
@@ -65,6 +74,7 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 - [Gist: List of all drupal 6.x and 7.x hooks by implementation](https://gist.github.com/webchick/4409685)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
+
 
 ## CI template examples
 - [drush - .travis.yml](https://github.com/drush-ops/drush/blob/master/.travis.yml)
@@ -81,6 +91,7 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
+
 ## Community
 - [Drupal.org Groups](https://groups.drupal.org)
 - [Drupal Answers](https://drupal.stackexchange.com)
@@ -89,6 +100,7 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 - [Drupal on Meetup.com](https://www.meetup.com/topics/drupal)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
+
 
 ## Drupal.org
 - [Core](https://www.drupal.org/project/drupal)
@@ -104,11 +116,13 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
+
 ## Events
 - [Drupal Events](https://groups.drupal.org/events)
 - [Drupical.com](http://www.drupical.com)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
+
 
 ## Decoupled examples
 - [Reservoir is a back end in Drupal 8.x for your front end using JSON API and OAuth2](https://github.com/acquia/reservoir)
@@ -139,6 +153,13 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
+
+## Graphics
+- [theodorosploumis/drupal-glyphs](https://github.com/theodorosploumis/drupal-glyphs)
+
+<p align="right">Go to <a href="#contents">TOC</a></p>
+
+
 ## Hosting - PaaS
 - [Pantheon.io](https://pantheon.io/)
 - [Acquia.com](https://www.acquia.com/)
@@ -147,6 +168,7 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
+
 ## Hosting - Aegir
 - [Omega8.cc](https://omega8.cc/)
 - [Koumbit.org](https://www.koumbit.org/en/services/AegirVPS)
@@ -154,8 +176,19 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
+
 ## Jobs
 - https://jobs.drupal.org
+
+<p align="right">Go to <a href="#contents">TOC</a></p>
+
+
+## Marketing
+- [theodorosploumis/drupal-selling-tips](https://github.com/theodorosploumis/drupal-selling-tips)
+- [stackshare.io/drupal](https://stackshare.io/drupal)
+
+<p align="right">Go to <a href="#contents">TOC</a></p>
+
 
 ## News
 - [Drupal Planet](https://www.drupal.org/planet)
@@ -163,12 +196,14 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
+
 ## Podcasts
 - [Talking Drupal](http://www.talkingdrupal.com)
 - [Lullabot Podcast](https://www.lullabot.com/podcasts)
 - [DrupalEasy Podcast](https://www.drupaleasy.com/podcast)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
+
 
 ## Provision
 
@@ -205,6 +240,7 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
+
 ## Scaffolding Tools
  - [Composer Plugin for updating the Drupal scaffold files when using drupal/core](https://github.com/drupal-composer/drupal-scaffold)
  - [A Drupal 7/8 websites scaffolder built on composer](https://github.com/kgaut/drupal-site-scaffolder)
@@ -227,12 +263,15 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
+
 ## Tools
 - [drupaltools.github.io - All Drupal related tools collection](https://drupaltools.github.io/)
 - [Drupal Integrations](https://drupalintegration.com/)
 - [Drupal.org - Development tools overview](https://www.drupal.org/node/147789)
+- [github.com/topics/drupal](https://github.com/topics/drupal)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
+
 
 ## Tutorials
 - [Drupalize.me](https://drupalize.me)
@@ -244,10 +283,12 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
+
 ## Videos
 - [DrupalCon sessions](https://www.youtube.com/user/DrupalAssociation/videos)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
+
 
 ## Social media
 - https://twitter.com/drupal
@@ -266,8 +307,9 @@ So, this guide is not a replacement for D.O. Consider this as a mini guide focus
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
+
 ## Similar projects
-- [mrsinguyen/awesome-drupal ()](https://github.com/mrsinguyen/awesome-drupal)
+- [mrsinguyen/awesome-drupal (2019)](https://github.com/mrsinguyen/awesome-drupal)
 - [nirgn975/awesome-drupal (2018)](https://github.com/nirgn975/awesome-drupal)
 - [Lullabot/awesome-d8 (2015)](https://github.com/Lullabot/awesome-d8)
 - [dpacassi/UltimateDrupalReference](https://github.com/dpacassi/UltimateDrupalReference)
