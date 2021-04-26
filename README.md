@@ -319,7 +319,7 @@ Finally, this guide is not a replacement for D.O. Consider this as a mini guide 
 ---
 
 ## License
-![cc0 logo](https://raw.githubusercontent.com/theodorosploumis/awesome-drupal/master/cc0logo.png)
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg" alt="CC0 Logo" height="31">
 
 _(Logo used on top is a Drupal trademark and so it's not under CC0 license)_
 
