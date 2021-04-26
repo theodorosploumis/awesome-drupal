@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/theodorosploumis/awesome-drupal/master/drupal.png" alt="Drupal 8 logo">
+<img align="right" src="./drupal.svg" alt="Drupal 8 logo" height="50">
 
 # Awesome Drupal 
 [Edit](https://github.com/theodorosploumis/awesome-drupal/edit/master/README.md)
