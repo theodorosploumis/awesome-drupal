@@ -31,6 +31,7 @@ Finally, this guide is not a replacement for D.O. Consider this as a mini guide 
   - [News](#news)
   - [Podcasts](#podcasts)
   - [Provision](#provision)
+  - [Security](#security)
   - [Scaffolding Tools](#scaffolding-tools)
   - [Tools](#tools)
   - [Tutorials](#tutorials)
@@ -240,6 +241,18 @@ Finally, this guide is not a replacement for D.O. Consider this as a mini guide 
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
+## Security
+Security validation and penetration tools to help you create a secure Drupal website.
+
+- https://github.com/droope/droopescan
+- https://github.com/sullo/nikto
+- https://github.com/sqlmapproject/sqlmap
+- https://github.com/commixproject/commix
+- https://github.com/epsylon/xsser
+- https://github.com/anouarbensaad/vulnx
+
+
+<p align="right">Go to <a href="#contents">TOC</a></p>
 
 ## Scaffolding Tools
  - [Composer Plugin for updating the Drupal scaffold files when using drupal/core](https://github.com/drupal-composer/drupal-scaffold)
