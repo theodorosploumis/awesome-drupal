@@ -31,6 +31,7 @@ Finally, this guide is not a replacement for D.O. Consider this as a mini guide 
   - [News](#news)
   - [Podcasts](#podcasts)
   - [Provision](#provision)
+  - [RSS feeds](#rss-feeds)
   - [Security](#security)
   - [Scaffolding Tools](#scaffolding-tools)
   - [Tools](#tools)
@@ -58,7 +59,7 @@ Finally, this guide is not a replacement for D.O. Consider this as a mini guide 
 
 
 ## Chatting channels
-- [Slack](https://www.drupal.org/slack)
+- [Slack Channels](https://www.drupal.org/slack)
 - [IRC](https://www.drupal.org/irc)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
@@ -238,6 +239,13 @@ Finally, this guide is not a replacement for D.O. Consider this as a mini guide 
 ### Other/Several
 - [Provision of drupal lamp stack](https://github.com/ec-europa/infra)
 - [Provisioning a simple PHP/Drupal dev environment](https://gist.github.com/dickolsson/45f06e85f8a8e57eaf23)
+
+<p align="right">Go to <a href="#contents">TOC</a></p>
+
+## RSS Feeds
+- [Drupal Plane - drupal.org/planet/rss.xml](https://www.drupal.org/planet/rss.xml)
+- [Change records for Drupal core - drupal.org/changes/drupal/rss.xml](https://www.drupal.org/changes/drupal/rss.xml)
+- [New Projects - Under Active Development taxonomy feed](https://www.drupal.org/taxonomy/term/9988/feed)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
