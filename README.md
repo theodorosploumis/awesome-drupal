@@ -167,6 +167,7 @@ Finally, this guide is not a replacement for D.O. Consider this as a mini guide 
 - [Acquia.com](https://www.acquia.com/)
 - [Platform.sh](https://platform.sh/)
 - [Amazee.io](https://www.amazee.io/)
+- [Skpr.com.au](https://www.skpr.com.au/)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
