@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/theodorosploumis/awesome-drupal/master/drupal.png" alt="Drupal 8 logo">
+<img align="right" src="./drupal.svg" alt="Drupal 8 logo" height="50">
 
 # Awesome Drupal 
 [Edit](https://github.com/theodorosploumis/awesome-drupal/edit/master/README.md)
@@ -342,7 +342,7 @@ Security validation and penetration tools to help you create a secure Drupal web
 ---
 
 ## License
-![cc0 logo](https://raw.githubusercontent.com/theodorosploumis/awesome-drupal/master/cc0logo.png)
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg" alt="CC0 Logo" height="31">
 
 _(Logo used on top is a Drupal trademark and so it's not under CC0 license)_
 
