@@ -50,6 +50,7 @@ Finally, this guide is not a replacement for D.O. Consider this as a mini guide 
 - [Programmer"s Guide to Drupal, 2nd Edition, 2015](https://www.oreilly.com/library/view/programmers-guide-to/9781491911457)
 - [High Performance Drupal, 2013](https://www.oreilly.com/library/view/high-performance-drupal/9781449358013)https://www.drupal.org/books
 - [drupal.org/books](https://www.drupal.org/books)
+- [drupalbook.org - Online book](https://drupalbook.org)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
