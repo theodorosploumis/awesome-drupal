@@ -71,10 +71,15 @@ Finally, this guide is not a replacement for D.O. Consider this as a mini guide 
 - [Drupal 8 entity API](http://wizzlern.nl/sites/wizzlern.nl/files/artikel/drupal-content-entity-8.0.pdf)
 - [Drupal 7 to 8](http://nuvole.org/sites/default/files/Drupal-7-to-Drupal-8-Cheatsheet.pdf)
 - [Drupal 8 Configuration schema](http://hojtsy.hu/files/ConfigSchemaCheatSheet1.5.pdf)
-- [Gist: Drupal 8 Cheatsheet](https://gist.github.com/cesarmiquel/48404d99c8f7d9f274705b7a601c5554)
-- [Gist: Drupal 8 programmatic solutions](https://gist.github.com/bdlangton/e826276a0c78d9a89d8dec23dd0c7683)
-- [Gist: Drupal 8 Twig cheatsheet](https://gist.github.com/raphaellarrinaga/c1d71f69873c967ff74f8ec09cbdf9e1)
-- [Gist: List of all drupal 6.x and 7.x hooks by implementation](https://gist.github.com/webchick/4409685)
+- [GitHub: flashvnn/drupal-snippets](https://github.com/flashvnn/drupal-snippets)
+- [GitHub: druman/drupal8-snippets](https://github.com/druman/drupal8-snippets)
+- [GitHub: daggerhart/drupal8_examples](https://github.com/daggerhart/drupal8_examples)
+- [Gist: Drupal 8 Cheatsheet by cesarmiquel](https://gist.github.com/cesarmiquel/48404d99c8f7d9f274705b7a601c5554)
+- [Gist: Drupal 8 programmatic solutions by bdlangton](https://gist.github.com/bdlangton/e826276a0c78d9a89d8dec23dd0c7683)
+- [Gist: Drupal 8 Twig cheatsheet by raphaellarrinaga](https://gist.github.com/raphaellarrinaga/c1d71f69873c967ff74f8ec09cbdf9e1)
+- [Gist: List of all drupal 6.x and 7.x hooks by implementation by webchick](https://gist.github.com/webchick/4409685)
+- [Gist: Importing Drupal 8 config programmatically by mikecrittenden](https://gist.github.com/mikecrittenden/2d2c6734c506d509505fa79142125757)
+- [Gist: drush commands by yusufhm](https://gist.github.com/yusufhm/23f1a25a886533d764e2)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
