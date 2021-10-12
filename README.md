@@ -92,7 +92,6 @@ Finally, this guide is not a replacement for D.O. Consider this as a mini guide 
 - [DrupalCI: Drupal.org Testing Infrastructure](https://www.drupal.org/project/drupalci)
 - [drupalcommerce/commerce - .travis.yml](https://github.com/drupalcommerce/commerce/blob/8.x-2.x/.travis.yml)
 - [drupalcommerce/commerce - phpcs.xml](https://github.com/drupalcommerce/commerce/blob/8.x-2.x/phpcs.xml)
-- [acquia/blt/- RoboFile.php](https://github.com/acquia/blt/blob/8.x/RoboFile.php)
 - [Jenkins and SonarQube Drupal CI and Static Code Analysis](https://github.com/geerlingguy/drupalci-sonar-jenkins)
 - [drupal_ti - Travis Integration for Drupal modules](https://github.com/LionsAd/drupal_ti)
 
