@@ -312,6 +312,7 @@ Security validation and penetration tools to help you create a secure Drupal web
 
 ## Videos
 - [DrupalCon sessions](https://www.youtube.com/user/DrupalAssociation/videos)
+- [videodrupal.org](https://www.videodrupal.org)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
