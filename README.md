@@ -291,8 +291,11 @@ Security validation and penetration tools to help you create a secure Drupal web
 
 
 ## Tools
-- [drupaltools.github.io - All Drupal related tools collection](https://drupaltools.github.io/)
-- [Drupal Integrations](https://drupalintegration.com/)
+- [drupaltools.github.io - All Drupal related tools collection](https://drupaltools.github.io)
+- [simplytest.me - Evaluate Drupal projects online](https://simplytest.me)
+- [pareview.sh - Online review of Drupal.org modules and themes](https://pareview.sh)
+- [distros.bid - Try Drupal distributions online](https://www.distros.bid)
+- [drupalintegration.com](https://drupalintegration.com)
 - [Drupal.org - Development tools overview](https://www.drupal.org/node/147789)
 - [github.com/topics/drupal](https://github.com/topics/drupal)
 
