@@ -46,9 +46,9 @@ Finally, this guide is not a replacement for D.O. Consider this as a mini guide 
 ## Books
 - [Drupal 9 Module Development - Third Edition, 2020](https://www.packtpub.com/product/drupal-9-module-development-third-edition/9781800204621)
 - [Enterprise Drupal 8 Development, 2017](http://www.apress.com/gp/book/9781484202548)
-- [Drupal 8 Development Cookbook, 2017](https://www.packtpub.com/web-development/drupal-8-development-cookbook)
+- [Drupal 8 Development Cookbook (2Ed), 2017](https://www.packtpub.com/product/drupal-8-development-cookbook-second-edition/9781788290401)
 - [Programmer"s Guide to Drupal, 2nd Edition, 2015](https://www.oreilly.com/library/view/programmers-guide-to/9781491911457)
-- [High Performance Drupal, 2013](https://www.oreilly.com/library/view/high-performance-drupal/9781449358013)https://www.drupal.org/books
+- [High Performance Drupal, 2013](https://www.oreilly.com/library/view/high-performance-drupal/9781449358013)
 - [drupal.org/books](https://www.drupal.org/books)
 - [drupalbook.org - Online book](https://drupalbook.org)
 
@@ -101,7 +101,6 @@ Finally, this guide is not a replacement for D.O. Consider this as a mini guide 
 ## Community
 - [Drupal.org Groups](https://groups.drupal.org)
 - [Drupal Answers](https://drupal.stackexchange.com)
-- [StackOverflow - Drupal topics](http://stackoverflow.com/documentation/drupal/topics)
 - [Reddit Drupal](https://www.reddit.com/r/drupal)
 - [Drupal on Meetup.com](https://www.meetup.com/topics/drupal)
 
@@ -156,6 +155,7 @@ Finally, this guide is not a replacement for D.O. Consider this as a mini guide 
 - [Starting point for an Ionic project using Drupal 7.x as the backend](https://github.com/marthinal/Drupionic)
 - [Headless Drupal Framework](https://github.com/fourkitchens/headless-framework)
 - [Headless Drupal using blessed](https://github.com/amitaibu/restful-blessed)
+- [Next.js for Drupal](https://next-drupal.org/)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
