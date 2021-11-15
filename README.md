@@ -101,6 +101,7 @@ Finally, this guide is not a replacement for D.O. Consider this as a mini guide 
 ## Community
 - [Drupal.org Groups](https://groups.drupal.org)
 - [Drupal Answers](https://drupal.stackexchange.com)
+- [stackoverflow.com/questions/tagged/drupal](https://stackoverflow.com/questions/tagged/drupal)
 - [Reddit Drupal](https://www.reddit.com/r/drupal)
 - [Drupal on Meetup.com](https://www.meetup.com/topics/drupal)
 
@@ -155,7 +156,8 @@ Finally, this guide is not a replacement for D.O. Consider this as a mini guide 
 - [Starting point for an Ionic project using Drupal 7.x as the backend](https://github.com/marthinal/Drupionic)
 - [Headless Drupal Framework](https://github.com/fourkitchens/headless-framework)
 - [Headless Drupal using blessed](https://github.com/amitaibu/restful-blessed)
-- [Next.js for Drupal](https://next-drupal.org/)
+- [Next.js for Drupal](https://next-drupal.org)
+- [druxtjs - DRUpal + NuXT.js](https://druxtjs.org)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
