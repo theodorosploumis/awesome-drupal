@@ -327,6 +327,7 @@ Security validation and penetration tools to help you create a secure Drupal web
 - https://twitter.com/drupalassoc
 - https://twitter.com/drupal_org
 - https://twitter.com/drupal_infra
+- https://twitter.com/drupalorgcommit
 - https://twitter.com/drupal8modules
 - https://twitter.com/drupalcore
 - https://twitter.com/drupalplanet
