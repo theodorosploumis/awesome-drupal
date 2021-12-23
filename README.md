@@ -42,7 +42,7 @@ Finally, this guide is not a replacement for D.O. Consider this as a mini guide 
 
 ---
 
-
+schema
 ## Books
 - [Drupal 9 Module Development - Third Edition, 2020](https://www.packtpub.com/product/drupal-9-module-development-third-edition/9781800204621)
 - [Enterprise Drupal 8 Development, 2017](http://www.apress.com/gp/book/9781484202548)
@@ -70,7 +70,7 @@ Finally, this guide is not a replacement for D.O. Consider this as a mini guide 
 - [Drupal best practices](https://github.com/theodorosploumis/drupal-best-practices)
 - [Drupal 8 entity API](http://wizzlern.nl/sites/wizzlern.nl/files/artikel/drupal-content-entity-8.0.pdf)
 - [Drupal 7 to 8](http://nuvole.org/sites/default/files/Drupal-7-to-Drupal-8-Cheatsheet.pdf)
-- [Drupal 8 Configuration schema](http://hojtsy.hu/files/ConfigSchemaCheatSheet1.5.pdf)
+- [Drupal 8 Configuration schema](http://www.hojtsy.hu/files/ConfigSchemaCheatSheet2.0.pdf)
 - [GitHub: flashvnn/drupal-snippets](https://github.com/flashvnn/drupal-snippets)
 - [GitHub: druman/drupal8-snippets](https://github.com/druman/drupal8-snippets)
 - [GitHub: daggerhart/drupal8_examples](https://github.com/daggerhart/drupal8_examples)
