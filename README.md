@@ -206,6 +206,7 @@ schema
 
 
 ## Marketing
+- [Promote Drupal Group](https://www.drupal.org/community/promote-drupal)
 - [theodorosploumis/drupal-selling-tips](https://github.com/theodorosploumis/drupal-selling-tips)
 - [stackshare.io/drupal](https://stackshare.io/drupal)
 
