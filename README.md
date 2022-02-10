@@ -133,10 +133,11 @@ schema
 ## Decoupled examples
 
 - [Next.js for Drupal (starter kit)](https://next-drupal.org)
-- [druxtjs - DRUpal + NuXT.js (starter kit)](https://druxtjs.org)
+- [druxtjs: DRUpal + NuXT.js (starter kit)](https://druxtjs.org)
 - [Contenta CMS: API-First Drupal 8.x distribution](https://github.com/contentacms)
-- [Tide, Distribution focused on delivering an API first](https://www.drupal.org/project/tide)
+- [Tide: Distribution focused on delivering an API first](https://www.drupal.org/project/tide)
 - [Falcon: Distribution made for Charities. Powered by Drupal and React](https://github.com/systemseed/falcon)
+- [Lupus: Nuxt.js Drupal Stack](https://stack.lupus.digital)
 - [systemseed/drupal_reactjs_boilerplate](https://github.com/systemseed/drupal_reactjs_boilerplate)
 - [Gatsby Drupal multi-app for Platform.sh](https://github.com/platformsh-templates/gatsby-drupal)
 - [Headless Drupal - VueJs template for Platform.sh projects](https://github.com/yuseferi/decoupled-drupal-vuejs)
