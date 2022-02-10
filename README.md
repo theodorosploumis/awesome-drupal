@@ -131,13 +131,21 @@ schema
 
 
 ## Decoupled examples
-- [Reservoir is a back end in Drupal 8.x for your front end using JSON API and OAuth2](https://github.com/acquia/reservoir)
-- [Contenta: API-First Drupal 8.x distribution with several examples of decoupled fron-end](https://github.com/contentacms)
-- [Decoupled Drupal with GraphQL and React](https://github.com/fubhy/drupal-decoupled-app)
+
+- [Next.js for Drupal (starter kit)](https://next-drupal.org)
+- [druxtjs - DRUpal + NuXT.js (starter kit)](https://druxtjs.org)
+- [Contenta CMS: API-First Drupal 8.x distribution](https://github.com/contentacms)
+- [Tide, Distribution focused on delivering an API first](https://www.drupal.org/project/tide)
+- [Gatsby Drupal multi-app for Platform.sh](https://github.com/platformsh-templates/gatsby-drupal)
+- [Headless Drupal - VueJs template for Platform.sh projects](https://github.com/yuseferi/decoupled-drupal-vuejs)
+- [Drupal ♥ GraphQL](https://github.com/drupal-graphql)
+- [Decoupled Blocks - 8.x](https://www.drupal.org/project/pdb)
+
+(Too old and unmaintained examples)
+
 - [Drupal 8 Isomorphic SPA With React](https://github.com/tevdi/drupal8-react-spa)
 - [Elm web app with Headless Drupal backend](https://github.com/Gizra/elm-hedley)
 - [Headless Drupal 8.x with Vue.js](https://github.com/isramv/headless-vue-drupal-8)
-- [Decoupled Blocks - 8.x](https://www.drupal.org/project/pdb)
 - [React-Pouch App - Drupal 8.x](https://github.com/emarchak/drupal-in-the-dark)
 - [Decoupled Offline Drupal 8 using PouchDB and React](https://github.com/emarchak/agent008)
 - [Drupal 8 multi-site factory with Integration of Angular2 and Ionic 2](https://github.com/fauconv/dcf)
@@ -146,7 +154,7 @@ schema
 - [Headless - Drupal 8 user operations as routes that support the JSON exchange format](https://github.com/nuxy/headless)
 - [Ember-atha-cliath, Decoupled Drupal and Ember](https://github.com/prestonso/ember-atha-cliath)
 - [Angular.js-based events calendar application, based on the headless/decoupled Drupal](https://github.com/idfive/UniCal)
-- [drupalionic - Headless Drupal cordova app using Drupal 7 services for angular and ionic](http://www.drupalionic.org/)
+- [drupalionic - Headless Drupal cordova app using Drupal 7 services for angular and ionic](https://github.com/DrupalIonic/drupal-ionic)
 - [AngularJS frontend for decoupled Drupal 7.x experiment](https://github.com/j-hannah/decoupled-drupal-angular)
 - [Dangular - A progressively decoupled Angular 2 application proof of concept within Drupal 8](https://github.com/prestonso/dangular)
 - [Drupal 7.x distribution for creating decoupled content management user experiences](https://github.com/riouxtherefore/editr)
@@ -156,8 +164,7 @@ schema
 - [Starting point for an Ionic project using Drupal 7.x as the backend](https://github.com/marthinal/Drupionic)
 - [Headless Drupal Framework](https://github.com/fourkitchens/headless-framework)
 - [Headless Drupal using blessed](https://github.com/amitaibu/restful-blessed)
-- [Next.js for Drupal](https://next-drupal.org)
-- [druxtjs - DRUpal + NuXT.js](https://druxtjs.org)
+
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
