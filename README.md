@@ -24,7 +24,7 @@ Finally, this guide is not a replacement for D.O. Consider this as a mini guide 
   - [Drupal.org](#drupalorg)
   - [Events](#events)
   - [Graphics](#graphics)
-  - [Decoupled examples](#decoupled-examples)
+  - [Decoupled](#decoupled)
   - [Hosting - PaaS](#hosting---paas)
   - [Hosting - Aegir](#hosting---aegir)
   - [Marketing](#marketing)
@@ -130,8 +130,10 @@ schema
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
 
-## Decoupled examples
+## Decoupled
+- https://github.com/eworx-org/drupal-js (Drupal decoupled backend with JS frontend)
 
+### Decoupled exmples
 - [Next.js for Drupal (starter kit)](https://next-drupal.org)
 - [druxtjs: DRUpal + NuXT.js (starter kit)](https://druxtjs.org)
 - [Contenta CMS: API-First Drupal 8.x distribution](https://github.com/contentacms)
