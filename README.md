@@ -1,7 +1,6 @@
 <img align="right" src="./drupal.svg" alt="Drupal 8 logo" height="50">
 
-# Awesome Drupal 
-[Edit](https://github.com/theodorosploumis/awesome-drupal/edit/master/README.md)
+# Awesome Drupal
 
 > A collection of awesome(\*) resources, tools, books, examples etc for Drupal CMS. Mainly focused on 8.x+ versions.
 
@@ -42,8 +41,8 @@ Finally, this guide is not a replacement for D.O. Consider this as a mini guide 
 
 ---
 
-schema
 ## Books
+
 - [Drupal 9 Module Development - Third Edition, 2020](https://www.packtpub.com/product/drupal-9-module-development-third-edition/9781800204621)
 - [Enterprise Drupal 8 Development, 2017](http://www.apress.com/gp/book/9781484202548)
 - [Drupal 8 Development Cookbook (2Ed), 2017](https://www.packtpub.com/product/drupal-8-development-cookbook-second-edition/9781788290401)
@@ -54,19 +53,21 @@ schema
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
-
 ## Certifications
+
 - [Acquia Certification](https://www.acquia.com/support/training-certification/acquia-certification)
 
+<p align="right">Go to <a href="#contents">TOC</a></p>
 
 ## Chatting channels
+
 - [Slack Channels](https://www.drupal.org/slack)
 - [IRC](https://www.drupal.org/irc)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
-
 ## Cheatsheets
+
 - [Drupal best practices](https://github.com/theodorosploumis/drupal-best-practices)
 - [Drupal 8 entity API](http://wizzlern.nl/sites/wizzlern.nl/files/artikel/drupal-content-entity-8.0.pdf)
 - [Drupal 7 to 8](http://nuvole.org/sites/default/files/Drupal-7-to-Drupal-8-Cheatsheet.pdf)
@@ -83,8 +84,8 @@ schema
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
-
 ## CI template examples
+
 - [drush - .travis.yml](https://github.com/drush-ops/drush/blob/master/.travis.yml)
 - [drush - circle.yml](https://github.com/drush-ops/drush/blob/master/circle.yml)
 - [drupal-composer/drupal-scaffold - .travis.yml](https://github.com/drupal-composer/drupal-scaffold/blob/master/.travis.yml)
@@ -97,8 +98,8 @@ schema
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
-
 ## Community
+
 - [Drupal.org Groups](https://groups.drupal.org)
 - [Drupal Answers](https://drupal.stackexchange.com)
 - [stackoverflow.com/questions/tagged/drupal](https://stackoverflow.com/questions/tagged/drupal)
@@ -107,8 +108,8 @@ schema
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
-
 ## Drupal.org
+
 - [Core](https://www.drupal.org/project/drupal)
 - [Modules](https://www.drupal.org/project/project_module?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=&f%5B3%5D=drupal_core%3A7234&f%5B4%5D=sm_field_project_type%3Afull&text=&solrsort=iss_project_release_usage+desc&op=Search)
 - [Themes](https://www.drupal.org/project/project_theme?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=drupal_core%3A7234&f%5B3%5D=sm_field_project_type%3Afull&text=&solrsort=iss_project_release_usage+desc&op=Search)
@@ -122,18 +123,19 @@ schema
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
-
 ## Events
+
 - [Drupal Events](https://groups.drupal.org/events)
 - [Drupical.com](http://www.drupical.com)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
-
 ## Decoupled
+
 - https://github.com/eworx-org/drupal-js (Drupal decoupled backend with JS frontend)
 
 ### Decoupled exmples
+
 - [Next.js for Drupal (starter kit)](https://next-drupal.org)
 - [druxtjs: DRUpal + NuXT.js (starter kit)](https://druxtjs.org)
 - [Contenta CMS: API-First Drupal 8.x distribution](https://github.com/contentacms)
@@ -173,17 +175,16 @@ schema
 - [Headless Drupal Framework](https://github.com/fourkitchens/headless-framework)
 - [Headless Drupal using blessed](https://github.com/amitaibu/restful-blessed)
 
-
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
-
 ## Graphics
+
 - [theodorosploumis/drupal-glyphs](https://github.com/theodorosploumis/drupal-glyphs)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
-
 ## Hosting - PaaS
+
 - [Pantheon.io](https://pantheon.io/)
 - [Acquia.com](https://www.acquia.com/)
 - [Platform.sh](https://platform.sh/)
@@ -192,47 +193,47 @@ schema
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
-
 ## Hosting - Aegir
+
 - [Omega8.cc](https://omega8.cc/)
 - [Koumbit.org](https://www.koumbit.org/en/services/AegirVPS)
 - [Praxis.coop](https://praxis.coop/en/aegirvps-pricing-and-options)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
-
 ## Jobs
+
 - https://jobs.drupal.org
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
-
 ## Marketing
+
 - [Promote Drupal Group](https://www.drupal.org/community/promote-drupal)
 - [theodorosploumis/drupal-selling-tips](https://github.com/theodorosploumis/drupal-selling-tips)
 - [stackshare.io/drupal](https://stackshare.io/drupal)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
-
 ## News
+
 - [Drupal Planet](https://www.drupal.org/planet)
 - [Theweeklydrop.com](http://www.theweeklydrop.com)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
-
 ## Podcasts
+
 - [Talking Drupal](http://www.talkingdrupal.com)
 - [Lullabot Podcast](https://www.lullabot.com/podcasts)
 - [DrupalEasy Podcast](https://www.drupaleasy.com/podcast)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
-
 ## Provision
 
 ### AWS
+
 - [Amazon marketplace search: Drupal-8](https://aws.amazon.com/marketplace/search/results?searchTerms=drupal-8)
 - [awslabs/eb-php-drupal - Deploying drupal on Elastic Beanstalk](https://github.com/awslabs/eb-php-drupal)
 - [awslabs/aws-refarch-drupal - Running Drupal on AWS](https://github.com/awslabs/aws-refarch-drupal)
@@ -240,32 +241,40 @@ schema
 - [kaushikkv/aws-drupal - Running Drupal on AWS](https://github.com/kaushikkv/aws-drupal)
 
 ### Ansible
+
 - [Ansible Drupal roles](https://galaxy.ansible.com/list#/roles?autocomplete=drupal)
 
 ### Chef
+
 - [Chef Cookbooks - Drupal](https://supermarket.chef.io/cookbooks?q=drupal)
 
 ### Puppet
+
 - [Puppet Drupal](https://forge.puppet.com/tags/drupal)
 
 ### SaltStack
+
 - [SaltStack Drupal formula](https://github.com/saltstack-formulas/drupal-formula)
 
 ### Terraform
+
 - [Terraform - HAProxy, Drupal and Mysql](https://github.com/enxebre/atlas-terraform-HAProxy-drupal)
 - [neilmillard/terraform-drupal](https://github.com/neilmillard/terraform-drupal)
 - [Terraform setup for drupal nginx , mysql php on AWS](https://github.com/iahmad-khan/terraform-aws-lemp-cvicrm)
 
 ### Vagrant
+
 - [Vagrant Boxes - Drupal](https://atlas.hashicorp.com/boxes/search?q=drupal)
 
 ### Other/Several
+
 - [Provision of drupal lamp stack](https://github.com/ec-europa/infra)
 - [Provisioning a simple PHP/Drupal dev environment](https://gist.github.com/dickolsson/45f06e85f8a8e57eaf23)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
 ## RSS Feeds
+
 - [Drupal Plane - drupal.org/planet/rss.xml](https://www.drupal.org/planet/rss.xml)
 - [Change records for Drupal core - drupal.org/changes/drupal/rss.xml](https://www.drupal.org/changes/drupal/rss.xml)
 - [New Projects - Under Active Development taxonomy feed](https://www.drupal.org/taxonomy/term/9988/feed)
@@ -273,6 +282,7 @@ schema
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
 ## Security
+
 Security validation and penetration tools to help you create a secure Drupal website.
 
 - https://github.com/droope/droopescan
@@ -286,6 +296,7 @@ Security validation and penetration tools to help you create a secure Drupal web
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
 ## Scaffolding Tools
+
  - [Composer Plugin for updating the Drupal scaffold files when using drupal/core](https://github.com/drupal-composer/drupal-scaffold)
  - [A Drupal 7/8 websites scaffolder built on composer](https://github.com/kgaut/drupal-site-scaffolder)
  - [Yeoman MarionetteJS + Drupal generator](https://github.com/enzolutions/generator-marionette-drupal)
@@ -307,8 +318,8 @@ Security validation and penetration tools to help you create a secure Drupal web
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
-
 ## Tools
+
 - [drupaltools.github.io - All Drupal related tools collection](https://drupaltools.github.io)
 - [simplytest.me - Evaluate Drupal projects online](https://simplytest.me)
 - [pareview.sh - Online review of Drupal.org modules and themes](https://pareview.sh)
@@ -320,8 +331,8 @@ Security validation and penetration tools to help you create a secure Drupal web
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
-
 ## Tutorials
+
 - [Drupalize.me](https://drupalize.me)
 - [BuildAModule](https://buildamodule.com)
 - [KNP University](https://knpuniversity.com/tracks/drupal)
@@ -331,15 +342,15 @@ Security validation and penetration tools to help you create a secure Drupal web
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
-
 ## Videos
+
 - [DrupalCon sessions](https://www.youtube.com/user/DrupalAssociation/videos)
 - [videodrupal.org](https://www.videodrupal.org)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
-
 ## Social media
+
 - https://twitter.com/drupal
 - https://twitter.com/drupalassoc
 - https://twitter.com/drupal_org
@@ -358,8 +369,8 @@ Security validation and penetration tools to help you create a secure Drupal web
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
-
 ## Similar projects
+
 - [mrsinguyen/awesome-drupal (2019)](https://github.com/mrsinguyen/awesome-drupal)
 - [nirgn975/awesome-drupal (2018)](https://github.com/nirgn975/awesome-drupal)
 - [Lullabot/awesome-d8 (2015)](https://github.com/Lullabot/awesome-d8)
@@ -370,6 +381,7 @@ Security validation and penetration tools to help you create a secure Drupal web
 ---
 
 ## License
+
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg" alt="CC0 Logo" height="31">
 
 _(Logo used on top is a Drupal trademark and so it's not under CC0 license)_
