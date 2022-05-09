@@ -69,7 +69,7 @@ Finally, this guide is not a replacement for D.O. Consider this as a mini guide 
 ## Cheatsheets
 
 - [Drupal best practices](https://github.com/theodorosploumis/drupal-best-practices)
-- [Drupal 8 entity API](http://wizzlern.nl/sites/wizzlern.nl/files/artikel/drupal-content-entity-8.0.pdf)
+- [Drupal 8 entity API, PDF](https://drupalbook.org/sites/default/files/drupal-content-entity-8.0.pdf)
 - [Drupal 7 to 8](http://nuvole.org/sites/default/files/Drupal-7-to-Drupal-8-Cheatsheet.pdf)
 - [Drupal 8 Configuration schema](http://www.hojtsy.hu/files/ConfigSchemaCheatSheet2.0.pdf)
 - [GitHub: flashvnn/drupal-snippets](https://github.com/flashvnn/drupal-snippets)
@@ -320,7 +320,7 @@ Security validation and penetration tools to help you create a secure Drupal web
 
 ## Tools
 
-- [drupaltools.github.io - All Drupal related tools collection](https://drupaltools.github.io)
+- **[drupaltools.com - All Drupal related tools collection](https://drupaltools.com)**
 - [simplytest.me - Evaluate Drupal projects online](https://simplytest.me)
 - [pareview.sh - Online review of Drupal.org modules and themes](https://pareview.sh)
 - [dgo.to - Drupal projects url shortener](https://dgo.to)
