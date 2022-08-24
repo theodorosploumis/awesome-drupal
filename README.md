@@ -195,9 +195,9 @@ Finally, this guide is not a replacement for D.O. Consider this as a mini guide 
 
 ## Hosting - Aegir
 
-- [Omega8.cc](https://omega8.cc/)
+- [Omega8.cc](https://omega8.cc)
 - [Koumbit.org](https://www.koumbit.org/en/services/AegirVPS)
-- [Praxis.coop](https://praxis.coop/en/aegirvps-pricing-and-options)
+- [Consensus.enterprises](https://consensus.enterprises)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
