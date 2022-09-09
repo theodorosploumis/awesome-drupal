@@ -1,6 +1,6 @@
 <img align="right" src="./drupal.svg" alt="Drupal 8 logo" height="50">
 
-# Awesome Drupal
+# Awesome Drupal [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A collection of awesome(\*) resources, tools, books, examples etc for Drupal CMS. Mainly focused on 8.x+ versions.
 
@@ -10,9 +10,7 @@ It does not contain any modules, themes or distributions suggestions.
 
 Finally, this guide is not a replacement for D.O. Consider this as a mini guide focused on advanced Drupal developers that already know how to use D.O. Resources are hand picked by me and any contribution will be appreciated.
 
-
-**Contents**
-------------
+## Contents
 
   - [Books](#books)
   - [Certifications](#certifications)
@@ -135,7 +133,7 @@ Finally, this guide is not a replacement for D.O. Consider this as a mini guide 
 
 - https://github.com/eworx-org/drupal-js (Drupal decoupled backend with JS frontend)
 
-### Decoupled exmples
+### Decoupled examples
 
 - [Next.js for Drupal (starter kit)](https://next-drupal.org)
 - [druxtjs: DRUpal + NuXT.js (starter kit)](https://druxtjs.org)
@@ -381,6 +379,12 @@ Security validation and penetration tools to help you create a secure Drupal web
 
 ---
 
+## Contribute
+
+Contributions welcome! Please read the [contribution guidelines](contributing.md) first.
+
+---
+
 ## License
 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg" alt="CC0 Logo" height="31">
@@ -388,3 +392,5 @@ Security validation and penetration tools to help you create a secure Drupal web
 _(Logo used on top is a Drupal trademark and so it's not under CC0 license)_
 
 Drupal is a [registered trademark](http://drupal.com/trademark) of [Dries Buytaert](http://buytaert.net/).
+
+Maintained since **2016**.
