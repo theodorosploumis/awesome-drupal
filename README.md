@@ -43,6 +43,7 @@ Finally, this guide is not a replacement for D.O. Consider this as a mini guide 
 
 ## Books
 
+- [Digital Marketing with Drupal, 2022](https://www.drupal.org/node/3266781)
 - [Drupal 9 Module Development - Third Edition, 2020](https://www.packtpub.com/product/drupal-9-module-development-third-edition/9781800204621)
 - [Enterprise Drupal 8 Development, 2017](http://www.apress.com/gp/book/9781484202548)
 - [Drupal 8 Development Cookbook (2Ed), 2017](https://www.packtpub.com/product/drupal-8-development-cookbook-second-edition/9781788290401)
