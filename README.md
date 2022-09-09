@@ -8,34 +8,37 @@ This list aims to offer several resources that are, mostly, **not hosted on Drup
 
 It does not contain any modules, themes or distributions suggestions.
 
-Finally, this guide is not a replacement for D.O. Consider this as a mini guide focused on advanced Drupal developers that already know how to use D.O. Resources are hand picked by me and any contribution will be appreciated.
+Finally, this guide is not a replacement for D.O. Consider this as a mini guide focused on advanced Drupal developers that already know how to use D.O.
+
+[Contribution guidelines](contributing.md)
 
 ## Contents
 
-  - [Books](#books)
-  - [Certifications](#certifications)
-  - [Chatting channels](#chatting-channels)
-  - [Cheatsheets - Guides](#cheatsheets)
-  - [CI template examples](#ci-template-examples)
-  - [Community](#community)
-  - [Drupal.org](#drupalorg)
-  - [Events](#events)
-  - [Graphics](#graphics)
-  - [Decoupled](#decoupled)
-  - [Hosting - PaaS](#hosting---paas)
-  - [Hosting - Aegir](#hosting---aegir)
-  - [Marketing](#marketing)
-  - [News](#news)
-  - [Podcasts](#podcasts)
-  - [Provision](#provision)
-  - [RSS feeds](#rss-feeds)
-  - [Security](#security)
-  - [Scaffolding Tools](#scaffolding-tools)
-  - [Tools](#tools)
-  - [Tutorials](#tutorials)
-  - [Videos](#videos)
-  - [Social media](#social-media)
-  - [Similar projects](similar-projects)
+- [Books](#books)
+- [Certifications](#certifications)
+- [Chatting channels](#chatting-channels)
+- [Cheatsheets](#cheatsheets)
+- [CI template examples](#ci-template-examples)
+- [Community](#community)
+- [Drupal.org](#drupalorg)
+- [Decoupled](#decoupled)
+- [Events](#events)
+- [Graphics](#graphics)
+- [Hosting - PaaS](#hosting---paas)
+- [Hosting - Aegir](#hosting---aegir)
+- [Jobs](#jobs)
+- [Marketing](#marketing)
+- [News](#news)
+- [Podcasts](#podcasts)
+- [Provision](#provision)
+- [RSS Feeds](#rss-feeds)
+- [Security](#security)
+- [Scaffolding Tools](#scaffolding-tools)
+- [Tools](#tools)
+- [Tutorials](#tutorials)
+- [Videos](#videos)
+- [Social media](#social-media)
+- [Similar projects](#similar-projects)
 
 ---
 
@@ -101,7 +104,7 @@ Finally, this guide is not a replacement for D.O. Consider this as a mini guide 
 
 - [Drupal.org Groups](https://groups.drupal.org)
 - [Drupal Answers](https://drupal.stackexchange.com)
-- [stackoverflow.com/questions/tagged/drupal](https://stackoverflow.com/questions/tagged/drupal)
+- [Stack Overflow - questions/tagged/drupal](https://stackoverflow.com/questions/tagged/drupal)
 - [Reddit Drupal](https://www.reddit.com/r/drupal)
 - [Drupal on Meetup.com](https://www.meetup.com/topics/drupal)
 
@@ -122,16 +125,9 @@ Finally, this guide is not a replacement for D.O. Consider this as a mini guide 
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
-## Events
-
-- [Drupal Events](https://groups.drupal.org/events)
-- [Drupical.com](http://www.drupical.com)
-
-<p align="right">Go to <a href="#contents">TOC</a></p>
-
 ## Decoupled
 
-- https://github.com/eworx-org/drupal-js (Drupal decoupled backend with JS frontend)
+- [eworx-org/drupal-js](https://github.com/eworx-org/drupal-js) (Drupal decoupled backend with JS frontend)
 
 ### Decoupled examples
 
@@ -149,7 +145,7 @@ Finally, this guide is not a replacement for D.O. Consider this as a mini guide 
 - [DrupalizeMe/react-and-drupal-examples](https://github.com/DrupalizeMe/react-and-drupal-examples)
 - [Drupal 8/9 + ReactJS + Bootstrap 4](https://github.com/gnikolovski/druact)
 
-(Too old and unmaintained examples...)
+(Too old and unmaintained examples.)
 
 - [Decoupled Drupal with GraphQL and React](https://github.com/amazeeio/decoupled-drupal-example)
 - [Drupal 8 Isomorphic SPA With React](https://github.com/tevdi/drupal8-react-spa)
@@ -173,6 +169,13 @@ Finally, this guide is not a replacement for D.O. Consider this as a mini guide 
 - [Starting point for an Ionic project using Drupal 7.x as the backend](https://github.com/marthinal/Drupionic)
 - [Headless Drupal Framework](https://github.com/fourkitchens/headless-framework)
 - [Headless Drupal using blessed](https://github.com/amitaibu/restful-blessed)
+
+<p align="right">Go to <a href="#contents">TOC</a></p>
+
+## Events
+
+- [Drupal Events](https://groups.drupal.org/events)
+- [Drupical.com](http://www.drupical.com)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
@@ -202,14 +205,14 @@ Finally, this guide is not a replacement for D.O. Consider this as a mini guide 
 
 ## Jobs
 
-- https://jobs.drupal.org
+- <https://jobs.drupal.org>
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
 ## Marketing
 
 - [Promote Drupal Group](https://www.drupal.org/community/promote-drupal)
-- [theodorosploumis/drupal-selling-tips](https://github.com/theodorosploumis/drupal-selling-tips)
+- [theodorosploumis/notes - selling-drupal](https://github.com/theodorosploumis/notes/tree/master/drupal/selling-drupal)
 - [stackshare.io/drupal](https://stackshare.io/drupal)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
@@ -284,49 +287,48 @@ Finally, this guide is not a replacement for D.O. Consider this as a mini guide 
 
 Security validation and penetration tools to help you create a secure Drupal website.
 
-- https://github.com/droope/droopescan
-- https://github.com/sullo/nikto
-- https://github.com/sqlmapproject/sqlmap
-- https://github.com/commixproject/commix
-- https://github.com/epsylon/xsser
-- https://github.com/anouarbensaad/vulnx
-
+- [droope/droopescan](https://github.com/droope/droopescan)
+- [sullo/nikto](https://github.com/sullo/nikto)
+- [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap)
+- [commixproject/commix](https://github.com/commixproject/commix)
+- [epsylon/xsser](https://github.com/epsylon/xsser)
+- [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
 ## Scaffolding Tools
 
- - [Composer Plugin for updating the Drupal scaffold files when using drupal/core](https://github.com/drupal-composer/drupal-scaffold)
- - [A Drupal 7/8 websites scaffolder built on composer](https://github.com/kgaut/drupal-site-scaffolder)
- - [Yeoman MarionetteJS + Drupal generator](https://github.com/enzolutions/generator-marionette-drupal)
- - [Scaffold a headless Drupal backend, Angular app client and Behat tests](https://github.com/Gizra/generator-hedley)
- - [Scaffold a AngularJS app, to make headless with Drupal Backend](https://github.com/omero/generator-angular-drupal)
- - [LCM Drupal 8 Scaffolding](https://github.com/LastCallMedia/Drupal-Scaffold)
- - [A springboard project for new Drupal 8 projects](https://github.com/reallifedigital/drupal-scaffold)
- - [Yeoman generator for Drupal 8 Themes](https://github.com/mediacurrent/theme_generator_8)
- - [Yeoman generator web starter drupal8](https://github.com/forumone/generator-web-starter-drupal8)
- - [Minimalist approach to scaffolding a Drupal site](https://github.com/kalamuna/kalascaffold)
- - [Yeoman generator for a Drupal theme](https://github.com/pixelmord/generator-drupaltheme)
- - [A yeoman generator to start the foundation of any Drupal theme](https://github.com/frontend-united/generator-drupal-theme)
- - [Yeoman generator for generating a Drupal 7 entity boilerplate code](https://github.com/badri/generator-drupalentities)
- - [Yeoman Generator: Drupal 7 Gulp Starter Theme](https://github.com/supermoos/generator-drupal-gulp)
- - [Yeoman generator for drupal modules](https://github.com/davidmaneuver/generator-drupalmodule)
- - [A Yeoman generator for generating a Drupal VM stack](https://github.com/kevinquillen/generator-drupalvm)
- - [Yeoman generator for the Prototype Drupal theme](https://github.com/AtenDesignGroup/generator-center-subtheme)
- - [drupal-scaffold-docker](https://github.com/drupal-composer-ext/drupal-scaffold-docker)
+- [Composer Plugin for updating the Drupal scaffold files when using drupal/core](https://github.com/drupal-composer/drupal-scaffold)
+- [A Drupal 7/8 websites scaffolder built on composer](https://github.com/kgaut/drupal-site-scaffolder)
+- [Yeoman MarionetteJS + Drupal generator](https://github.com/enzolutions/generator-marionette-drupal)
+- [Scaffold a headless Drupal backend, Angular app client and Behat tests](https://github.com/Gizra/generator-hedley)
+- [Scaffold a AngularJS app, to make headless with Drupal Backend](https://github.com/omero/generator-angular-drupal)
+- [LCM Drupal 8 Scaffolding](https://github.com/LastCallMedia/Drupal-Scaffold)
+- [A springboard project for new Drupal 8 projects](https://github.com/reallifedigital/drupal-scaffold)
+- [Yeoman generator for Drupal 8 Themes](https://github.com/mediacurrent/theme_generator_8)
+- [Yeoman generator web starter drupal8](https://github.com/forumone/generator-web-starter-drupal8)
+- [Minimalist approach to scaffolding a Drupal site](https://github.com/kalamuna/kalascaffold)
+- [Yeoman generator for a Drupal theme](https://github.com/pixelmord/generator-drupaltheme)
+- [A yeoman generator to start the foundation of any Drupal theme](https://github.com/frontend-united/generator-drupal-theme)
+- [Yeoman generator for generating a Drupal 7 entity boilerplate code](https://github.com/badri/generator-drupalentities)
+- [Yeoman Generator: Drupal 7 Gulp Starter Theme](https://github.com/supermoos/generator-drupal-gulp)
+- [Yeoman generator for drupal modules](https://github.com/davidmaneuver/generator-drupalmodule)
+- [A Yeoman generator for generating a Drupal VM stack](https://github.com/kevinquillen/generator-drupalvm)
+- [Yeoman generator for the Prototype Drupal theme](https://github.com/AtenDesignGroup/generator-center-subtheme)
+- [drupal-scaffold-docker](https://github.com/drupal-composer-ext/drupal-scaffold-docker)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
 ## Tools
 
-- **[drupaltools.com - All Drupal related tools collection](https://drupaltools.com)**
+- [drupaltools.com - All Drupal related tools collection](https://drupaltools.com)
 - [simplytest.me - Evaluate Drupal projects online](https://simplytest.me)
 - [pareview.sh - Online review of Drupal.org modules and themes](https://pareview.sh)
 - [dgo.to - Drupal projects url shortener](https://dgo.to)
 - [distros.bid - Try Drupal distributions online](https://www.distros.bid)
 - [drupalintegration.com](https://drupalintegration.com)
 - [Drupal.org - Development tools overview](https://www.drupal.org/node/147789)
-- [github.com/topics/drupal](https://github.com/topics/drupal)
+- [GitHub.com/topics/drupal](https://github.com/topics/drupal)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
@@ -350,21 +352,21 @@ Security validation and penetration tools to help you create a secure Drupal web
 
 ## Social media
 
-- https://twitter.com/drupal
-- https://twitter.com/drupalassoc
-- https://twitter.com/drupal_org
-- https://twitter.com/drupal_infra
-- https://twitter.com/drupalorgcommit
-- https://twitter.com/drupal8modules
-- https://twitter.com/drupalcore
-- https://twitter.com/drupalplanet
-- https://twitter.com/drupaljobs
-- https://twitter.com/drupalsecurity
-- https://twitter.com/DrupalEurope
-- https://twitter.com/DrupalConNA
-- https://twitter.com/DrupalConEur
-- https://www.youtube.com/c/DrupalAssociation
-- https://www.facebook.com/DrupalOpenSource
+- <https://twitter.com/drupal>
+- <https://twitter.com/drupalassoc>
+- <https://twitter.com/drupal_org>
+- <https://twitter.com/drupal_infra>
+- <https://twitter.com/drupalorgcommit>
+- <https://twitter.com/drupal8modules>
+- <https://twitter.com/drupalcore>
+- <https://twitter.com/drupalplanet>
+- <https://twitter.com/drupaljobs>
+- <https://twitter.com/drupalsecurity>
+- <https://twitter.com/DrupalEurope>
+- <https://twitter.com/DrupalConNA>
+- <https://twitter.com/DrupalConEur>
+- <https://www.youtube.com/c/DrupalAssociation>
+- <https://www.facebook.com/DrupalOpenSource>
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
@@ -379,18 +381,6 @@ Security validation and penetration tools to help you create a secure Drupal web
 
 ---
 
-## Contribute
-
-Contributions welcome! Please read the [contribution guidelines](contributing.md) first.
-
----
-
-## License
-
-<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg" alt="CC0 Logo" height="31">
-
-_(Logo used on top is a Drupal trademark and so it's not under CC0 license)_
-
-Drupal is a [registered trademark](http://drupal.com/trademark) of [Dries Buytaert](http://buytaert.net/).
+Copyright disclaimer: Drupal is a [registered trademark](http://drupal.com/trademark) of [Dries Buytaert](http://buytaert.net/).
 
 Maintained since **2016**.
