@@ -364,9 +364,11 @@ Security validation and penetration tools to help you create a secure Drupal web
 - <https://twitter.com/drupalcore>
 - <https://twitter.com/drupalplanet>
 - <https://twitter.com/drupaljobs>
+- <https://twitter.com/drupalmentoring>
 - <https://twitter.com/drupalsecurity>
 - <https://twitter.com/DrupalEurope>
 - <https://twitter.com/DrupalConNA>
+- <https://twitter.com/DrupalSouth>
 - <https://twitter.com/DrupalConEur>
 - <https://www.linkedin.com/company/drupal-association>
 - <https://www.linkedin.com/company/drupal-project>
