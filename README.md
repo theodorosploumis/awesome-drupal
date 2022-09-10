@@ -181,6 +181,9 @@ Finally, this guide is not a replacement for D.O. Consider this as a mini guide 
 
 ## Graphics
 
+- [Drupal.org - Media Kit](https://www.drupal.org/about/media-kit)
+- [Drupal.org - Strategic Initiatives Logos](https://www.drupal.org/association/blog/strategic-initiatives-now-have-logos)
+- [Drupal.org - Promote Drupal Material (Google Drive)](https://drive.google.com/drive/folders/1ZkRt80-XuEmAIka_w3SLv8stc4zlaFwG)
 - [theodorosploumis/drupal-glyphs](https://github.com/theodorosploumis/drupal-glyphs)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
@@ -366,6 +369,7 @@ Security validation and penetration tools to help you create a secure Drupal web
 - <https://twitter.com/DrupalConNA>
 - <https://twitter.com/DrupalConEur>
 - <https://www.linkedin.com/company/drupal-association>
+- <https://www.linkedin.com/company/drupal-project>
 - <https://www.youtube.com/c/DrupalAssociation>
 - <https://www.facebook.com/DrupalOpenSource>
 
