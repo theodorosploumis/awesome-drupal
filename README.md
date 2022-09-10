@@ -386,6 +386,8 @@ Security validation and penetration tools to help you create a secure Drupal web
 
 ---
 
+## Footnotes
+
 Copyright disclaimer: Drupal is a [registered trademark](http://drupal.com/trademark) of [Dries Buytaert](http://buytaert.net/).
 
 Maintained since **2016**.
