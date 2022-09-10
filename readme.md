@@ -1,10 +1,14 @@
-# Awesome Drupal [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Drupal [![Awesome Badge](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="drupal.svg" align="right" height="50">](https://www.drupal.org/)
 
-> A collection of awesome(\*) resources, tools, books, examples etc for [Drupal CMS](https://www.drupal.org/). Mainly focused on 8.x+ versions. This list aims to offer several resources that are, mostly, **not hosted on Drupal.org**. Unless other software and frameworks Drupal.org (shortcut "D.O.") is a totally completed platform and has so much content on it, most of the times well organized and structured.
-> It does not contain any Drupal modules, themes or distributions suggestions.
-> This guide is not a replacement for D.O. Consider this as a mini guide focused on developers that already know how to use D.O. Entries are handpicked.
+> A collection of awesome(\*) resources, tools, books, examples etc for [Drupal CMS](https://www.drupal.org/). Mainly focused on 8.x+ versions.
+
+This list aims to offer several resources that are, mostly, **not hosted on Drupal.org**. Unless other software and frameworks Drupal.org (shortcut "D.O.") is a totally completed platform and has so much content on it, most of the times well organized and structured.
+
+It does not contain any Drupal modules, themes or distributions suggestions.
+
+This guide is not a replacement for D.O. Consider this as a mini guide focused on developers that already know how to use D.O. Entries are handpicked.
 
 Want to add/edit a link. Please follow the [Contribution guidelines](contributing.md).
 
