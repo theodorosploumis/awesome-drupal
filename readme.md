@@ -17,7 +17,7 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
 - [Books](#books)
 - [Certifications](#certifications)
 - [Chatting channels](#chatting-channels)
-- [Cheatsheets](#cheatsheets)
+- [Cheat sheets](#cheatsheets)
 - [CI template examples](#ci-template-examples)
 - [Community](#community)
 - [Drupal.org](#drupalorg)
@@ -48,7 +48,7 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
 - [Drupal 9 Module Development - Third Edition, 2020](https://www.packtpub.com/product/drupal-9-module-development-third-edition/9781800204621)
 - [Enterprise Drupal 8 Development, 2017](http://www.apress.com/gp/book/9781484202548)
 - [Drupal 8 Development Cookbook (2Ed), 2017](https://www.packtpub.com/product/drupal-8-development-cookbook-second-edition/9781788290401)
-- [Programmer"s Guide to Drupal, 2nd Edition, 2015](https://www.oreilly.com/library/view/programmers-guide-to/9781491911457)
+- [Programmer's Guide to Drupal, 2nd Edition, 2015](https://www.oreilly.com/library/view/programmers-guide-to/9781491911457)
 - [High Performance Drupal, 2013](https://www.oreilly.com/library/view/high-performance-drupal/9781449358013)
 - [drupal.org/books](https://www.drupal.org/books)
 - [drupalbook.org - Online book](https://drupalbook.org)
@@ -68,7 +68,7 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
-## Cheatsheets
+## Cheat sheets
 
 - [Drupal best practices](https://github.com/theodorosploumis/drupal-best-practices)
 - [Drupal 8 entity API, PDF](https://drupalbook.org/sites/default/files/drupal-content-entity-8.0.pdf)
@@ -77,9 +77,9 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
 - [GitHub: flashvnn/drupal-snippets](https://github.com/flashvnn/drupal-snippets)
 - [GitHub: druman/drupal8-snippets](https://github.com/druman/drupal8-snippets)
 - [GitHub: daggerhart/drupal8_examples](https://github.com/daggerhart/drupal8_examples)
-- [Gist: Drupal 8 Cheatsheet by cesarmiquel](https://gist.github.com/cesarmiquel/48404d99c8f7d9f274705b7a601c5554)
+- [Gist: Drupal 8 Cheat sheet by cesarmiquel](https://gist.github.com/cesarmiquel/48404d99c8f7d9f274705b7a601c5554)
 - [Gist: Drupal 8 programmatic solutions by bdlangton](https://gist.github.com/bdlangton/e826276a0c78d9a89d8dec23dd0c7683)
-- [Gist: Drupal 8 Twig cheatsheet by raphaellarrinaga](https://gist.github.com/raphaellarrinaga/c1d71f69873c967ff74f8ec09cbdf9e1)
+- [Gist: Drupal 8 Twig cheat sheet by raphaellarrinaga](https://gist.github.com/raphaellarrinaga/c1d71f69873c967ff74f8ec09cbdf9e1)
 - [Gist: List of all drupal 6.x and 7.x hooks by implementation by webchick](https://gist.github.com/webchick/4409685)
 - [Gist: Importing Drupal 8 config programmatically by mikecrittenden](https://gist.github.com/mikecrittenden/2d2c6734c506d509505fa79142125757)
 - [Gist: drush commands by yusufhm](https://gist.github.com/yusufhm/23f1a25a886533d764e2)
