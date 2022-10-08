@@ -363,6 +363,21 @@ Security validation and penetration tools to help you create a secure Drupal web
 
 ## Scripts
 
+### git hooks
+
+> Several examples of git hooks (pre-commit etc) related to Drupal.
+
+- [drupal-infofinland/commit-msg at main · City-of-Helsinki/drupal-infofinland](https://github.com/City-of-Helsinki/drupal-infofinland/blob/main/tools/commit-msg)
+- [code-review/base-conventions.yml at 1.x · openeuropa/code-review](https://github.com/openeuropa/code-review/blob/1.x/dist/base-conventions.yml)
+- [Run phpcs in ddev with Drupal standard on pre-commit](https://gist.github.com/bserem/75e82528d73ae125e286733e163443d8)
+- [alexpott/d8githooks: Drupal core committer git hooks](https://github.com/alexpott/d8githooks)
+- [jover/drupal-code-check: A Git pre-commit hook to check Drupal Coding Standards and more.](https://github.com/jover/drupal-code-check)
+- [vijaycs85/drupal-quality-checker](https://github.com/vijaycs85/drupal-quality-checker)
+- [district09/php\_package\_qa-drupal: Digipolis QA for PHP](https://github.com/district09/php_package_qa-drupal)
+- [Hawkeye Tenderwolf / Automatically install a git pre-commit hook to enforce Drupal coding standards · GitLab](https://gitlab.com/hawkeye.twolf/drupal-standards-via-git)
+- [drupol/drupal-conventions: Check (and fix) your code against Drupal's code conventions and coding standard.](https://github.com/drupol/drupal-conventions)
+- [andrewmriley/drupal-site-precommit: Scripts to have git check your commits for Drupal debugging code](https://github.com/andrewmriley/drupal-site-precommit)
+
 ### Robofile
 
 > Robo is a powerful PHP task runner. Robo can be used as an archive (PHAR) or library (composer) to automate your daily tasks. 
