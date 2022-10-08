@@ -66,9 +66,9 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
 ## Chatting channels
 
 - [Slack Channels](https://www.drupal.org/slack)
-- [IRC](https://www.drupal.org/irc)Changes
+- [IRC](https://www.drupal.org/irc)
 
-<p align="right">Go to <a href="#contents">TOC</a></p>Changes
+<p align="right">Go to <a href="#contents">TOC</a></p>
 
 ## Cheatsheets
 
