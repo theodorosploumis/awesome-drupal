@@ -125,6 +125,11 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
 - [Form API Internal Workflow Illustration](https://www.drupal.org/node/165104)
 - [7.x Form API reference](https://api.drupal.org/api/drupal/developer!topics!forms_api_reference.html/7.x)
 
+### LTS old versions
+
+- [d6lts: Drupal 6 Long Term Support](https://www.drupal.org/project/d6lts)
+- [d7es: D7 Vendor Extended Support](https://www.drupal.org/project/d7es)
+
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
 ## Decoupled
