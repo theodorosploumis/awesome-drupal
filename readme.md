@@ -83,15 +83,13 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
 - [Gist: Drupal 8 programmatic solutions by bdlangton](https://gist.github.com/bdlangton/e826276a0c78d9a89d8dec23dd0c7683)
 - [Gist: Drupal 8 Twig cheatsheet by raphaellarrinaga](https://gist.github.com/raphaellarrinaga/c1d71f69873c967ff74f8ec09cbdf9e1)
 - [Gist: List of all drupal 6.x and 7.x hooks by implementation by webchick](https://gist.github.com/webchick/4409685)
-- [Gist: Importing Drupal 8 config programmatically by mikecrittenden](https://gist.github.com/mikecrittenden/2d2c6734c506d509505fa79142125757)
 - [Gist: drush commands by yusufhm](https://gist.github.com/yusufhm/23f1a25a886533d764e2)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
 ## CI template examples
 
-- [drush - .travis.yml](https://github.com/drush-ops/drush/blob/master/.travis.yml)
-- [drush - circle.yml](https://github.com/drush-ops/drush/blob/master/circle.yml)
+- [drush - circleci](https://github.com/drush-ops/drush/blob/11.x/.circleci/config.yml)
 - [drupal-composer/drupal-scaffold - .travis.yml](https://github.com/drupal-composer/drupal-scaffold/blob/master/.travis.yml)
 - [drupal core - phpcs.xml.dist](https://github.com/drupal/core/blob/8.4.x/phpcs.xml.dist)
 - [DrupalCI: Drupal.org Testing Infrastructure](https://www.drupal.org/project/drupalci)
@@ -115,9 +113,9 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
 ## Drupal.org
 
 - [Core](https://www.drupal.org/project/drupal)
-- [Modules](https://www.drupal.org/project/project_module?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=&f%5B3%5D=drupal_core%3A7234&f%5B4%5D=sm_field_project_type%3Afull&text=&solrsort=iss_project_release_usage+desc&op=Search)
-- [Themes](https://www.drupal.org/project/project_theme?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=drupal_core%3A7234&f%5B3%5D=sm_field_project_type%3Afull&text=&solrsort=iss_project_release_usage+desc&op=Search)
-- [Distributions](https://www.drupal.org/project/project_distribution?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=drupal_core%3A7234&f%5B3%5D=sm_field_project_type%3Afull&text=&solrsort=iss_project_release_usage+desc&op=Search)
+- [Modules](https://www.drupal.org/project/project_module)
+- [Themes](https://www.drupal.org/project/project_theme)
+- [Distributions](https://www.drupal.org/project/project_distribution)
 - [Security advisories](https://www.drupal.org/security)
 - [Documentation](https://www.drupal.org/documentation)
 - [Core API Reference](https://api.drupal.org/api/drupal)
@@ -182,11 +180,12 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
 - [https://www.drupal.org/node/1438700](https://www.drupal.org/node/1438700) (since 2012)
 - [https://www.axelerant.com/blog/why-drupal-8-changes-wordpress-vs-drupal](https://www.axelerant.com/blog/why-drupal-8-changes-wordpress-vs-drupal) (2016)
 - [https://www.fullbundle.com/blog/drupal-wordpress-what-cms-is-right-for-you](https://www.fullbundle.com/blog/drupal-wordpress-what-cms-is-right-for-you) (2016)
-- [http://www.commercialprogression.com/post/drupal-vs-wordpress-enterprise-drupal](http://www.commercialprogression.com/post/drupal-vs-wordpress-enterprise-drupal-development-advantage) (2017)
-- [https://blog.acromedia.com/drupals-admin-ui-and-how-it-compares-to-wordpress](https://blog.acromedia.com/drupals-admin-ui-and-how-it-compares-to-wordpress) (2021)
+- [Drupal Vs Wordpress - The True Cost of an Opensource CMS, symmetritechnology.com](https://symmetritechnology.com/article/drupal-vs-wordpress-true-cost-opensource-cms) (2016)
+- [https://blog.acromedia.com/drupals-admin-ui-and-how-it-compares-to-wordpress](https://blog.acromedia.com/drupals-admin-ui-and-how-it-compares-tohttps://www.acquia.com/blog/drupal-vs-wordpress-team-approach-cms-selection-wordpress) (2021)
 - [DrupalCon New Orleans 2016: Lessons from WordPress Core](https://www.youtube.com/watch?v=JeoCHqzvUFY) (2016, video)
 - [DrupalCon Dublin 2016: How our competitors are kicking Drupal's ass (and what we can do about it)](https://www.youtube.com/watch?v=C-sXsu1r4_E) (2016, video)
-- [https://www.acquia.com/wcm/drupal-vs-wordpress](https://www.acquia.com/wcm/drupal-vs-wordpress)
+- [Drupal vs WordPress: The Team Approach to CMS Selection, acquia.com, 2020](https://www.acquia.com/blog/drupal-vs-wordpress-team-approach-cms-selection)
+- [Benefits of Drupal vs. Wordpress for Higher Education Institutions, acquia.com, 2019](https://www.acquia.com/blog/benefits-drupal-vs-wordpress-higher-education-institutions)
 - [https://www.similartech.com/compare/drupal-vs-wordpress](https://www.similartech.com/compare/drupal-vs-wordpress)
 
 ### Drupal vs Magento
@@ -206,8 +205,8 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
 
 ### Drupal vs SiteCore
 
-- [www.mediacurrent.com/blog/drupal-vs-sitecore-part-1-2](https://www.mediacurrent.com/blog/drupal-vs-sitecore-part-1-2)
-- [www.mediacurrent.com/blog/drupal-vs-sitecore-part-2-2](https://www.mediacurrent.com/blog/drupal-vs-sitecore-part-2-2)
+- [www.mediacurrent.com/blog/drupal-vs-sitecore-part-1-2](https://www.mediacurrent.com/blog/comparing-drupal-and-sitecore-part-1-2)
+- [www.mediacurrent.com/blog/drupal-vs-sitecore-part-2-2](https://www.mediacurrent.com/blog/comparing-drupal-and-sitecore-part-2-2)
 - [Mediacurrent: Drupal vs Sitecore vs AEM](https://drive.google.com/open?id=0B-_KJaqOE1dZcTlOcnQwRlhPYnc) ([form link](https://www.mediacurrent.com/ebooks/cms-showdown-comparing-adobe-sitecore-and-drupal/))
 - [Comparing CMS Platforms - Mediacurrent Whitepaper](https://drive.google.com/open?id=0B-_KJaqOE1dZb0tPUVVXLXREaHc)
 - [opensenselabs.com/blog/articles/2018-drupal-vs-sitecore-comparison](https://opensenselabs.com/blog/articles/2018-drupal-vs-sitecore-comparison)
@@ -289,7 +288,6 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
 - [awslabs/eb-php-drupal - Deploying drupal on Elastic Beanstalk](https://github.com/awslabs/eb-php-drupal)
 - [awslabs/aws-refarch-drupal - Running Drupal on AWS](https://github.com/awslabs/aws-refarch-drupal)
 - [soccerties/Drupal-AWS-Ansible - High availability Drupal in AWS using Ansible](https://github.com/soccerties/Drupal-AWS-Ansible)
-- [kaushikkv/aws-drupal - Running Drupal on AWS](https://github.com/kaushikkv/aws-drupal)
 
 ### Ansible
 
@@ -312,10 +310,6 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
 - [Terraform - HAProxy, Drupal and Mysql](https://github.com/enxebre/atlas-terraform-HAProxy-drupal)
 - [neilmillard/terraform-drupal](https://github.com/neilmillard/terraform-drupal)
 - [Terraform setup for drupal nginx , mysql php on AWS](https://github.com/iahmad-khan/terraform-aws-lemp-cvicrm)
-
-### Vagrant
-
-- [Vagrant Boxes - Drupal](https://atlas.hashicorp.com/boxes/search?q=drupal)
 
 ### Other/Several
 
@@ -356,7 +350,6 @@ Security validation and penetration tools to help you create a secure Drupal web
 - [A springboard project for new Drupal 8 projects](https://github.com/reallifedigital/drupal-scaffold)
 - [Yeoman generator for Drupal 8 Themes](https://github.com/mediacurrent/theme_generator_8)
 - [Yeoman generator web starter drupal8](https://github.com/forumone/generator-web-starter-drupal8)
-- [Minimalist approach to scaffolding a Drupal site](https://github.com/kalamuna/kalascaffold)
 - [Yeoman generator for a Drupal theme](https://github.com/pixelmord/generator-drupaltheme)
 - [A yeoman generator to start the foundation of any Drupal theme](https://github.com/frontend-united/generator-drupal-theme)
 - [Yeoman generator for generating a Drupal 7 entity boilerplate code](https://github.com/badri/generator-drupalentities)
@@ -364,7 +357,6 @@ Security validation and penetration tools to help you create a secure Drupal web
 - [Yeoman generator for drupal modules](https://github.com/davidmaneuver/generator-drupalmodule)
 - [A Yeoman generator for generating a Drupal VM stack](https://github.com/kevinquillen/generator-drupalvm)
 - [Yeoman generator for the Prototype Drupal theme](https://github.com/AtenDesignGroup/generator-center-subtheme)
-- [drupal-scaffold-docker](https://github.com/drupal-composer-ext/drupal-scaffold-docker)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
@@ -405,7 +397,6 @@ Security validation and penetration tools to help you create a secure Drupal web
 
 - [drupaltools.com - All Drupal related tools collection](https://drupaltools.com)
 - [simplytest.me - Evaluate Drupal projects online](https://simplytest.me)
-- [pareview.sh - Online review of Drupal.org modules and themes](https://pareview.sh)
 - [dgo.to - Drupal projects url shortener](https://dgo.to)
 - [distros.bid - Try Drupal distributions online](https://www.distros.bid)
 - [drupalintegration.com](https://drupalintegration.com)
@@ -417,9 +408,8 @@ Security validation and penetration tools to help you create a secure Drupal web
 ## Tutorials
 
 - [Drupalize.me](https://drupalize.me)
-- [BuildAModule](https://buildamodule.com)
 - [KNP University](https://knpuniversity.com/tracks/drupal)
-- [OSTraining](https://www.ostraining.com/drupal-training)
+- [OSTraining](https://ostraining.com/courses/?search=&filter-categories=drupal-9)
 - [Tutorialspoint](https://www.tutorialspoint.com/drupal)
 - [Level Up Tutorials](https://www.leveluptutorials.com)
 
