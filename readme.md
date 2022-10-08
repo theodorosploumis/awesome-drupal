@@ -36,6 +36,7 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
 - [Security](#security)
 - [Scaffolding Tools](#scaffolding-tools)
 - [Scripts](#scripts)
+- [Site building](#site-building)
 - [Tools](#tools)
 - [Tutorials](#tutorials)
 - [Videos](#videos)
@@ -291,7 +292,7 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
 
 ### Ansible
 
-- [Ansible Drupal roles](https://galaxy.ansible.com/list#/roles?autocomplete=drupal)
+- [Ansible Drupal roles](https://galaxy.ansible.com/search?deprecated=false&keywords=drupal&order_by=-relevance)
 
 ### Chef
 
@@ -392,6 +393,10 @@ Security validation and penetration tools to help you create a secure Drupal web
 - [drupal9/RoboFile.php at main · reynoldsalec/drupal9](https://github.com/reynoldsalec/drupal9/blob/main/RoboFile.php)
 - [drupal9ci/RoboFile.php at master · Lullabot/drupal9ci](https://github.com/Lullabot/drupal9ci/blob/master/dist/github-actions/RoboFile.php)
 - [d9-lagoon/RoboFile.php at 9.x · fjgarlin/d9-lagoon](https://github.com/fjgarlin/d9-lagoon/blob/9.x/RoboFile.php)
+
+## Site building
+
+- See [Drupal for editors: eworx-org/drupal-editors](https://github.com/eworx-org/drupal-editors)
 
 ## Tools
 
