@@ -49,7 +49,7 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
 
 - [Digital Marketing with Drupal, 2022](https://www.drupal.org/node/3266781)
 - [Drupal 9 Module Development - Third Edition, 2020](https://www.packtpub.com/product/drupal-9-module-development-third-edition/9781800204621)
-- [Enterprise Drupal 8 Development, 2017](http://www.apress.com/gp/book/9781484202548)
+- [Enterprise Drupal 8 Development, 2017](https://www.drupal.org/node/3160419)
 - [Drupal 8 Development Cookbook (2Ed), 2017](https://www.packtpub.com/product/drupal-8-development-cookbook-second-edition/9781788290401)
 - [Programmer"s Guide to Drupal, 2nd Edition, 2015](https://www.oreilly.com/library/view/programmers-guide-to/9781491911457)
 - [High Performance Drupal, 2013](https://www.oreilly.com/library/view/high-performance-drupal/9781449358013)
