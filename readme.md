@@ -35,6 +35,7 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
 - [RSS Feeds](#rss-feeds)
 - [Security](#security)
 - [Scaffolding Tools](#scaffolding-tools)
+- [Scripts](#scripts)
 - [Tools](#tools)
 - [Tutorials](#tutorials)
 - [Videos](#videos)
@@ -366,6 +367,39 @@ Security validation and penetration tools to help you create a secure Drupal web
 - [drupal-scaffold-docker](https://github.com/drupal-composer-ext/drupal-scaffold-docker)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
+
+## Scripts
+
+### Robofile
+
+> Robo is a powerful PHP task runner. Robo can be used as an archive (PHAR) or library (composer) to automate your daily tasks. 
+> You can write tasks with PHP and do not need to struggle with bash scripts or Makefiles.
+> See more on <https://robo.li/>.
+
+- [boedah/robo-drush: Drush CommandStack for Robo Task Runner](https://github.com/boedah/robo-drush)
+- [digipolisgent/robo-drupal-console: Drupal Console CommandStack for Robo Task Runner](https://github.com/digipolisgent/robo-drupal-console)
+- [Sweetchuck/robo-drush](https://github.com/Sweetchuck/robo-drush)
+- [blt/RoboFile.php at 8.9.x · acquia/blt](https://github.com/acquia/blt/blob/8.9.x/RoboFile.php)
+- [openeuropa/task-runner: PHP task runner based on Robo, focused on extensibility.](https://github.com/openeuropa/task-runner)
+- [drupal-starter/RoboFile.php at main · Gizra/drupal-starter](https://github.com/Gizra/drupal-starter/blob/main/RoboFile.php)
+- [LandoStand-Drupal/RoboFile.php at master · mobomo/LandoStand-Drupal](https://github.com/mobomo/LandoStand-Drupal/blob/master/RoboFile.php)
+- [RoboFile for Drupal project](https://gist.github.com/caseyfw/84c7820ebdf1ae2d00cf)
+- [drupal8-travis-ci/RoboFile.php at master · juampynr/drupal8-travis-ci](https://github.com/juampynr/drupal8-travis-ci/blob/master/.travis/RoboFile.php)
+- [drupal9ci/RoboFile.php at master · Lullabot/drupal9ci](https://github.com/Lullabot/drupal9ci/blob/master/dist/circleci/.circleci/RoboFile.php)
+- [drupal8\_base/RoboFile.php at master · vincenzodibiaggio/drupal8\_base](https://github.com/vincenzodibiaggio/drupal8_base/blob/master/RoboFile.php)
+- [Jason's Robo Script for Pulling Database & Files From Pantheon](https://gist.github.com/megclaypool/9b99d16c1a9dabe52e6cc23a43f8233f)
+- [Drupal 8 common migration tasks](https://gist.github.com/juampynr/ebc991d9785d6dc29d6446f9b0cd63c3)
+- [Magic Robofile for Acquia sites](https://gist.github.com/dustinleblanc/f5aa553d702ade014b416dd6bfe31c2d)
+- [Robo tasks for drupal](https://gist.github.com/m7v/3c723f5458223293dac0)
+- [Deploy to Pantheon with Robo](https://gist.github.com/pbuyle/79c8fa1215e93926813f9e6a27af7ff2)
+- [RoboFile/RoboFile.php at master · Izidor11/RoboFile](https://github.com/Izidor11/RoboFile/blob/master/RoboFile.php)
+- [integratedexperts/robo-git-artefact: Robo task to push git artefact to remote repository](https://github.com/integratedexperts/robo-git-artefact)
+- [drupal8-github-actions/RoboFile.php at master · juampynr/drupal8-github-actions](https://github.com/juampynr/drupal8-github-actions/blob/master/RoboFile.php)
+- [amarie88/robo-drupal-coding: Drupal coding command for Robo Task Runner.](https://github.com/amarie88/robo-drupal-coding)
+- [robo-drupal/Tasks.php at production · thinkshout/robo-drupal](https://github.com/thinkshout/robo-drupal/blob/production/src/Tasks.php)
+- [drupal9/RoboFile.php at main · reynoldsalec/drupal9](https://github.com/reynoldsalec/drupal9/blob/main/RoboFile.php)
+- [drupal9ci/RoboFile.php at master · Lullabot/drupal9ci](https://github.com/Lullabot/drupal9ci/blob/master/dist/github-actions/RoboFile.php)
+- [d9-lagoon/RoboFile.php at 9.x · fjgarlin/d9-lagoon](https://github.com/fjgarlin/d9-lagoon/blob/9.x/RoboFile.php)
 
 ## Tools
 
