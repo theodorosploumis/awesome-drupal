@@ -22,6 +22,7 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
 - [Community](#community)
 - [Drupal.org](#drupalorg)
 - [Decoupled](#decoupled)
+- [Drupal VS Other](#drupal-vs-other)
 - [Events](#events)
 - [Graphics](#graphics)
 - [Hosting - PaaS](#hosting---paas)
@@ -170,6 +171,49 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
 - [Starting point for an Ionic project using Drupal 7.x as the backend](https://github.com/marthinal/Drupionic)
 - [Headless Drupal Framework](https://github.com/fourkitchens/headless-framework)
 - [Headless Drupal using blessed](https://github.com/amitaibu/restful-blessed)
+
+<p align="right">Go to <a href="#contents">TOC</a></p>
+
+## Drupal VS Other
+
+### Drupal vs Wordpress
+
+- [https://www.drupal.org/node/1438700](https://www.drupal.org/node/1438700) (since 2012)
+- [https://www.axelerant.com/blog/why-drupal-8-changes-wordpress-vs-drupal](https://www.axelerant.com/blog/why-drupal-8-changes-wordpress-vs-drupal) (2016)
+- [https://www.fullbundle.com/blog/drupal-wordpress-what-cms-is-right-for-you](https://www.fullbundle.com/blog/drupal-wordpress-what-cms-is-right-for-you) (2016)
+- [http://www.commercialprogression.com/post/drupal-vs-wordpress-enterprise-drupal](http://www.commercialprogression.com/post/drupal-vs-wordpress-enterprise-drupal-development-advantage) (2017)
+- [https://blog.acromedia.com/drupals-admin-ui-and-how-it-compares-to-wordpress](https://blog.acromedia.com/drupals-admin-ui-and-how-it-compares-to-wordpress) (2021)
+- [DrupalCon New Orleans 2016: Lessons from WordPress Core](https://www.youtube.com/watch?v=JeoCHqzvUFY) (2016, video)
+- [DrupalCon Dublin 2016: How our competitors are kicking Drupal's ass (and what we can do about it)](https://www.youtube.com/watch?v=C-sXsu1r4_E) (2016, video)
+- [https://www.acquia.com/wcm/drupal-vs-wordpress](https://www.acquia.com/wcm/drupal-vs-wordpress)
+- [https://www.similartech.com/compare/drupal-vs-wordpress](https://www.similartech.com/compare/drupal-vs-wordpress)
+
+### Drupal vs Magento
+
+- [Magento & Drupal As One - Google+ Hangout](https://www.youtube.com/watch?v=coHnfN215Fk) (video, 2015)
+- [DrupalCon Baltimore 2017: Magento and Drupal fall in love: A new way to approach contextual commerce](https://www.youtube.com/watch?v=cey6u6OTsSE) (video, 2017)
+- [https://opensenselabs.com/blog/articles/drupal-commerce-magento-comparison](https://opensenselabs.com/blog/articles/drupal-commerce-magento-comparison) (2018)
+
+### Drupal vs Adobe Experience Manager (AEM)
+
+- [http://www.mediacurrent.com/blog/comparing-drupal-and-adobe-experience-manager-part-1-2](http://www.mediacurrent.com/blog/comparing-drupal-and-adobe-experience-manager-part-1-2)
+- [http://www.mediacurrent.com/blog/comparing-drupal-and-adobe-experience-manager-part-2](http://www.mediacurrent.com/blog/comparing-drupal-and-adobe-experience-manager-part-2)
+
+### Drupal vs Umbraco
+
+- [https://opensenselabs.com/blog/articles/cms-comparison-2018-drupal-vs-umbraco](https://opensenselabs.com/blog/articles/cms-comparison-2018-drupal-vs-umbraco)
+
+### Drupal vs SiteCore
+
+- [www.mediacurrent.com/blog/drupal-vs-sitecore-part-1-2](https://www.mediacurrent.com/blog/drupal-vs-sitecore-part-1-2)
+- [www.mediacurrent.com/blog/drupal-vs-sitecore-part-2-2](https://www.mediacurrent.com/blog/drupal-vs-sitecore-part-2-2)
+- [Mediacurrent: Drupal vs Sitecore vs AEM](https://drive.google.com/open?id=0B-_KJaqOE1dZcTlOcnQwRlhPYnc) ([form link](https://www.mediacurrent.com/ebooks/cms-showdown-comparing-adobe-sitecore-and-drupal/))
+- [Comparing CMS Platforms - Mediacurrent Whitepaper](https://drive.google.com/open?id=0B-_KJaqOE1dZb0tPUVVXLXREaHc)
+- [opensenselabs.com/blog/articles/2018-drupal-vs-sitecore-comparison](https://opensenselabs.com/blog/articles/2018-drupal-vs-sitecore-comparison)
+
+### Drupal VS Contentful
+
+- [https://opensenselabs.com/blog/articles/drupal-and-contentful-comparison-open-source-vs-proprietary-software](https://opensenselabs.com/blog/articles/drupal-and-contentful-comparison-open-source-vs-proprietary-software)
 
 <p align="right">Go to <a href="#contents">TOC</a></p>
 
