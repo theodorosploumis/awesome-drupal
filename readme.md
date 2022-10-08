@@ -56,20 +56,26 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
 - [drupal.org/books](https://www.drupal.org/books)
 - [drupalbook.org - Online book](https://drupalbook.org)
 
-<p align="right">Go to <a href="#contents">TOC</a></p>
+<!--lint disable double-link-->
+Back to [TOC](#contents)
+<!--lint enable double-link-->
 
 ## Certifications
 
 - [Acquia Certification](https://www.acquia.com/support/training-certification/acquia-certification)
 
-<p align="right">Go to <a href="#contents">TOC</a></p>
+<!--lint disable double-link-->
+Back to [TOC](#contents)
+<!--lint enable double-link-->
 
 ## Chatting channels
 
 - [Slack Channels](https://www.drupal.org/slack)
 - [IRC](https://www.drupal.org/irc)
 
-<p align="right">Go to <a href="#contents">TOC</a></p>
+<!--lint disable double-link-->
+Back to [TOC](#contents)
+<!--lint enable double-link-->
 
 ## Cheatsheets
 
@@ -86,7 +92,9 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
 - [Gist: List of all drupal 6.x and 7.x hooks by implementation by webchick](https://gist.github.com/webchick/4409685)
 - [Gist: drush commands by yusufhm](https://gist.github.com/yusufhm/23f1a25a886533d764e2)
 
-<p align="right">Go to <a href="#contents">TOC</a></p>
+<!--lint disable double-link-->
+Back to [TOC](#contents)
+<!--lint enable double-link-->
 
 ## CI template examples
 
@@ -99,7 +107,9 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
 - [Jenkins and SonarQube Drupal CI and Static Code Analysis](https://github.com/geerlingguy/drupalci-sonar-jenkins)
 - [drupal_ti - Travis Integration for Drupal modules](https://github.com/LionsAd/drupal_ti)
 
-<p align="right">Go to <a href="#contents">TOC</a></p>
+<!--lint disable double-link-->
+Back to [TOC](#contents)
+<!--lint enable double-link-->
 
 ## Community
 
@@ -109,7 +119,9 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
 - [Reddit Drupal](https://www.reddit.com/r/drupal)
 - [Drupal on Meetup.com](https://www.meetup.com/topics/drupal)
 
-<p align="right">Go to <a href="#contents">TOC</a></p>
+<!--lint disable double-link-->
+Back to [TOC](#contents)
+<!--lint enable double-link-->
 
 ## Drupal.org
 
@@ -125,7 +137,14 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
 - [Form API Internal Workflow Illustration](https://www.drupal.org/node/165104)
 - [7.x Form API reference](https://api.drupal.org/api/drupal/developer!topics!forms_api_reference.html/7.x)
 
-<p align="right">Go to <a href="#contents">TOC</a></p>
+### LTS old versions
+
+- [d6lts: Drupal 6 Long Term Support](https://www.drupal.org/project/d6lts)
+- [d7es: D7 Vendor Extended Support](https://www.drupal.org/project/d7es)
+
+<!--lint disable double-link-->
+Back to [TOC](#contents)
+<!--lint enable double-link-->
 
 ## Decoupled
 
@@ -172,7 +191,9 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
 - [Headless Drupal Framework](https://github.com/fourkitchens/headless-framework)
 - [Headless Drupal using blessed](https://github.com/amitaibu/restful-blessed)
 
-<p align="right">Go to <a href="#contents">TOC</a></p>
+<!--lint disable double-link-->
+Back to [TOC](#contents)
+<!--lint enable double-link-->
 
 ## Drupal VS Other
 
@@ -216,14 +237,18 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
 
 - [https://opensenselabs.com/blog/articles/drupal-and-contentful-comparison-open-source-vs-proprietary-software](https://opensenselabs.com/blog/articles/drupal-and-contentful-comparison-open-source-vs-proprietary-software)
 
-<p align="right">Go to <a href="#contents">TOC</a></p>
+<!--lint disable double-link-->
+Back to [TOC](#contents)
+<!--lint enable double-link-->
 
 ## Events
 
 - [Drupal Events](https://groups.drupal.org/events)
 - [Drupical.com](http://www.drupical.com)
 
-<p align="right">Go to <a href="#contents">TOC</a></p>
+<!--lint disable double-link-->
+Back to [TOC](#contents)
+<!--lint enable double-link-->
 
 ## Graphics
 
@@ -232,7 +257,9 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
 - [Drupal.org - Promote Drupal Material (Google Drive)](https://drive.google.com/drive/folders/1ZkRt80-XuEmAIka_w3SLv8stc4zlaFwG)
 - [theodorosploumis/drupal-glyphs](https://github.com/theodorosploumis/drupal-glyphs)
 
-<p align="right">Go to <a href="#contents">TOC</a></p>
+<!--lint disable double-link-->
+Back to [TOC](#contents)
+<!--lint enable double-link-->
 
 ## Hosting - PaaS
 
@@ -242,7 +269,9 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
 - [Amazee.io](https://www.amazee.io/)
 - [Skpr.com.au](https://www.skpr.com.au/)
 
-<p align="right">Go to <a href="#contents">TOC</a></p>
+<!--lint disable double-link-->
+Back to [TOC](#contents)
+<!--lint enable double-link-->
 
 ## Hosting - Aegir
 
@@ -250,13 +279,17 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
 - [Koumbit.org](https://www.koumbit.org/en/services/AegirVPS)
 - [Consensus.enterprises](https://consensus.enterprises)
 
-<p align="right">Go to <a href="#contents">TOC</a></p>
+<!--lint disable double-link-->
+Back to [TOC](#contents)
+<!--lint enable double-link-->
 
 ## Jobs
 
 - <https://jobs.drupal.org>
 
-<p align="right">Go to <a href="#contents">TOC</a></p>
+<!--lint disable double-link-->
+Back to [TOC](#contents)
+<!--lint enable double-link-->
 
 ## Marketing
 
@@ -264,14 +297,18 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
 - [theodorosploumis/notes - selling-drupal](https://github.com/theodorosploumis/notes/tree/master/drupal/selling-drupal)
 - [stackshare.io/drupal](https://stackshare.io/drupal)
 
-<p align="right">Go to <a href="#contents">TOC</a></p>
+<!--lint disable double-link-->
+Back to [TOC](#contents)
+<!--lint enable double-link-->
 
 ## News
 
 - [Drupal Planet](https://www.drupal.org/planet)
 - [Theweeklydrop.com](http://www.theweeklydrop.com)
 
-<p align="right">Go to <a href="#contents">TOC</a></p>
+<!--lint disable double-link-->
+Back to [TOC](#contents)
+<!--lint enable double-link-->
 
 ## Podcasts
 
@@ -279,7 +316,9 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
 - [Lullabot Podcast](https://www.lullabot.com/podcasts)
 - [DrupalEasy Podcast](https://www.drupaleasy.com/podcast)
 
-<p align="right">Go to <a href="#contents">TOC</a></p>
+<!--lint disable double-link-->
+Back to [TOC](#contents)
+<!--lint enable double-link-->
 
 ## Provision
 
@@ -317,7 +356,9 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
 - [Provision of drupal lamp stack](https://github.com/ec-europa/infra)
 - [Provisioning a simple PHP/Drupal dev environment](https://gist.github.com/dickolsson/45f06e85f8a8e57eaf23)
 
-<p align="right">Go to <a href="#contents">TOC</a></p>
+<!--lint disable double-link-->
+Back to [TOC](#contents)
+<!--lint enable double-link-->
 
 ## RSS Feeds
 
@@ -325,7 +366,9 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
 - [Change records for Drupal core - drupal.org/changes/drupal/rss.xml](https://www.drupal.org/changes/drupal/rss.xml)
 - [New Projects - Under Active Development taxonomy feed](https://www.drupal.org/taxonomy/term/9988/feed)
 
-<p align="right">Go to <a href="#contents">TOC</a></p>
+<!--lint disable double-link-->
+Back to [TOC](#contents)
+<!--lint enable double-link-->
 
 ## Security
 
@@ -338,7 +381,9 @@ Security validation and penetration tools to help you create a secure Drupal web
 - [epsylon/xsser](https://github.com/epsylon/xsser)
 - [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx)
 
-<p align="right">Go to <a href="#contents">TOC</a></p>
+<!--lint disable double-link-->
+Back to [TOC](#contents)
+<!--lint enable double-link-->
 
 ## Scaffolding Tools
 
@@ -359,7 +404,9 @@ Security validation and penetration tools to help you create a secure Drupal web
 - [A Yeoman generator for generating a Drupal VM stack](https://github.com/kevinquillen/generator-drupalvm)
 - [Yeoman generator for the Prototype Drupal theme](https://github.com/AtenDesignGroup/generator-center-subtheme)
 
-<p align="right">Go to <a href="#contents">TOC</a></p>
+<!--lint disable double-link-->
+Back to [TOC](#contents)
+<!--lint enable double-link-->
 
 ## Scripts
 
@@ -380,7 +427,7 @@ Security validation and penetration tools to help you create a secure Drupal web
 
 ### Robofile
 
-> Robo is a powerful PHP task runner. Robo can be used as an archive (PHAR) or library (composer) to automate your daily tasks. 
+> Robo is a powerful PHP task runner. Robo can be used as an archive (PHAR) or library (composer) to automate your daily tasks.
 > You can write tasks with PHP and do not need to struggle with bash scripts or Makefiles.
 > See more on <https://robo.li/>.
 
@@ -423,7 +470,9 @@ Security validation and penetration tools to help you create a secure Drupal web
 - [Drupal.org - Development tools overview](https://www.drupal.org/node/147789)
 - [GitHub.com/topics/drupal](https://github.com/topics/drupal)
 
-<p align="right">Go to <a href="#contents">TOC</a></p>
+<!--lint disable double-link-->
+Back to [TOC](#contents)
+<!--lint enable double-link-->
 
 ## Tutorials
 
@@ -433,14 +482,18 @@ Security validation and penetration tools to help you create a secure Drupal web
 - [Tutorialspoint](https://www.tutorialspoint.com/drupal)
 - [Level Up Tutorials](https://www.leveluptutorials.com)
 
-<p align="right">Go to <a href="#contents">TOC</a></p>
+<!--lint disable double-link-->
+Back to [TOC](#contents)
+<!--lint enable double-link-->
 
 ## Videos
 
 - [DrupalCon sessions](https://www.youtube.com/user/DrupalAssociation/videos)
 - [videodrupal.org](https://www.videodrupal.org)
 
-<p align="right">Go to <a href="#contents">TOC</a></p>
+<!--lint disable double-link-->
+Back to [TOC](#contents)
+<!--lint enable double-link-->
 
 ## Social media
 
@@ -464,7 +517,9 @@ Security validation and penetration tools to help you create a secure Drupal web
 - <https://www.youtube.com/c/DrupalAssociation>
 - <https://www.facebook.com/DrupalOpenSource>
 
-<p align="right">Go to <a href="#contents">TOC</a></p>
+<!--lint disable double-link-->
+Back to [TOC](#contents)
+<!--lint enable double-link-->
 
 ## Similar projects
 
@@ -473,7 +528,9 @@ Security validation and penetration tools to help you create a secure Drupal web
 - [Lullabot/awesome-d8 (2015)](https://github.com/Lullabot/awesome-d8)
 - [dpacassi/UltimateDrupalReference](https://github.com/dpacassi/UltimateDrupalReference)
 
-<p align="right">Go to <a href="#contents">TOC</a></p>
+<!--lint disable double-link-->
+Back to [TOC](#contents)
+<!--lint enable double-link-->
 
 ---
 
