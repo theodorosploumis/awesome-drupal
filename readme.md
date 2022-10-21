@@ -136,6 +136,9 @@ Back to [TOC](#contents)
 - [Form API](https://www.drupal.org/docs/drupal-apis/form-api)
 - [Form API Internal Workflow Illustration](https://www.drupal.org/node/165104)
 - [7.x Form API reference](https://api.drupal.org/api/drupal/developer!topics!forms_api_reference.html/7.x)
+- [Comparison of Contributed Modules](https://www.drupal.org/docs/comparison-of-contributed-modules)
+- [Drupal.org web sites overview](https://www.drupal.org/drupalorg/docs/drupalorg-web-sites-overview)
+- [Project usage overview](https://www.drupal.org/project/usage)
 
 ### LTS old versions
 
