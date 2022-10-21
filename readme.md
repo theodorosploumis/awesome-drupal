@@ -499,6 +499,7 @@ Back to [TOC](#contents)
 
 ## Social media
 
+- [Drupal.org - Social media list](https://www.drupal.org/about/media-kit/social-media)
 - <https://twitter.com/drupal>
 - <https://twitter.com/drupalassoc>
 - <https://twitter.com/drupal_org>
