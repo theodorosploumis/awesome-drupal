@@ -362,7 +362,9 @@ Back to [TOC](#contents)
 
 ## RSS Feeds
 
-- [Drupal Plane - drupal.org/planet/rss.xml](https://www.drupal.org/planet/rss.xml)
+- [Drupal.org - List of feeds](https://www.drupal.org/drupalorg/docs/rss-feeds)
+- [Drupal Planet - drupal.org/planet/rss.xml](https://www.drupal.org/planet/rss.xml)
+- [Drupal.org - Core Security feed](https://www.drupal.org/security/rss.xml)
 - [Change records for Drupal core - drupal.org/changes/drupal/rss.xml](https://www.drupal.org/changes/drupal/rss.xml)
 - [New Projects - Under Active Development taxonomy feed](https://www.drupal.org/taxonomy/term/9988/feed)
 
