@@ -200,6 +200,12 @@ Back to [TOC](#contents)
 
 ## Drupal VS Other
 
+For general comparisons see:
+
+- [similartech.com](https://www.similartech.com/categories/content-management-system)
+- [cmsmatrix.org](http://www.cmsmatrix.org)
+- [Most Popular Free CMS Software Comparison - socialcompare.com](https://socialcompare.com/en/comparison/popular-content-management-system-cms-comparison-table)
+
 ### Drupal vs Wordpress
 
 - [https://www.drupal.org/node/1438700](https://www.drupal.org/node/1438700) (since 2012)
@@ -224,9 +230,9 @@ Back to [TOC](#contents)
 - [http://www.mediacurrent.com/blog/comparing-drupal-and-adobe-experience-manager-part-1-2](http://www.mediacurrent.com/blog/comparing-drupal-and-adobe-experience-manager-part-1-2)
 - [http://www.mediacurrent.com/blog/comparing-drupal-and-adobe-experience-manager-part-2](http://www.mediacurrent.com/blog/comparing-drupal-and-adobe-experience-manager-part-2)
 
-### Drupal vs Umbraco
+### Druapl VS SharePoint
 
-- [https://opensenselabs.com/blog/articles/cms-comparison-2018-drupal-vs-umbraco](https://opensenselabs.com/blog/articles/cms-comparison-2018-drupal-vs-umbraco)
+- [SharePoint Vs Drupal: Which Is A Better CMS Solution? With Infographics, 2019](https://www.rishabhsoft.com/blog/drupal-vs-sharepoint)
 
 ### Drupal vs SiteCore
 
@@ -239,6 +245,10 @@ Back to [TOC](#contents)
 ### Drupal VS Contentful
 
 - [https://opensenselabs.com/blog/articles/drupal-and-contentful-comparison-open-source-vs-proprietary-software](https://opensenselabs.com/blog/articles/drupal-and-contentful-comparison-open-source-vs-proprietary-software)
+
+### Drupal vs Umbraco
+
+- [https://opensenselabs.com/blog/articles/cms-comparison-2018-drupal-vs-umbraco](https://opensenselabs.com/blog/articles/cms-comparison-2018-drupal-vs-umbraco)
 
 <!--lint disable double-link-->
 Back to [TOC](#contents)
@@ -297,6 +307,7 @@ Back to [TOC](#contents)
 ## Marketing
 
 - [Promote Drupal Group](https://www.drupal.org/community/promote-drupal)
+- [Promote Drupal - project](https://www.drupal.org/project/promote_drupal)
 - [theodorosploumis/notes - selling-drupal](https://github.com/theodorosploumis/notes/tree/master/drupal/selling-drupal)
 - [stackshare.io/drupal](https://stackshare.io/drupal)
 
