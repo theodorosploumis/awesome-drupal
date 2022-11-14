@@ -388,7 +388,18 @@ Back to [TOC](#contents)
 
 ## Security
 
-Security validation and penetration tools to help you create a secure Drupal website.
+### Drupal core and modules security
+
+- [Drupal security team](https://www.drupal.org/drupal-security-team)
+- **Security release "windows" are every Wednesday for Drupal contributed projects, and one Wednesday a month (usually the third Wednesday) for Drupal core.**
+- For Drupal core the **bug fix/feature** rele1ase window is on the **first Wednesday of the month**.
+- Security releases happen between 16:00 UTC and 22:00 UTC.
+- [D.O. Security updates list](https://www.drupal.org/security)
+- [D.O.: Security release numbers and release timing](https://www.drupal.org/drupal-security-team/security-release-numbers-and-release-timing)
+- [D.O. Security updates Twitter account](https://twitter.com/drupalsecurity)
+- [Drupal Core Calendar - releases and security windows](https://calendar.google.com/calendar/u/0/embed?src=drupalcorecalendar@association.drupal.org)
+
+### Security validation and penetration tools to help you create a secure Drupal website.
 
 - [droope/droopescan](https://github.com/droope/droopescan)
 - [sullo/nikto](https://github.com/sullo/nikto)
