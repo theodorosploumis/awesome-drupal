@@ -1,4 +1,4 @@
-# Awesome Drupal [![Awesome Badge](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Drupal [![Awesome Badge](https://awesome.re/badge.svg)](https://awesome.re)<!-- omit from toc -->
 
 [<img src="drupal.svg" align="right" height="50">](https://www.drupal.org/about)
 
@@ -12,7 +12,7 @@ This guide is not a replacement for D.O. Consider this as a mini guide focused o
 
 Want to add/edit a link. Please follow the [Contribution guidelines](contributing.md).
 
-## Contents
+## Contents<!-- omit from toc -->
 
 - [Books](#books)
 - [Certifications](#certifications)
@@ -21,8 +21,17 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
 - [CI template examples](#ci-template-examples)
 - [Community](#community)
 - [Drupal.org](#drupalorg)
+  - [LTS old versions](#lts-old-versions)
 - [Decoupled](#decoupled)
+  - [Decoupled examples](#decoupled-examples)
 - [Drupal VS Other](#drupal-vs-other)
+  - [Drupal vs Wordpress](#drupal-vs-wordpress)
+  - [Drupal vs Magento](#drupal-vs-magento)
+  - [Drupal vs Adobe Experience Manager (AEM)](#drupal-vs-adobe-experience-manager-aem)
+  - [Drupal VS SharePoint](#drupal-vs-sharepoint)
+  - [Drupal vs SiteCore](#drupal-vs-sitecore)
+  - [Drupal VS Contentful](#drupal-vs-contentful)
+  - [Drupal vs Umbraco](#drupal-vs-umbraco)
 - [Events](#events)
 - [Graphics](#graphics)
 - [Hosting - PaaS](#hosting---paas)
@@ -32,10 +41,21 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
 - [News](#news)
 - [Podcasts](#podcasts)
 - [Provision](#provision)
+  - [AWS](#aws)
+  - [Ansible](#ansible)
+  - [Chef](#chef)
+  - [Puppet](#puppet)
+  - [SaltStack](#saltstack)
+  - [Terraform](#terraform)
+  - [Other/Several](#otherseveral)
 - [RSS Feeds](#rss-feeds)
 - [Security](#security)
+  - [Drupal core and modules security](#drupal-core-and-modules-security)
+  - [Security tools](#security-tools)
 - [Scaffolding Tools](#scaffolding-tools)
 - [Scripts](#scripts)
+  - [git hooks](#git-hooks)
+  - [Robofile](#robofile)
 - [Site building](#site-building)
 - [Tools](#tools)
 - [Tutorials](#tutorials)
@@ -129,7 +149,6 @@ Back to [TOC](#contents)
 - [Modules](https://www.drupal.org/project/project_module)
 - [Themes](https://www.drupal.org/project/project_theme)
 - [Distributions](https://www.drupal.org/project/project_distribution)
-- [Security advisories](https://www.drupal.org/security)
 - [Documentation](https://www.drupal.org/documentation)
 - [Core API Reference](https://api.drupal.org/api/drupal)
 - [Drupal 8.x+ APIs](https://www.drupal.org/node/2814041)
@@ -207,7 +226,7 @@ For general comparisons see:
 - [http://www.mediacurrent.com/blog/comparing-drupal-and-adobe-experience-manager-part-1-2](http://www.mediacurrent.com/blog/comparing-drupal-and-adobe-experience-manager-part-1-2)
 - [http://www.mediacurrent.com/blog/comparing-drupal-and-adobe-experience-manager-part-2](http://www.mediacurrent.com/blog/comparing-drupal-and-adobe-experience-manager-part-2)
 
-### Druapl VS SharePoint
+### Drupal VS SharePoint
 
 - [SharePoint Vs Drupal: Which Is A Better CMS Solution? With Infographics, 2019](https://www.rishabhsoft.com/blog/drupal-vs-sharepoint)
 
@@ -368,15 +387,17 @@ Back to [TOC](#contents)
 ### Drupal core and modules security
 
 - [Drupal security team](https://www.drupal.org/drupal-security-team)
-- **Security release "windows" are every Wednesday for Drupal contributed projects, and one Wednesday a month (usually the third Wednesday) for Drupal core.**
-- For Drupal core the **bug fix/feature** rele1ase window is on the **first Wednesday of the month**.
+- Security release "windows" are **every Wednesday for Drupal contributed projects, and one Wednesday a month (usually the third Wednesday) for Drupal core**.
+- For Drupal core the **bug fix/feature** release window is on the **first Wednesday of the month**.
 - Security releases happen between 16:00 UTC and 22:00 UTC.
 - [D.O. Security updates list](https://www.drupal.org/security)
 - [D.O.: Security release numbers and release timing](https://www.drupal.org/drupal-security-team/security-release-numbers-and-release-timing)
 - [D.O. Security updates Twitter account](https://twitter.com/drupalsecurity)
 - [Drupal Core Calendar - releases and security windows](https://calendar.google.com/calendar/u/0/embed?src=drupalcorecalendar@association.drupal.org)
 
-### Security validation and penetration tools to help you create a secure Drupal website.
+### Security tools
+
+> Several security validation and penetration tools to help you create a secure Drupal website
 
 - [droope/droopescan](https://github.com/droope/droopescan)
 - [sullo/nikto](https://github.com/sullo/nikto)
@@ -512,7 +533,6 @@ Back to [TOC](#contents)
 - <https://twitter.com/drupalplanet>
 - <https://twitter.com/drupaljobs>
 - <https://twitter.com/drupalmentoring>
-- <https://twitter.com/drupalsecurity>
 - <https://twitter.com/DrupalEurope>
 - <https://twitter.com/DrupalConNA>
 - <https://twitter.com/DrupalSouth>
@@ -539,7 +559,7 @@ Back to [TOC](#contents)
 
 ---
 
-## Footnotes
+## Footnotes<!-- omit from toc -->
 
 Copyright disclaimer: Drupal is a [registered trademark](http://drupal.com/trademark) of [Dries Buytaert](http://buytaert.net/).
 
