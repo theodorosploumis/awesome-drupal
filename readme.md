@@ -349,7 +349,7 @@ Back to [TOC](#contents)
 
 ### Puppet
 
-- [Puppet Drupal](https://forge.puppet.com/tags/drupal)
+- [Puppet Drupal](https://forge.puppet.com/modules?tag=drupal)
 
 ### SaltStack
 
