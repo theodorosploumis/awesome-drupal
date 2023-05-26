@@ -225,8 +225,8 @@ For general comparisons see:
 
 ### Drupal vs Adobe Experience Manager (AEM)
 
-- [http://www.mediacurrent.com/blog/comparing-drupal-and-adobe-experience-manager-part-1-2](http://www.mediacurrent.com/blog/comparing-drupal-and-adobe-experience-manager-part-1-2)
-- [http://www.mediacurrent.com/blog/comparing-drupal-and-adobe-experience-manager-part-2](http://www.mediacurrent.com/blog/comparing-drupal-and-adobe-experience-manager-part-2)
+- [http://www.mediacurrent.com/blog/comparing-drupal-and-adobe-experience-manager-part-1-2, 2017](https://web.archive.org/web/20220519043714/https://www.mediacurrent.com/blog/comparing-drupal-and-adobe-experience-manager-part-1-2)
+- [http://www.mediacurrent.com/blog/comparing-drupal-and-adobe-experience-manager-part-2, 2017](https://web.archive.org/web/20200624020408/https://www.mediacurrent.com/blog/comparing-drupal-and-adobe-experience-manager-part-2-2)
 
 ### Drupal VS SharePoint
 
@@ -234,9 +234,8 @@ For general comparisons see:
 
 ### Drupal vs SiteCore
 
-- [www.mediacurrent.com/blog/drupal-vs-sitecore-part-1-2](https://www.mediacurrent.com/blog/comparing-drupal-and-sitecore-part-1-2)
-- [www.mediacurrent.com/blog/drupal-vs-sitecore-part-2-2](https://www.mediacurrent.com/blog/comparing-drupal-and-sitecore-part-2-2)
-- [Mediacurrent: Drupal vs Sitecore vs AEM](https://drive.google.com/open?id=0B-_KJaqOE1dZcTlOcnQwRlhPYnc) ([form link](https://www.mediacurrent.com/ebooks/cms-showdown-comparing-adobe-sitecore-and-drupal/))
+- [mediacurrent.com/blog/drupal-vs-sitecore-part-1-2, 2017](https://web.archive.org/web/20210806041035/https://www.mediacurrent.com/blog/comparing-drupal-and-sitecore-part-1-2)
+- [mediacurrent.com/blog/drupal-vs-sitecore-part-2-2, 2017](https://web.archive.org/web/20210806044038/https://www.mediacurrent.com/blog/comparing-drupal-and-sitecore-part-2-2)
 - [Comparing CMS Platforms - Mediacurrent Whitepaper](https://drive.google.com/open?id=0B-_KJaqOE1dZb0tPUVVXLXREaHc)
 - [opensenselabs.com/blog/articles/2018-drupal-vs-sitecore-comparison](https://opensenselabs.com/blog/articles/2018-drupal-vs-sitecore-comparison)
 
