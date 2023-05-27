@@ -225,8 +225,8 @@ For general comparisons see:
 
 ### Drupal vs Adobe Experience Manager (AEM)
 
-- [http://www.mediacurrent.com/blog/comparing-drupal-and-adobe-experience-manager-part-1-2, 2017](https://web.archive.org/web/20220519043714/https://www.mediacurrent.com/blog/comparing-drupal-and-adobe-experience-manager-part-1-2)
-- [http://www.mediacurrent.com/blog/comparing-drupal-and-adobe-experience-manager-part-2, 2017](https://web.archive.org/web/20200624020408/https://www.mediacurrent.com/blog/comparing-drupal-and-adobe-experience-manager-part-2-2)
+- [mediacurrent.com/blog/comparing-drupal-and-adobe-experience-manager-part-1, 2017](https://web.archive.org/web/20220519043714/www.mediacurrent.com/blog/comparing-drupal-and-adobe-experience-manager-part-1-2)
+- [mediacurrent.com/blog/comparing-drupal-and-adobe-experience-manager-part-2, 2017](https://web.archive.org/web/20200624020408/www.mediacurrent.com/blog/comparing-drupal-and-adobe-experience-manager-part-2-2)
 
 ### Drupal VS SharePoint
 
