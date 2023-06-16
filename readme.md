@@ -428,7 +428,7 @@ Back to [TOC](#contents)
 - [Yeoman Generator: Drupal 7 Gulp Starter Theme](https://github.com/supermoos/generator-drupal-gulp)
 - [Yeoman generator for drupal modules](https://github.com/davidmaneuver/generator-drupalmodule)
 - [A Yeoman generator for generating a Drupal VM stack](https://github.com/kevinquillen/generator-drupalvm)
-- [Yeoman generator for the Prototype Drupal theme](https://github.com/AtenDesignGroup/generator-center-subtheme)
+- [Yeoman generator for the Prototype Drupal theme](https://github.com/AtenDesignGroup/generator-prototype-subtheme)
 
 <!--lint disable double-link-->
 Back to [TOC](#contents)
