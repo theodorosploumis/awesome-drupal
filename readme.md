@@ -200,7 +200,7 @@ Back to [TOC](#contents)
 For general comparisons see:
 
 - [similartech.com](https://www.similartech.com/categories/content-management-system)
-- [cmsmatrix.org](http://www.cmsmatrix.org)
+- [opensourcecms.com](https://www.opensourcecms.com)
 - [Most Popular Free CMS Software Comparison - socialcompare.com](https://socialcompare.com/en/comparison/popular-content-management-system-cms-comparison-table)
 
 ### Drupal vs Wordpress
