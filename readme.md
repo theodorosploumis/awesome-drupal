@@ -67,6 +67,7 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
 
 ## Books
 
+- [Modernizing Drupal 10 Theme Development: Build fast, responsive Drupal websites with custom theme design to deliver a rich user experience, 2023](https://www.amazon.com/Modernizing-Drupal-Theme-Development-responsive/dp/1803238097)
 - [Digital Marketing with Drupal, 2022](https://www.drupal.org/node/3266781)
 - [Drupal 10 Development Cookbook - Third Edition, 2023](https://www.packtpub.com/product/drupal-10-development-cookbook-third-edition/9781803234960)
 - [Drupal 9 Module Development - Third Edition, 2020](https://www.packtpub.com/product/drupal-9-module-development-third-edition/9781800204621)
