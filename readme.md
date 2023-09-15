@@ -206,6 +206,7 @@ For general comparisons see:
 
 ### Drupal vs Wordpress
 
+- [Drupal vs WordPress - Which CMS Is Right for You? - embergsolutions.com](https://lembergsolutions.com/blog/drupal-vs-wordpress-which-cms-right-you) (2023)
 - [Talking Drupal #386 - Drupal Vs Wordpress (Video, 2023)](https://www.youtube.com/watch?v=vOYFsEYt1JY)
 - [https://www.drupal.org/node/1438700](https://www.drupal.org/node/1438700) (since 2012)
 - [https://www.axelerant.com/blog/why-drupal-8-changes-wordpress-vs-drupal](https://www.axelerant.com/blog/why-drupal-8-changes-wordpress-vs-drupal) (2016)
