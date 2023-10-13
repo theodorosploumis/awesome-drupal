@@ -122,12 +122,12 @@ Back to [TOC](#contents)
 
 ## CI template examples
 
-- [drush - circleci](https://github.com/drush-ops/drush/blob/11.x/.circleci/config.yml)
+- [drush - circleci](https://github.com/drush-ops/drush/blob/HEAD/.circleci/config.yml)
 - [drupal-composer/drupal-scaffold - .travis.yml](https://github.com/drupal-composer/drupal-scaffold/blob/master/.travis.yml)
-- [drupal core - phpcs.xml.dist](https://github.com/drupal/core/blob/8.4.x/phpcs.xml.dist)
+- [drupal core - phpcs.xml.dist](https://github.com/drupal/core/blob/HEAD/phpcs.xml.dist)
 - [DrupalCI: Drupal.org Testing Infrastructure](https://www.drupal.org/project/drupalci)
-- [drupalcommerce/commerce - .travis.yml](https://github.com/drupalcommerce/commerce/blob/8.x-2.x/.travis.yml)
-- [drupalcommerce/commerce - phpcs.xml](https://github.com/drupalcommerce/commerce/blob/8.x-2.x/phpcs.xml)
+- [drupalcommerce/commerce - .travis.yml](https://github.com/drupalcommerce/commerce/blob/HEAD/.travis.yml)
+- [drupalcommerce/commerce - phpcs.xml](https://github.com/drupalcommerce/commerce/blob/HEAD/phpcs.xml)
 - [Jenkins and SonarQube Drupal CI and Static Code Analysis](https://github.com/geerlingguy/drupalci-sonar-jenkins)
 - [drupal_ti - Travis Integration for Drupal modules](https://github.com/LionsAd/drupal_ti)
 
