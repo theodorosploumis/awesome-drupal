@@ -122,6 +122,8 @@ Back to [TOC](#contents)
 
 ## CI template examples
 
+- [drupal core - .gitlab.ci](https://git.drupalcode.org/project/drupal/-/tree/11.x/.gitlab-ci)
+- [gitlab_templates - template.gitlab-ci.yml](https://git.drupalcode.org/project/gitlab_templates/-/blob/main/gitlab-ci/template.gitlab-ci.yml)
 - [drush - circleci](https://github.com/drush-ops/drush/blob/HEAD/.circleci/config.yml)
 - [drupal-composer/drupal-scaffold - .travis.yml](https://github.com/drupal-composer/drupal-scaffold/blob/master/.travis.yml)
 - [drupal core - phpcs.xml.dist](https://github.com/drupal/core/blob/HEAD/phpcs.xml.dist)
