@@ -260,6 +260,7 @@ Back to [TOC](#contents)
 
 ## Events
 
+- [Drupal Community Events](https://www.drupal.org/community/events)
 - [Drupal Events](https://groups.drupal.org/events)
 - [Drupical.com](http://www.drupical.com)
 
