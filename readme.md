@@ -102,7 +102,7 @@ Back to [TOC](#contents)
 ## Cheatsheets
 
 - [Drupal best practices](https://github.com/theodorosploumis/drupal-best-practices)
-- [GitHub: Drupal 9 & 10 developer’s quick code reference by Selwyn Polit](https://selwynpolit.github.io/d9book)
+- [Drupal at your fingertips by Selwyn Polit - selwynpolit.github.io/d9book](https://selwynpolit.github.io/d9book)
 - [drupalbook.org](https://www.drupalbook.org) 
 - [Drupal 8 entity API, PDF](https://drupalbook.org/sites/default/files/drupal-content-entity-8.0.pdf)
 - [Drupal 7 to 8](http://nuvole.org/sites/default/files/Drupal-7-to-Drupal-8-Cheatsheet.pdf)
