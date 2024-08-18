@@ -207,6 +207,7 @@ For general comparisons see:
 - [similartech.com](https://www.similartech.com/categories/content-management-system)
 - [opensourcecms.com](https://www.opensourcecms.com)
 - [Most Popular Free CMS Software Comparison - socialcompare.com](https://socialcompare.com/en/comparison/popular-content-management-system-cms-comparison-table)
+- [YouTube - Talking Drupal #463 - Drupal vs DIY Site Builders, 2024/08](https://www.youtube.com/watch?v=aqUQG6IJZZw)
 
 ### Drupal vs Wordpress
 
