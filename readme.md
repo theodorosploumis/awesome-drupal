@@ -58,6 +58,7 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
   - [Robofile](#robofile)
 - [Site building](#site-building)
 - [Tools](#tools)
+- [Try Drupal](#try-drupal)
 - [Tutorials](#tutorials)
 - [Videos](#videos)
 - [Social media](#social-media)
@@ -497,12 +498,20 @@ Back to [TOC](#contents)
 ## Tools
 
 - [drupaltools.com - All Drupal related tools collection](https://drupaltools.com)
-- [simplytest.me - Evaluate Drupal projects online](https://simplytest.me)
 - [dgo.to - Drupal projects url shortener](https://dgo.to)
-- [distros.bid - Try Drupal distributions online](https://www.distros.bid)
 - [drupalintegration.com](https://drupalintegration.com)
 - [Drupal.org - Development tools overview](https://www.drupal.org/node/147789)
 - [GitHub.com/topics/drupal](https://github.com/topics/drupal)
+
+<!--lint disable double-link-->
+Back to [TOC](#contents)
+<!--lint enable double-link-->
+
+## Try Drupal
+
+- [Drupal trial experience](https://project.pages.drupalcode.org/drupal_cms)
+- [simplytest.me - Evaluate Drupal projects online](https://simplytest.me)
+- [distros.bid - Try Drupal distributions online](https://www.distros.bid)
 
 <!--lint disable double-link-->
 Back to [TOC](#contents)
