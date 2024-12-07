@@ -77,7 +77,6 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
 - [Programmer"s Guide to Drupal, 2nd Edition, 2015](https://www.oreilly.com/library/view/programmers-guide-to/9781491911457)
 - [High Performance Drupal, 2013](https://www.oreilly.com/library/view/high-performance-drupal/9781449358013)
 - [drupal.org/books](https://www.drupal.org/books)
-- [drupalbook.org - Online book](https://drupalbook.org)
 
 <!--lint disable double-link-->
 Back to [TOC](#contents)
@@ -123,7 +122,7 @@ Back to [TOC](#contents)
 
 ## CI template examples
 
-- [drupal core - .gitlab.ci](https://git.drupalcode.org/project/drupal/-/tree/11.x/.gitlab-ci)
+- [drupal core - GitLab CI](https://git.drupalcode.org/project/drupal/-/tree/11.x/.gitlab-ci)
 - [gitlab_templates - template.gitlab-ci.yml](https://git.drupalcode.org/project/gitlab_templates/-/blob/main/gitlab-ci/template.gitlab-ci.yml)
 - [drush - circleci](https://github.com/drush-ops/drush/blob/HEAD/.circleci/config.yml)
 - [drupal-composer/drupal-scaffold - .travis.yml](https://github.com/drupal-composer/drupal-scaffold/blob/master/.travis.yml)
@@ -577,7 +576,7 @@ Back to [TOC](#contents)
 
 ---
 
-## Footnotes<!-- omit from toc -->
+## Footnotes
 
 Copyright disclaimer: Drupal is a [registered trademark](http://drupal.com/trademark) of [Dries Buytaert](http://buytaert.net/).
 
