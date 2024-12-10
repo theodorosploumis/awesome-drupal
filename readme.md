@@ -351,7 +351,7 @@ Back to [TOC](#contents)
 
 ### Ansible
 
-- [Ansible Drupal roles](https://galaxy.ansible.com/search?deprecated=false&keywords=drupal&order_by=-relevance)
+- [Ansible Drupal roles](https://galaxy.ansible.com/ui/search/?keywords=drupal)
 
 ### Chef
 
