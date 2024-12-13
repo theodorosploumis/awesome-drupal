@@ -498,7 +498,6 @@ Back to [TOC](#contents)
 
 - [drupaltools.com - All Drupal related tools collection](https://drupaltools.com)
 - [dgo.to - Drupal projects url shortener](https://dgo.to)
-- [drupalintegration.com](https://drupalintegration.com)
 - [Drupal.org - Development tools overview](https://www.drupal.org/node/147789)
 - [GitHub.com/topics/drupal](https://github.com/topics/drupal)
 
