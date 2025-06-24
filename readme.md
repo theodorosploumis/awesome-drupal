@@ -265,6 +265,7 @@ Back to [TOC](#contents)
 - [Drupal Community Events](https://www.drupal.org/community/events)
 - [Drupal Events](https://groups.drupal.org/events)
 - [Drupical.com](http://www.drupical.com)
+- [thedroptimes.com/events](https://www.thedroptimes.com/events)
 
 <!--lint disable double-link-->
 Back to [TOC](#contents)
