@@ -109,7 +109,7 @@ Back to [TOC](#contents)
 - [Drupal 8 Configuration schema](http://www.hojtsy.hu/files/ConfigSchemaCheatSheet2.0.pdf)
 - [GitHub: flashvnn/drupal-snippets](https://github.com/flashvnn/drupal-snippets)
 - [GitHub: druman/drupal8-snippets](https://github.com/druman/drupal8-snippets)
-- [GitHub: daggerhart/drupal8_examples](https://github.com/daggerhart/drupal8_examples)]
+- [GitHub: daggerhart/drupal8_examples](https://github.com/daggerhart/drupal8_examples)
 - [Drupal Study Guide by WebFirst, Drupal Acquia Certification Study Guide, 2021](https://webfirstinc.github.io/drupalstudyguide)
 - [Gist: Drupal 8/9/10 Cheatsheet by cesarmiquel](https://gist.github.com/cesarmiquel/48404d99c8f7d9f274705b7a601c5554)
 - [Gist: Drupal 8 programmatic solutions by bdlangton](https://gist.github.com/bdlangton/e826276a0c78d9a89d8dec23dd0c7683)
