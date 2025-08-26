@@ -29,7 +29,7 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
   - [Drupal vs Magento](#drupal-vs-magento)
   - [Drupal vs Adobe Experience Manager (AEM)](#drupal-vs-adobe-experience-manager-aem)
   - [Drupal VS SharePoint](#drupal-vs-sharepoint)
-  - [Drupal vs SiteCore](#drupal-vs-sitecore)
+  - [Drupal vs Sitecore](#drupal-vs-sitecore)
   - [Drupal VS Contentful](#drupal-vs-contentful)
   - [Drupal vs Umbraco](#drupal-vs-umbraco)
 - [Events](#events)
@@ -242,7 +242,7 @@ For general comparisons see:
 
 - [SharePoint Vs Drupal: Which Is A Better CMS Solution? With Infographics, 2019](https://www.rishabhsoft.com/blog/drupal-vs-sharepoint)
 
-### Drupal vs SiteCore
+### Drupal vs Sitecore
 
 - [mediacurrent.com/blog/drupal-vs-sitecore-part-1-2, 2017](https://web.archive.org/web/20210806041035/https://www.mediacurrent.com/blog/comparing-drupal-and-sitecore-part-1-2)
 - [mediacurrent.com/blog/drupal-vs-sitecore-part-2-2, 2017](https://web.archive.org/web/20210806044038/https://www.mediacurrent.com/blog/comparing-drupal-and-sitecore-part-2-2)
