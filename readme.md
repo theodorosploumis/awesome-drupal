@@ -203,59 +203,67 @@ Back to [TOC](#contents)
 
 ## Drupal VS Other
 
+
 For general comparisons see:
 
-- [similartech.com](https://www.similartech.com/categories/content-management-system)
-- [opensourcecms.com](https://www.opensourcecms.com)
-- [Most Popular Free CMS Software Comparison - socialcompare.com](https://socialcompare.com/en/comparison/popular-content-management-system-cms-comparison-table)
-- [YouTube - Talking Drupal #463 - Drupal vs DIY Site Builders, 2024/08](https://www.youtube.com/watch?v=aqUQG6IJZZw)
+- [similartech.com](https://www.similartech.com/categories/content-management-system) (Market share and technology usage stats)
+- [opensourcecms.com](https://www.opensourcecms.com) (CMS demos and reviews)
+- [Most Popular Free CMS Software Comparison - socialcompare.com](https://socialcompare.com/en/comparison/popular-content-management-system-cms-comparison-table) (CMS feature comparison table)
+- [YouTube - Talking Drupal #463 - Drupal vs DIY Site Builders, 2024/08](https://www.youtube.com/watch?v=aqUQG6IJZZw) (Video: Drupal vs DIY Site Builders)
+
 
 ### Drupal vs Wordpress
 
-- [Drupal CMS 1.0 vs. WordPress 6.7: A Performance Showdown, 2025](https://www.tag1consulting.com/blog/drupal-cms-vs-wordpress-performance-2025)
-- [Drupal vs WordPress - Which CMS Is Right for You? - embergsolutions.com](https://lembergsolutions.com/blog/drupal-vs-wordpress-which-cms-right-you) (2023)
-- [Talking Drupal #386 - Drupal Vs Wordpress (Video, 2023)](https://www.youtube.com/watch?v=vOYFsEYt1JY)
-- [https://www.drupal.org/node/1438700](https://www.drupal.org/node/1438700) (since 2012)
-- [https://www.axelerant.com/blog/why-drupal-8-changes-wordpress-vs-drupal](https://www.axelerant.com/blog/why-drupal-8-changes-wordpress-vs-drupal) (2016)
-- [https://www.fullbundle.com/blog/drupal-wordpress-what-cms-is-right-for-you](https://www.fullbundle.com/blog/drupal-wordpress-what-cms-is-right-for-you) (2016)
-- [Drupal Vs Wordpress - The True Cost of an Opensource CMS, symmetritechnology.com](https://symmetritechnology.com/article/drupal-vs-wordpress-true-cost-opensource-cms) (2016)
-- [https://blog.acromedia.com/drupals-admin-ui-and-how-it-compares-to-wordpress](https://blog.acromedia.com/drupals-admin-ui-and-how-it-compares-tohttps://www.acquia.com/blog/drupal-vs-wordpress-team-approach-cms-selection-wordpress) (2021)
-- [DrupalCon New Orleans 2016: Lessons from WordPress Core](https://www.youtube.com/watch?v=JeoCHqzvUFY) (2016, video)
-- [DrupalCon Dublin 2016: How our competitors are kicking Drupal's ass (and what we can do about it)](https://www.youtube.com/watch?v=C-sXsu1r4_E) (2016, video)
-- [Drupal vs WordPress: The Team Approach to CMS Selection, acquia.com, 2020](https://www.acquia.com/blog/drupal-vs-wordpress-team-approach-cms-selection)
-- [Benefits of Drupal vs. Wordpress for Higher Education Institutions, acquia.com, 2019](https://www.acquia.com/blog/benefits-drupal-vs-wordpress-higher-education-institutions)
-- [https://www.similartech.com/compare/drupal-vs-wordpress](https://www.similartech.com/compare/drupal-vs-wordpress)
+- [Drupal CMS 1.0 vs. WordPress 6.7: A Performance Showdown, 2025](https://www.tag1consulting.com/blog/drupal-cms-vs-wordpress-performance-2025) (Performance comparison, 2025)
+- [Drupal vs WordPress - Which CMS Is Right for You? - embergsolutions.com](https://lembergsolutions.com/blog/drupal-vs-wordpress-which-cms-right-you) (Overview, 2023)
+- [Talking Drupal #386 - Drupal Vs Wordpress (Video, 2023)](https://www.youtube.com/watch?v=vOYFsEYt1JY) (Video: Drupal vs WordPress, 2023)
+- [drupal.org - Comparison](https://www.drupal.org/node/1438700) (Official comparison, since 2012)
+- [Why Drupal 8 changes WordPress vs Drupal - axelerant.com](https://www.axelerant.com/blog/why-drupal-8-changes-wordpress-vs-drupal) (Why Drupal 8 changed the WordPress vs Drupal debate, 2016)
+- [What CMS is right for you? - fullbundle.com](https://www.fullbundle.com/blog/drupal-wordpress-what-cms-is-right-for-you) (Which CMS is right for you? 2016)
+- [Drupal Vs Wordpress - The True Cost of an Opensource CMS, symmetritechnology.com](https://symmetritechnology.com/article/drupal-vs-wordpress-true-cost-opensource-cms) (True cost of open source CMS, 2016)
+- [Drupal's admin UI and how it compares to WordPress - acromedia.com](https://blog.acromedia.com/drupals-admin-ui-and-how-it-compares-to-wordpress) (Drupal's admin UI vs WordPress, 2021)
+- [DrupalCon New Orleans 2016: Lessons from WordPress Core](https://www.youtube.com/watch?v=JeoCHqzvUFY) (Video: Lessons from WordPress Core)
+- [DrupalCon Dublin 2016: How our competitors are kicking Drupal's ass (and what we can do about it)](https://www.youtube.com/watch?v=C-sXsu1r4_E) (Video: How competitors challenge Drupal)
+- [Drupal vs WordPress: The Team Approach to CMS Selection, acquia.com, 2020](https://www.acquia.com/blog/drupal-vs-wordpress-team-approach-cms-selection) (Team approach to CMS selection, 2020)
+- [Benefits of Drupal vs. Wordpress for Higher Education Institutions, acquia.com, 2019](https://www.acquia.com/blog/benefits-drupal-vs-wordpress-higher-education-institutions) (Benefits for higher education, 2019)
+- [similartech.com - Compare Drupal vs WordPress](https://www.similartech.com/compare/drupal-vs-wordpress) (Market share: Drupal vs WordPress)
+
 
 ### Drupal vs Magento
 
-- [Magento & Drupal As One - Google+ Hangout](https://www.youtube.com/watch?v=coHnfN215Fk) (video, 2015)
-- [DrupalCon Baltimore 2017: Magento and Drupal fall in love: A new way to approach contextual commerce](https://www.youtube.com/watch?v=cey6u6OTsSE) (video, 2017)
-- [https://opensenselabs.com/blog/articles/drupal-commerce-magento-comparison](https://opensenselabs.com/blog/articles/drupal-commerce-magento-comparison) (2018)
+- [Magento & Drupal As One - Google+ Hangout](https://www.youtube.com/watch?v=coHnfN215Fk) (Video: Magento & Drupal as one, 2015)
+- [DrupalCon Baltimore 2017: Magento and Drupal fall in love: A new way to approach contextual commerce](https://www.youtube.com/watch?v=cey6u6OTsSE) (Video: Contextual commerce, 2017)
+- [Drupal Commerce vs Magento - opensenselabs.com](https://opensenselabs.com/blog/articles/drupal-commerce-magento-comparison) (Drupal Commerce vs Magento, 2018)
+
 
 ### Drupal vs Adobe Experience Manager (AEM)
 
-- [prometsource.com/blog/adobe-experience-manager-vs-drupal, 2023](https://www.prometsource.com/blog/adobe-experience-manager-vs-drupal)
-- [mediacurrent.com/blog/comparing-drupal-and-adobe-experience-manager-part-1, 2017](https://web.archive.org/web/20220519043714/www.mediacurrent.com/blog/comparing-drupal-and-adobe-experience-manager-part-1-2)
-- [mediacurrent.com/blog/comparing-drupal-and-adobe-experience-manager-part-2, 2017](https://web.archive.org/web/20200624020408/www.mediacurrent.com/blog/comparing-drupal-and-adobe-experience-manager-part-2-2)
+- [Adobe Experience Manager vs Drupal - prometsource.com, 2023](https://www.prometsource.com/blog/adobe-experience-manager-vs-drupal) (AEM vs Drupal, 2023)
+- [Comparing Drupal and Adobe Experience Manager Part 1 - mediacurrent.com, 2017](https://web.archive.org/web/20220519043714/www.mediacurrent.com/blog/comparing-drupal-and-adobe-experience-manager-part-1-2) (Part 1: Comparing Drupal and AEM, 2017)
+- [Comparing Drupal and Adobe Experience Manager Part 2 - mediacurrent.com, 2017](https://web.archive.org/web/20200624020408/www.mediacurrent.com/blog/comparing-drupal-and-adobe-experience-manager-part-2-2) (Part 2: Comparing Drupal and AEM, 2017)
+
 
 ### Drupal VS SharePoint
 
-- [SharePoint Vs Drupal: Which Is A Better CMS Solution? With Infographics, 2019](https://www.rishabhsoft.com/blog/drupal-vs-sharepoint)
+- [SharePoint Vs Drupal: Which Is A Better CMS Solution? With Infographics, 2019](https://www.rishabhsoft.com/blog/drupal-vs-sharepoint) (SharePoint vs Drupal, 2019)
+
 
 ### Drupal vs Sitecore
 
-- [mediacurrent.com/blog/drupal-vs-sitecore-part-1-2, 2017](https://web.archive.org/web/20210806041035/https://www.mediacurrent.com/blog/comparing-drupal-and-sitecore-part-1-2)
-- [mediacurrent.com/blog/drupal-vs-sitecore-part-2-2, 2017](https://web.archive.org/web/20210806044038/https://www.mediacurrent.com/blog/comparing-drupal-and-sitecore-part-2-2)
-- [Comparing CMS Platforms - Mediacurrent Whitepaper](https://drive.google.com/open?id=0B-_KJaqOE1dZb0tPUVVXLXREaHc)
-- [opensenselabs.com/blog/articles/2018-drupal-vs-sitecore-comparison](https://opensenselabs.com/blog/articles/2018-drupal-vs-sitecore-comparison)
+- [Drupal vs Sitecore Part 1 - mediacurrent.com, 2017](https://web.archive.org/web/20210806041035/https://www.mediacurrent.com/blog/comparing-drupal-and-sitecore-part-1-2) (Part 1: Drupal vs Sitecore, 2017)
+- [Drupal vs Sitecore Part 2 - mediacurrent.com, 2017](https://web.archive.org/web/20210806044038/https://www.mediacurrent.com/blog/comparing-drupal-and-sitecore-part-2-2) (Part 2: Drupal vs Sitecore, 2017)
+- [Comparing CMS Platforms - Mediacurrent Whitepaper](https://drive.google.com/open?id=0B-_KJaqOE1dZb0tPUVVXLXREaHc) (Comparing CMS platforms)
+- [Drupal vs Sitecore - opensenselabs.com, 2018](https://opensenselabs.com/blog/articles/2018-drupal-vs-sitecore-comparison) (Drupal vs Sitecore, 2018)
+
 
 ### Drupal VS Contentful
 
-- [https://opensenselabs.com/blog/articles/drupal-and-contentful-comparison-open-source-vs-proprietary-software](https://opensenselabs.com/blog/articles/drupal-and-contentful-comparison-open-source-vs-proprietary-software)
+- [Drupal and Contentful Comparison - opensenselabs.com](https://opensenselabs.com/blog/articles/drupal-and-contentful-comparison-open-source-vs-proprietary-software) (Drupal vs Contentful: open source vs proprietary)
+
 
 ### Drupal vs Umbraco
 
-- [https://opensenselabs.com/blog/articles/cms-comparison-2018-drupal-vs-umbraco](https://opensenselabs.com/blog/articles/cms-comparison-2018-drupal-vs-umbraco)
+- [CMS Comparison 2018: Drupal vs Umbraco - opensenselabs.com](https://opensenselabs.com/blog/articles/cms-comparison-2018-drupal-vs-umbraco) (Drupal vs Umbraco, 2018)
 
 <!--lint disable double-link-->
 Back to [TOC](#contents)
