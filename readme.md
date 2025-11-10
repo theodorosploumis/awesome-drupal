@@ -390,9 +390,7 @@ Back to [TOC](#contents)
 
 ### Terraform
 
-- [Terraform - HAProxy, Drupal and Mysql](https://github.com/enxebre/atlas-terraform-HAProxy-drupal)
-- [neilmillard/terraform-drupal](https://github.com/neilmillard/terraform-drupal)
-- [Terraform setup for drupal nginx , mysql php on AWS](https://github.com/iahmad-khan/terraform-aws-lemp-cvicrm)
+- [BackUpScale/drupal/kubernetes](https://registry.terraform.io/modules/BackUpScale/drupal/kubernetes/latest)
 
 ### Other/Several
 
