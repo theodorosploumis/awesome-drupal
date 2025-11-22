@@ -21,6 +21,7 @@ Ensure your pull request adheres to the following guidelines:
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
 - The pull request should have a useful title and include a link to the package and why it should be included.
+- Run `npx awesome-lint` before opening a pull request to catch formatting issues. If registry access is restricted in your environment, document the failure in the PR and proceed with manual checks.
 
 Thank you for your suggestion!
 
