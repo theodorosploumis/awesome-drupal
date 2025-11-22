@@ -55,7 +55,7 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
   - [Security tools](#security-tools)
 - [Scaffolding Tools](#scaffolding-tools)
 - [Scripts](#scripts)
-  - [git hooks](#git-hooks)
+  - [Git hooks](#git-hooks)
   - [Robofile](#robofile)
 - [Site building](#site-building)
 - [Tools](#tools)
@@ -86,7 +86,7 @@ Back to [TOC](#contents)
 - [Drupal 9 Module Development - Third Edition, 2020](https://www.packtpub.com/product/drupal-9-module-development-third-edition/9781800204621)
 - [Enterprise Drupal 8 Development, 2017](https://www.drupal.org/node/3160419)
 - [Drupal 8 Development Cookbook (2Ed), 2017](https://www.packtpub.com/product/drupal-8-development-cookbook-second-edition/9781788290401)
-- [Programmer"s Guide to Drupal, 2nd Edition, 2015](https://www.oreilly.com/library/view/programmers-guide-to/9781491911457)
+- [Programmer's Guide to Drupal, 2nd Edition, 2015](https://www.oreilly.com/library/view/programmers-guide-to/9781491911457)
 - [High Performance Drupal, 2013](https://www.oreilly.com/library/view/high-performance-drupal/9781449358013)
 - [drupal.org/books](https://www.drupal.org/books)
 
@@ -137,7 +137,7 @@ Back to [TOC](#contents)
 
 - [drupal core - GitLab CI](https://git.drupalcode.org/project/drupal/-/tree/11.x/.gitlab-ci)
 - [gitlab_templates - template.gitlab-ci.yml](https://git.drupalcode.org/project/gitlab_templates/-/blob/main/gitlab-ci/template.gitlab-ci.yml)
-- [drush - circleci](https://github.com/drush-ops/drush/blob/HEAD/.circleci/config.yml)
+- [drush - CircleCI](https://github.com/drush-ops/drush/blob/HEAD/.circleci/config.yml)
 - [drupal-composer/drupal-scaffold - .travis.yml](https://github.com/drupal-composer/drupal-scaffold/blob/master/.travis.yml)
 - [drupal core - phpcs.xml.dist](https://github.com/drupal/core/blob/HEAD/phpcs.xml.dist)
 - [DrupalCI: Drupal.org Testing Infrastructure](https://www.drupal.org/project/drupalci)
@@ -196,14 +196,14 @@ Back to [TOC](#contents)
 > For old, outdated and unmaintened examples see [archive/decoupled.md](archive/decoupled.md)
 
 - [Next.js for Drupal (starter kit)](https://next-drupal.org)
-- [druxtjs: DRUpal + NuXT.js (starter kit)](https://druxtjs.org)
+- [druxtjs: Drupal + Nuxt.js (starter kit)](https://druxtjs.org)
 - [Contenta CMS: API-First Drupal 8.x distribution](https://github.com/contentacms)
 - [Tide: Distribution focused on delivering an API first](https://www.drupal.org/project/tide)
 - [Falcon: Distribution made for Charities. Powered by Drupal and React](https://github.com/systemseed/falcon)
 - [Lupus: Nuxt.js + Drupal + Custom elements](https://stack.lupus.digital)
 - [systemseed/drupal_reactjs_boilerplate](https://github.com/systemseed/drupal_reactjs_boilerplate)
 - [Gatsby Drupal multi-app for Platform.sh](https://github.com/platformsh-templates/gatsby-drupal)
-- [Headless Drupal - VueJs template for Platform.sh projects](https://github.com/yuseferi/decoupled-drupal-vuejs)
+- [Headless Drupal - Vue.js template for Platform.sh projects](https://github.com/yuseferi/decoupled-drupal-vuejs)
 - [Drupal ♥ GraphQL](https://github.com/drupal-graphql)
 - [VertikaJain/decoupled-drupal-react](https://github.com/VertikaJain/decoupled-drupal-react)
 - [DrupalizeMe/react-and-drupal-examples](https://github.com/DrupalizeMe/react-and-drupal-examples)
@@ -390,7 +390,7 @@ Back to [TOC](#contents)
 
 ### Terraform
 
-- [BackUpScale/drupal/kubernetes](https://registry.terraform.io/modules/BackUpScale/drupal/kubernetes/latest)
+- [BackUpScale/drupal/Kubernetes](https://registry.terraform.io/modules/BackUpScale/drupal/kubernetes/latest)
 
 ### Other/Several
 
@@ -466,20 +466,20 @@ Back to [TOC](#contents)
 
 ## Scripts
 
-### git hooks
+### Git hooks
 
-> Several examples of git hooks (pre-commit etc) related to Drupal.
+> Several examples of Git hooks (pre-commit etc) related to Drupal.
 
 - [drupal-infofinland/commit-msg at main · City-of-Helsinki/drupal-infofinland](https://github.com/City-of-Helsinki/drupal-infofinland/blob/main/tools/commit-msg)
 - [code-review/base-conventions.yml at 1.x · openeuropa/code-review](https://github.com/openeuropa/code-review/blob/1.x/dist/base-conventions.yml)
 - [Run phpcs in ddev with Drupal standard on pre-commit](https://gist.github.com/bserem/75e82528d73ae125e286733e163443d8)
-- [alexpott/d8githooks: Drupal core committer git hooks](https://github.com/alexpott/d8githooks)
+- [alexpott/d8githooks: Drupal core committer Git hooks](https://github.com/alexpott/d8githooks)
 - [jover/drupal-code-check: A Git pre-commit hook to check Drupal Coding Standards and more.](https://github.com/jover/drupal-code-check)
 - [vijaycs85/drupal-quality-checker](https://github.com/vijaycs85/drupal-quality-checker)
 - [district09/php\_package\_qa-drupal: Digipolis QA for PHP](https://github.com/district09/php_package_qa-drupal)
-- [Hawkeye Tenderwolf / Automatically install a git pre-commit hook to enforce Drupal coding standards · GitLab](https://gitlab.com/hawkeye.twolf/drupal-standards-via-git)
+- [Hawkeye Tenderwolf / Automatically install a Git pre-commit hook to enforce Drupal coding standards · GitLab](https://gitlab.com/hawkeye.twolf/drupal-standards-via-git)
 - [drupol/drupal-conventions: Check (and fix) your code against Drupal's code conventions and coding standard.](https://github.com/drupol/drupal-conventions)
-- [andrewmriley/drupal-site-precommit: Scripts to have git check your commits for Drupal debugging code](https://github.com/andrewmriley/drupal-site-precommit)
+- [andrewmriley/drupal-site-precommit: Scripts to have Git check your commits for Drupal debugging code](https://github.com/andrewmriley/drupal-site-precommit)
 
 ### Robofile
 
@@ -503,7 +503,7 @@ Back to [TOC](#contents)
 - [Magic Robofile for Acquia sites](https://gist.github.com/dustinleblanc/f5aa553d702ade014b416dd6bfe31c2d)
 - [Robo tasks for drupal](https://gist.github.com/m7v/3c723f5458223293dac0)
 - [Deploy to Pantheon with Robo](https://gist.github.com/pbuyle/79c8fa1215e93926813f9e6a27af7ff2)
-- [integratedexperts/robo-git-artefact: Robo task to push git artefact to remote repository](https://github.com/integratedexperts/robo-git-artefact)
+- [integratedexperts/robo-git-artefact: Robo task to push Git artefact to remote repository](https://github.com/integratedexperts/robo-git-artefact)
 - [drupal8-github-actions/RoboFile.php at master · juampynr/drupal8-github-actions](https://github.com/juampynr/drupal8-github-actions/blob/master/RoboFile.php)
 - [amarie88/robo-drupal-coding: Drupal coding command for Robo Task Runner.](https://github.com/amarie88/robo-drupal-coding)
 - [robo-drupal/Tasks.php at production · thinkshout/robo-drupal](https://github.com/thinkshout/robo-drupal/blob/production/src/Tasks.php)
