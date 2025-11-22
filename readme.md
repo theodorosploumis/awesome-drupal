@@ -117,8 +117,8 @@ Back to [TOC](#contents)
 - [drupalatyourfingertips.com](https://www.drupalatyourfingertips.com)
 - [drupalbook.org](https://www.drupalbook.org) 
 - [Drupal 8 entity API, PDF](https://drupalbook.org/sites/default/files/drupal-content-entity-8.0.pdf)
-- [Drupal 7 to 8](http://nuvole.org/sites/default/files/Drupal-7-to-Drupal-8-Cheatsheet.pdf)
-- [Drupal 8 Configuration schema](http://www.hojtsy.hu/files/ConfigSchemaCheatSheet2.0.pdf)
+- [Drupal 7 to 8](https://nuvole.org/sites/default/files/Drupal-7-to-Drupal-8-Cheatsheet.pdf)
+- [Drupal 8 Configuration schema](https://www.hojtsy.hu/files/ConfigSchemaCheatSheet2.0.pdf)
 - [GitHub: flashvnn/drupal-snippets](https://github.com/flashvnn/drupal-snippets)
 - [GitHub: druman/drupal8-snippets](https://github.com/druman/drupal8-snippets)
 - [GitHub: daggerhart/drupal8_examples](https://github.com/daggerhart/drupal8_examples)
@@ -285,7 +285,7 @@ Back to [TOC](#contents)
 
 - [Drupal Community Events](https://www.drupal.org/community/events)
 - [Drupal Events](https://groups.drupal.org/events)
-- [Drupical.com](http://www.drupical.com)
+- [Drupical.com](https://www.drupical.com)
 - [thedroptimes.com/events](https://www.thedroptimes.com/events)
 
 <!--lint disable double-link-->
@@ -347,7 +347,7 @@ Back to [TOC](#contents)
 ## News
 
 - [Drupal Planet](https://www.drupal.org/planet)
-- [Theweeklydrop.com](http://www.theweeklydrop.com)
+- [Theweeklydrop.com](https://www.theweeklydrop.com)
 
 <!--lint disable double-link-->
 Back to [TOC](#contents)
@@ -355,7 +355,7 @@ Back to [TOC](#contents)
 
 ## Podcasts
 
-- [Talking Drupal](http://www.talkingdrupal.com)
+- [Talking Drupal](https://www.talkingdrupal.com)
 - [Lullabot Podcast](https://www.lullabot.com/podcasts)
 - [DrupalEasy Podcast](https://www.drupaleasy.com/podcast)
 
@@ -599,6 +599,6 @@ Back to [TOC](#contents)
 
 ## Footnotes
 
-Copyright disclaimer: Drupal is a [registered trademark](http://drupal.com/trademark) of [Dries Buytaert](http://buytaert.net/).
+Copyright disclaimer: Drupal is a [registered trademark](https://drupal.com/trademark) of [Dries Buytaert](https://buytaert.net/).
 
 Maintained since **2016**.
