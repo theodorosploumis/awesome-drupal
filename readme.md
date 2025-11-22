@@ -1,8 +1,4 @@
-# Awesome Drupal [![Awesome Badge](https://awesome.re/badge.svg)](https://awesome.re)<!-- omit from toc -->
-
-[![Links](https://github.com/theodorosploumis/awesome-drupal/actions/workflows/links.yml/badge.svg?branch=main)](https://github.com/theodorosploumis/awesome-drupal/actions/workflows/links.yml)
-
-[![Linting](https://github.com/theodorosploumis/awesome-drupal/actions/workflows/lint.yml/badge.svg?branch=main)](https://github.com/theodorosploumis/awesome-drupal/actions/workflows/lint.yml)
+# Awesome Drupal [![Awesome Badge](https://awesome.re/badge.svg)](https://awesome.re)<!-- omit from toc --> [![Links](https://github.com/theodorosploumis/awesome-drupal/actions/workflows/links.yml/badge.svg?branch=main)](https://github.com/theodorosploumis/awesome-drupal/actions/workflows/links.yml) [![Linting](https://github.com/theodorosploumis/awesome-drupal/actions/workflows/lint.yml/badge.svg?branch=main)](https://github.com/theodorosploumis/awesome-drupal/actions/workflows/lint.yml)
 
 [<img src="drupal.svg" align="right" height="50">](https://www.drupal.org/about)
 
