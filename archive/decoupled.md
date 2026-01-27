@@ -13,7 +13,6 @@
 - [Ember-atha-cliath, Decoupled Drupal and Ember](https://github.com/prestonso/ember-atha-cliath)
 - [Angular.js-based events calendar application, based on the headless/decoupled Drupal](https://github.com/idfive/UniCal)
 - [drupalionic - Headless Drupal cordova app using Drupal 7 services for angular and ionic](https://github.com/DrupalIonic/drupal-ionic)
-- [AngularJS frontend for decoupled Drupal 7.x experiment](https://github.com/j-hannah/decoupled-drupal-angular)
 - [Dangular - A progressively decoupled Angular 2 application proof of concept within Drupal 8](https://github.com/prestonso/dangular)
 - [Drupal 7.x distribution for creating decoupled content management user experiences](https://github.com/riouxtherefore/editr)
 - [Headless drupal 7.x, angular, ionic, cordova application](https://github.com/drogers98/HeadlessDrupalDemo)
