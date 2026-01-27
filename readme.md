@@ -218,8 +218,6 @@ Back to [TOC](#contents)
 
 For general comparisons see:
 
-- [similartech.com](https://www.similartech.com/categories/content-management-system) (Market share and technology usage stats)
-- [opensourcecms.com](https://www.opensourcecms.com) (CMS demos and reviews)
 - [Most Popular Free CMS Software Comparison - socialcompare.com](https://socialcompare.com/en/comparison/popular-content-management-system-cms-comparison-table) (CMS feature comparison table)
 - [YouTube - Talking Drupal #463 - Drupal vs DIY Site Builders, 2024/08](https://www.youtube.com/watch?v=aqUQG6IJZZw) (Video: Drupal vs DIY Site Builders)
 
@@ -238,8 +236,6 @@ For general comparisons see:
 - [DrupalCon Dublin 2016: How our competitors are kicking Drupal's ass (and what we can do about it)](https://www.youtube.com/watch?v=C-sXsu1r4_E) (Video: How competitors challenge Drupal)
 - [Drupal vs WordPress: The Team Approach to CMS Selection, acquia.com, 2020](https://www.acquia.com/blog/drupal-vs-wordpress-team-approach-cms-selection) (Team approach to CMS selection, 2020)
 - [Benefits of Drupal vs. Wordpress for Higher Education Institutions, acquia.com, 2019](https://www.acquia.com/blog/benefits-drupal-vs-wordpress-higher-education-institutions) (Benefits for higher education, 2019)
-- [similartech.com - Compare Drupal vs WordPress](https://www.similartech.com/compare/drupal-vs-wordpress) (Market share: Drupal vs WordPress)
-
 
 ### Drupal vs Magento
 
@@ -262,9 +258,6 @@ For general comparisons see:
 
 ### Drupal vs Sitecore
 
-- [Drupal vs Sitecore Part 1 - mediacurrent.com, 2017](https://web.archive.org/web/20210806041035/https://www.mediacurrent.com/blog/comparing-drupal-and-sitecore-part-1-2) (Part 1: Drupal vs Sitecore, 2017)
-- [Drupal vs Sitecore Part 2 - mediacurrent.com, 2017](https://web.archive.org/web/20210806044038/https://www.mediacurrent.com/blog/comparing-drupal-and-sitecore-part-2-2) (Part 2: Drupal vs Sitecore, 2017)
-- [Comparing CMS Platforms - Mediacurrent Whitepaper](https://drive.google.com/open?id=0B-_KJaqOE1dZb0tPUVVXLXREaHc) (Comparing CMS platforms)
 - [Drupal vs Sitecore - opensenselabs.com, 2018](https://opensenselabs.com/blog/articles/2018-drupal-vs-sitecore-comparison) (Drupal vs Sitecore, 2018)
 
 
@@ -296,7 +289,6 @@ Back to [TOC](#contents)
 
 - [Drupal.org - Media Kit](https://www.drupal.org/about/media-kit)
 - [Drupal.org - Strategic Initiatives Logos](https://www.drupal.org/association/blog/strategic-initiatives-now-have-logos)
-- [Drupal.org - Promote Drupal Material (Google Drive)](https://drive.google.com/drive/folders/1ZkRt80-XuEmAIka_w3SLv8stc4zlaFwG)
 - [theodorosploumis/drupal-glyphs](https://github.com/theodorosploumis/drupal-glyphs)
 
 <!--lint disable double-link-->
