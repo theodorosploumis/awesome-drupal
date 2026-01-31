@@ -591,6 +591,6 @@ Back to [TOC](#contents)
 
 ## Footnotes
 
-Copyright disclaimer: Drupal is a [registered trademark](https://drupal.com/trademark) of [Dries Buytaert](https://buytaert.net/).
+Copyright disclaimer: Drupal is a [registered trademark](https://www.drupal.org/about/trademark) of [Dries Buytaert](https://buytaert.net/).
 
 Maintained since **2016**.
