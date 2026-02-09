@@ -268,7 +268,7 @@ For general comparisons see:
 
 ### Drupal vs Umbraco
 
-- [CMS Comparison 2018: Drupal vs Umbraco - opensenselabs.com](https://opensenselabs.com/blog/articles/cms-comparison-2018-drupal-vs-umbraco) (Drupal vs Umbraco, 2018)
+- [CMS Comparison 2019: Drupal vs Umbraco - opensenselabs.com](https://opensenselabs.com/blog/cms-comparison-2019-drupal-vs-umbraco) (Drupal vs Umbraco, 2019)
 
 <!--lint disable double-link-->
 Back to [TOC](#contents)
