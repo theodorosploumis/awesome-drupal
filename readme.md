@@ -236,6 +236,7 @@ For general comparisons see:
 - [DrupalCon Dublin 2016: How our competitors are kicking Drupal's ass (and what we can do about it)](https://www.youtube.com/watch?v=C-sXsu1r4_E) (Video: How competitors challenge Drupal)
 - [Drupal vs WordPress: The Team Approach to CMS Selection, acquia.com, 2020](https://www.acquia.com/blog/drupal-vs-wordpress-team-approach-cms-selection) (Team approach to CMS selection, 2020)
 - [Benefits of Drupal vs. Wordpress for Higher Education Institutions, acquia.com, 2019](https://www.acquia.com/blog/benefits-drupal-vs-wordpress-higher-education-institutions) (Benefits for higher education, 2019)
+- [WordPress vs Drupal – Comparing 5 Key Tools and Their Equivalents, 2026, droptica.com](https://www.droptica.com/blog/wordpress-vs-drupal-comparing-5-key-tools-and-their-equivalents)
 
 ### Drupal vs Magento
 
