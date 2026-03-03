@@ -572,6 +572,7 @@ Back to [TOC](#contents)
 - <https://www.linkedin.com/company/drupal-project>
 - <https://www.youtube.com/c/DrupalAssociation>
 - <https://www.facebook.com/DrupalOpenSource>
+- <https://bsky.app/profile/drupalassociation.bsky.social>
 
 <!--lint disable double-link-->
 Back to [TOC](#contents)
