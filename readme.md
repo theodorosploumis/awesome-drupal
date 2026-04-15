@@ -69,8 +69,10 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
 
 ## AI
 
+- [AJV009/awesome-drupal-ai](https://github.com/AJV009/awesome-drupal-ai) - A collection of AI related stuff for Drupal
 - [Drupal AI](https://www.drupal.org/project/ai) - Integrates generative AI services into Drupal.
 - [Drupal AI Initiative](https://www.drupal.org/about/starshot/initiatives/ai) - Starshot initiative exploring AI capabilities in Drupal.
+- [Drupal AI Learners Club](https://www.drupal.org/about/initiatives/ai/drupal-ai-learners-club) - Chat and talks about using AI with Drupal
 - [AI Initiative project](https://www.drupal.org/project/ai_initiative) - Hub for collaboration around AI features.
 - [Drupal AI landing page](https://new.drupal.org/ai) - Overview of Drupal's AI efforts.
 
