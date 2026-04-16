@@ -179,6 +179,7 @@ Back to [TOC](#contents)
 - [Comparison of Contributed Modules](https://www.drupal.org/docs/comparison-of-contributed-modules)
 - [Drupal.org web sites overview](https://www.drupal.org/drupalorg/docs/drupalorg-web-sites-overview)
 - [Project usage overview](https://www.drupal.org/project/usage)
+- [REST API docs for Drupal.org](https://www.drupal.org/drupalorg/docs/apis/rest-and-other-apis)
 
 ### LTS old versions
 
