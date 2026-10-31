@@ -344,6 +344,7 @@ Back to [TOC](#contents)
 
 - [Drupal Planet](https://www.drupal.org/planet)
 - [Theweeklydrop.com](https://www.theweeklydrop.com)
+- [La semana PHP](https://www.lasemanaphp.com/temas/drupal/) - Weekly newsletter in Spanish about PHP; this page collects every link it has shared on the topic.
 
 <!--lint disable double-link-->
 Back to [TOC](#contents)
