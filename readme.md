@@ -517,6 +517,7 @@ Back to [TOC](#contents)
 - [dgo.to - Drupal projects url shortener](https://dgo.to)
 - [Drupal.org - Development tools overview](https://www.drupal.org/node/147789)
 - [GitHub.com/topics/drupal](https://github.com/topics/drupal)
+- [beingRealFrank/liftpatch-scan](https://github.com/beingRealFrank/liftpatch-scan) - Command line tool and GitHub Action that report which Composer packages block the next major core version, with a fixed upgrade quote.
 
 <!--lint disable double-link-->
 Back to [TOC](#contents)
